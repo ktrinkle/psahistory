@@ -39,13 +39,14 @@
         <div class="modal-content text-bg-dark">
             <div class="modal-body m-0">
                 <div id="gallery-large" class="carousel slide">
+                    {# <button type="button" class="btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button> #}
                     <div class="carousel-inner">
-                        {% for image in collections.all[0].data[ collectionName ] %}
+                        <button type="button" class="btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button>
+                       {% for image in collections.all[0].data[ collectionName ] %}
                         <div class="carousel-item {% if loop.index0 == 0 %}active{% endif %}"><!-- add javascript logic-->
                             <img src="{{ image.pathToRoot}}{{ image.outputDir }}/{{ image.src }}" class="object-fit-contain" alt="{{ image.alt }}">
                         </div>
-                        {% endfor %}
-                    <button type="button" class="btn-close z-3" data-bs-dismiss="modal" aria-label="Close"></button>
+                        {% endfor %}                      
                     </div>
                     <button class="carousel-control-prev" type="button" data-bs-target="#gallery-large" data-bs-slide="prev">
                         <span class="carousel-control-prev-icon" aria-hidden="true"></span>

@@ -107,3 +107,14 @@ body {
     height: 85vh;
     top: 7.5vh;
 }
+  
+.modal-body .btn-close-white {
+    position: absolute;
+    top: 5px;
+    right: 25px;
+    font-size: 60px;
+    font-weight: bolder;
+    // transition: 0.3s;
+    z-index: 1100!important;
+    // opacity: 0.6;
+}

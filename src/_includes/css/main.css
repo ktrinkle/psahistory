@@ -12236,7 +12236,17 @@ body {
 }
 
 .carousel-control-prev, .carousel-control-next {
-  height: 85%;
+  height: 85vh;
+  top: 7.5vh;
+}
+
+.modal-body .btn-close-white {
+  position: absolute;
+  top: 5px;
+  right: 25px;
+  font-size: 60px;
+  font-weight: bolder;
+  z-index: 1100 !important;
 }
 
 /*# sourceMappingURL=main.css.map */
