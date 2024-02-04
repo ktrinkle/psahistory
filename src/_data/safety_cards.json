@@ -1,0 +1,392 @@
+[
+  {
+    "title": "727-100 Safety Card, undated (front) (Chris Laborde)",
+    "src": "7271000001.jpg",
+    "tags": "safety_cards",
+    "alt": "727-100 Safety Card, undated (front) (Chris Laborde)",
+    "imgDir": "./src/images/safety_cards/",
+    "outputDir": "/images/safety_cards",
+    "pathToRoot": "../../..",
+    "credit": "Collection of Chris Laborde"
+  },
+  {
+    "title": "727-100 Safety Card, 1968 (front)",
+    "src": "sc-72710068a.jpg",
+    "tags": "safety_cards",
+    "alt": "727-100 Safety Card, 1968 (front)",
+    "imgDir": "./src/images/safety_cards/",
+    "outputDir": "/images/safety_cards",
+    "pathToRoot": "../../..",
+    "credit": "Collection of Kevin Trinkle"
+  },
+  {
+    "title": "727-100 Safety Card, 1968 (back)",
+    "src": "sc-72710068.jpg",
+    "tags": "safety_cards",
+    "alt": "727-100 Safety Card, 1968 (back)",
+    "imgDir": "./src/images/safety_cards/",
+    "outputDir": "/images/safety_cards",
+    "pathToRoot": "../../..",
+    "credit": "Collection of Kevin Trinkle"
+  },
+  {
+    "title": "727-100 Safety Card, 1975 (front)  (Chris Laborde)",
+    "src": "7271007511.jpg",
+    "tags": "safety_cards",
+    "alt": "727-100 Safety Card, 1975 (front)  (Chris Laborde)",
+    "imgDir": "./src/images/safety_cards/",
+    "outputDir": "/images/safety_cards",
+    "pathToRoot": "../../..",
+    "credit": "Collection of Chris Labordee"
+  },
+  {
+    "title": "727-100 Safety Card, 1976 (front) (Chris Laborde)",
+    "src": "7271007605.jpg",
+    "tags": "safety_cards",
+    "alt": "727-100 Safety Card, 1976 (front) (Chris Laborde)",
+    "imgDir": "./src/images/safety_cards/",
+    "outputDir": "/images/safety_cards",
+    "pathToRoot": "../../..",
+    "credit": "Collection of Chris Laborde"
+  },
+  {
+    "title": "727-100 Safety Card, 1979 #1 (front) (Chris Laborde)",
+    "src": "7271007902.jpg",
+    "tags": "safety_cards",
+    "alt": "727-100 Safety Card, 1979 #1 (front) (Chris Laborde)",
+    "imgDir": "./src/images/safety_cards/",
+    "outputDir": "/images/safety_cards",
+    "pathToRoot": "../../..",
+    "credit": "Collection of Chris Laborde"
+  },
+  {
+    "title": "727-100 Safety Card, 1979 #2 (front) (Chris Laborde)",
+    "src": "7271007902b.jpg",
+    "tags": "safety_cards",
+    "alt": "727-100 Safety Card, 1979 #2 (front) (Chris Laborde)",
+    "imgDir": "./src/images/safety_cards/",
+    "outputDir": "/images/safety_cards",
+    "pathToRoot": "../../..",
+    "credit": "Collection of Chris Laborde"
+  },
+  {
+    "title": "727-100 Safety Card, 1980 (Front) (Chris Laborde)",
+    "src": "7271008003.jpg",
+    "tags": "safety_cards",
+    "alt": "727-100 Safety Card, 1980 (Front) (Chris Laborde)",
+    "imgDir": "./src/images/safety_cards/",
+    "outputDir": "/images/safety_cards",
+    "pathToRoot": "../../..",
+    "credit": "Collection of Chris Laborde"
+  },
+  {
+    "title": "727-100 Safety Card, 1982 (Front) (Chris Laborde)",
+    "src": "7272008207.jpg",
+    "tags": "safety_cards",
+    "alt": "727-100 Safety Card, 1982 (Front) (Chris Laborde)",
+    "imgDir": "./src/images/safety_cards/",
+    "outputDir": "/images/safety_cards",
+    "pathToRoot": "../../..",
+    "credit": "Collection of Chris Laborde"
+  },
+  {
+    "title": "727-200 Safety Card, 1968 (front)",
+    "src": "727card681.jpg",
+    "tags": "safety_cards",
+    "alt": "727-200 Safety Card, 1968 (front)",
+    "imgDir": "./src/images/safety_cards/",
+    "outputDir": "/images/safety_cards",
+    "pathToRoot": "../../..",
+    "credit": "Collection of Kevin Trinkle"
+  },
+  {
+    "title": "727-200 Safety Card, 1968 (back)",
+    "src": "7272card682.jpg",
+    "tags": "safety_cards",
+    "alt": "727-200 Safety Card, 1968 (back)",
+    "imgDir": "./src/images/safety_cards/",
+    "outputDir": "/images/safety_cards",
+    "pathToRoot": "../../..",
+    "credit": "Collection of Kevin Trinkle"
+  },
+  {
+    "title": "727-200 Safety Card, 1972 (front)",
+    "src": "sc-727272a.jpg",
+    "tags": "safety_cards",
+    "alt": "727-200 Safety Card, 1972 (front)",
+    "imgDir": "./src/images/safety_cards/",
+    "outputDir": "/images/safety_cards",
+    "pathToRoot": "../../..",
+    "credit": "Collection of Kevin Trinkle"
+  },
+  {
+    "title": "727-200 Safety Card, 1972 (back)",
+    "src": "sc-727272b.jpg",
+    "tags": "safety_cards",
+    "alt": "727-200 Safety Card, 1972 (back)",
+    "imgDir": "./src/images/safety_cards/",
+    "outputDir": "/images/safety_cards",
+    "pathToRoot": "../../..",
+    "credit": "Collection of Kevin Trinkle"
+  },
+  {
+    "title": "727-200 Safety Card, 1975 (front) (Chris Laborde)",
+    "src": "7272007511.jpg",
+    "tags": "safety_cards",
+    "alt": "727-200 Safety Card, 1975 (front) (Chris Laborde)",
+    "imgDir": "./src/images/safety_cards/",
+    "outputDir": "/images/safety_cards",
+    "pathToRoot": "../../..",
+    "credit": "Collection of Chris Laborde"
+  },
+  {
+    "title": "727-200 Safety Card, March 1976 (Front) (Chris Laborde)",
+    "src": "7272007603.jpg",
+    "tags": "safety_cards",
+    "alt": "727-200 Safety Card, March 1976 (Front) (Chris Laborde)",
+    "imgDir": "./src/images/safety_cards/",
+    "outputDir": "/images/safety_cards",
+    "pathToRoot": "../../..",
+    "credit": "Collection of Chris Laborde"
+  },
+  {
+    "title": "727-200 Safety Card, May 1976 (Front) (Chris Laborde)",
+    "src": "7272007605.jpg",
+    "tags": "safety_cards",
+    "alt": "727-200 Safety Card, May 1976 (Front) (Chris Laborde)",
+    "imgDir": "./src/images/safety_cards/",
+    "outputDir": "/images/safety_cards",
+    "pathToRoot": "../../..",
+    "credit": "Collection of Chris Laborde"
+  },
+  {
+    "title": "727-200 Safety Card, March 1979 (Front) (Chris Laborde)",
+    "src": "7272007902.jpg",
+    "tags": "safety_cards",
+    "alt": "727-200 Safety Card, March 1979 (Front) (Chris Laborde)",
+    "imgDir": "./src/images/safety_cards/",
+    "outputDir": "/images/safety_cards",
+    "pathToRoot": "../../..",
+    "credit": "Collection of Chris Laborde"
+  },
+  {
+    "title": "727-200 Safety Card, August 1979 (Front) (Chris Laborde)",
+    "src": "7272007908.jpg",
+    "tags": "safety_cards",
+    "alt": "727-200 Safety Card, August 1979 (Front) (Chris Laborde)",
+    "imgDir": "./src/images/safety_cards/",
+    "outputDir": "/images/safety_cards",
+    "pathToRoot": "../../..",
+    "credit": "Collection of Chris Laborde"
+  },
+  {
+    "title": "727-200 Safety Card, 1980 (inside)",
+    "src": "sc-72780i.jpg",
+    "tags": "safety_cards",
+    "alt": "727-200 Safety Card, 1980 (inside)",
+    "imgDir": "./src/images/safety_cards/",
+    "outputDir": "/images/safety_cards",
+    "pathToRoot": "../../..",
+    "credit": "Collection of Kevin Trinkle"
+  },
+  {
+    "title": "727-200 Safety Card, 1980 (outside)",
+    "src": "sc-72780o.jpg",
+    "tags": "safety_cards",
+    "alt": "727-200 Safety Card, 1980 (outside)",
+    "imgDir": "./src/images/safety_cards/",
+    "outputDir": "/images/safety_cards",
+    "pathToRoot": "../../..",
+    "credit": "Collection of Kevin Trinkle"
+  },
+  {
+    "title": "727-200 Safety Card, 1982 (inside)",
+    "src": "sc-72782i.jpg",
+    "tags": "safety_cards",
+    "alt": "727-200 Safety Card, 1982 (inside)",
+    "imgDir": "./src/images/safety_cards/",
+    "outputDir": "/images/safety_cards",
+    "pathToRoot": "../../..",
+    "credit": "Collection of Kevin Trinkle"
+  },
+  {
+    "title": "727-200 Safety Card, 1982 (outside)",
+    "src": "sc-72782o.jpg",
+    "tags": "safety_cards",
+    "alt": "727-200 Safety Card, 1982 (outside)",
+    "imgDir": "./src/images/safety_cards/",
+    "outputDir": "/images/safety_cards",
+    "pathToRoot": "../../..",
+    "credit": "Collection of Kevin Trinkle"
+  },
+  {
+    "title": "737-200 Safety Card, 1968 (front)",
+    "src": "sc-737681.jpg",
+    "tags": "safety_cards",
+    "alt": "737-200 Safety Card, 1968 (front)",
+    "imgDir": "./src/images/safety_cards/",
+    "outputDir": "/images/safety_cards",
+    "pathToRoot": "../../..",
+    "credit": "Collection of Kevin Trinkle"
+  },
+  {
+    "title": "737-200 Safety Card, 1972 (front) (Chris Laborde)",
+    "src": "7372007209.jpg",
+    "tags": "safety_cards",
+    "alt": "737-200 Safety Card, 1972 (front) (Chris Laborde)",
+    "imgDir": "./src/images/safety_cards/",
+    "outputDir": "/images/safety_cards",
+    "pathToRoot": "../../..",
+    "credit": "Collection of Chris Laborde"
+  },
+  {
+    "title": "Bae-146 Safety Card, 1984 (inside)",
+    "src": "sc-14684i.jpg",
+    "tags": "safety_cards",
+    "alt": "Bae-146 Safety Card, 1984 (inside)",
+    "imgDir": "./src/images/safety_cards/",
+    "outputDir": "/images/safety_cards",
+    "pathToRoot": "../../..",
+    "credit": "Collection of Kevin Trinkle"
+  },
+  {
+    "title": "Bae-146 Safety Card, 1984 (outside)",
+    "src": "sc-14684o.jpg",
+    "tags": "safety_cards",
+    "alt": "Bae-146 Safety Card, 1984 (outside)",
+    "imgDir": "./src/images/safety_cards/",
+    "outputDir": "/images/safety_cards",
+    "pathToRoot": "../../..",
+    "credit": "Collection of Kevin Trinkle"
+  },
+  {
+    "title": "Bae-146 Safety Card, 1986 (inside)",
+    "src": "sc-146i.jpg",
+    "tags": "safety_cards",
+    "alt": "Bae-146 Safety Card, 1986 (inside)",
+    "imgDir": "./src/images/safety_cards/",
+    "outputDir": "/images/safety_cards",
+    "pathToRoot": "../../..",
+    "credit": "Collection of Kevin Trinkle"
+  },
+  {
+    "title": "Bae-146 Safety Card, 1986 (outside)",
+    "src": "sc-146o.jpg",
+    "tags": "safety_cards",
+    "alt": "Bae-146 Safety Card, 1986 (outside)",
+    "imgDir": "./src/images/safety_cards/",
+    "outputDir": "/images/safety_cards",
+    "pathToRoot": "../../..",
+    "credit": "Collection of Kevin Trinkle"
+  },
+  {
+    "title": "DC-9 Safety Card, 1968 (Front) (Chris Laborde)",
+    "src": "dc96806.jpg",
+    "tags": "safety_cards",
+    "alt": "DC-9 Safety Card, 1968 (Front) (Chris Laborde)",
+    "imgDir": "./src/images/safety_cards/",
+    "outputDir": "/images/safety_cards",
+    "pathToRoot": "../../..",
+    "credit": "Collection of Chris Laborde"
+  },
+  {
+    "title": "DC-9 Safety Card, 1983 (inside)",
+    "src": "sc-dc983i.jpg",
+    "tags": "safety_cards",
+    "alt": "DC-9 Safety Card, 1983 (inside)",
+    "imgDir": "./src/images/safety_cards/",
+    "outputDir": "/images/safety_cards",
+    "pathToRoot": "../../..",
+    "credit": "Collection of Kevin Trinkle"
+  },
+  {
+    "title": "DC-9 Safety Card, 1983 (outside)",
+    "src": "sc-dc983o.jpg",
+    "tags": "safety_cards",
+    "alt": "DC-9 Safety Card, 1983 (outside)",
+    "imgDir": "./src/images/safety_cards/",
+    "outputDir": "/images/safety_cards",
+    "pathToRoot": "../../..",
+    "credit": "Collection of Kevin Trinkle"
+  },
+  {
+    "title": "Lockheed Electra Safety Card, March 1975 (Front) (Chris Laborde)",
+    "src": "electra7503.jpg",
+    "tags": "safety_cards",
+    "alt": "Lockheed Electra Safety Card, March 1975 (Front) (Chris Laborde)",
+    "imgDir": "./src/images/safety_cards/",
+    "outputDir": "/images/safety_cards",
+    "pathToRoot": "../../..",
+    "credit": "Collection of Chris Laborde"
+  },
+  {
+    "title": "L-1011 Safety Card (front)",
+    "src": "1011carf.jpg",
+    "tags": "safety_cards",
+    "alt": "L-1011 Safety Card (front)",
+    "imgDir": "./src/images/safety_cards/",
+    "outputDir": "/images/safety_cards",
+    "pathToRoot": "../../..",
+    "credit": "Collection of Kevin Trinkle"
+  },
+  {
+    "title": "L-1011 Safety Card (back)",
+    "src": "1011carb.jpg",
+    "tags": "safety_cards",
+    "alt": "L-1011 Safety Card (back)",
+    "imgDir": "./src/images/safety_cards/",
+    "outputDir": "/images/safety_cards",
+    "pathToRoot": "../../..",
+    "credit": "Collection of Kevin Trinkle"
+  },
+  {
+    "title": "Super 80 Safety Card, 1980 (front) (Chris Laborde)",
+    "src": "md808009.jpg",
+    "tags": "safety_cards",
+    "alt": "Super 80 Safety Card, 1980 (front) (Chris Laborde)",
+    "imgDir": "./src/images/safety_cards/",
+    "outputDir": "/images/safety_cards",
+    "pathToRoot": "../../..",
+    "credit": "Collection of Chris Laborde"
+  },
+  {
+    "title": "Super 80 Safety Card, 1982 (inside)",
+    "src": "sc-m8082i.jpg",
+    "tags": "safety_cards",
+    "alt": "Super 80 Safety Card, 1982 (inside)",
+    "imgDir": "./src/images/safety_cards/",
+    "outputDir": "/images/safety_cards",
+    "pathToRoot": "../../..",
+    "credit": "Collection of Kevin Trinkle"
+  },
+  {
+    "title": "Super 80 Safety Card, 1982 (outside)",
+    "src": "sc-m8082o.jpg",
+    "tags": "safety_cards",
+    "alt": "Super 80 Safety Card, 1982 (outside)",
+    "imgDir": "./src/images/safety_cards/",
+    "outputDir": "/images/safety_cards",
+    "pathToRoot": "../../..",
+    "credit": "Collection of Kevin Trinkle"
+  },
+  {
+    "title": "Super 80 Safety Card, 1986 (inside)",
+    "src": "sc-m8086i.jpg",
+    "tags": "safety_cards",
+    "alt": "Super 80 Safety Card, 1986 (inside)",
+    "imgDir": "./src/images/safety_cards/",
+    "outputDir": "/images/safety_cards",
+    "pathToRoot": "../../..",
+    "credit": "Collection of Kevin Trinkle"
+  },
+  {
+    "title": "Super 80 Safety Card, 1986 (outside)",
+    "src": "sc-m8086o.jpg",
+    "tags": "safety_cards",
+    "alt": "Super 80 Safety Card, 1986 (outside)",
+    "imgDir": "./src/images/safety_cards/",
+    "outputDir": "/images/safety_cards",
+    "pathToRoot": "../../..",
+    "credit": "Collection of Kevin Trinkle"
+  }
+]

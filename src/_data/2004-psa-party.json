@@ -1,0 +1,72 @@
+[
+  {
+    "title": "2004 PSA Party #1",
+    "src": "carol.jpg",
+    "tags": "2004",
+    "date": "September 24, 2004", 
+    "alt": "2004 PSA Party #1",
+    "imgDir": "./src/images/party_2004/",
+    "outputDir": "/images/party_2004",
+    "pathToRoot": "../../.."
+  },
+  {
+    "title": "2004 PSA Party #2",
+    "src": "dave.jpg",
+    "tags": "2004",
+    "date": "September 24, 2004", 
+    "alt": "2004 PSA Party #2",
+    "imgDir": "./src/images/party_2004/",
+    "outputDir": "/images/party_2004",
+    "pathToRoot": "../../.."
+  },
+  {
+    "title": "2004 PSA Party #3",
+    "src": "char.jpg",
+    "tags": "2004",
+    "date": "September 24, 2004", 
+    "alt": "2004 PSA Party #3",
+    "imgDir": "./src/images/party_2004/",
+    "outputDir": "/images/party_2004",
+    "pathToRoot": "../../.."
+  },
+  {
+    "title": "2004 PSA Party #4",
+    "src": "cynthia.jpg",
+    "tags": "2004",
+    "date": "September 24, 2004", 
+    "alt": "2004 PSA Party #4",
+    "imgDir": "./src/images/party_2004/",
+    "outputDir": "/images/party_2004",
+    "pathToRoot": "../../.."
+  },
+  {
+    "title": "2004 PSA Party #5",
+    "src": "david.jpg",
+    "tags": "2004",
+    "date": "September 24, 2004", 
+    "alt": "2004 PSA Party #5",
+    "imgDir": "./src/images/party_2004/",
+    "outputDir": "/images/party_2004",
+    "pathToRoot": "../../.."
+  },
+  {
+    "title": "2004 PSA Party #6",
+    "src": "lorraine.jpg",
+    "tags": "2004",
+    "date": "September 24, 2004", 
+    "alt": "2004 PSA Party #6",
+    "imgDir": "./src/images/party_2004/",
+    "outputDir": "/images/party_2004",
+    "pathToRoot": "../../.."
+  },
+  {
+    "title": "2004 PSA Party #7",
+    "src": "marygroup2.jpg",
+    "tags": "2004",
+    "date": "September 24, 2004", 
+    "alt": "2004 PSA Party #7",
+    "imgDir": "./src/images/party_2004/",
+    "outputDir": "/images/party_2004",
+    "pathToRoot": "../../.."
+  }
+]

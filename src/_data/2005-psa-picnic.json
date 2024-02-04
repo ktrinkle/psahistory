@@ -1,0 +1,872 @@
+[
+  {
+    "title": "2005 PSA Picnic #1",
+    "src": "3-dsc04882.jpg",
+    "tags": "2005",
+    "alt": "2005 PSA Picnic #1",
+    "imgDir": "./src/images/picnic_2005/",
+    "outputDir": "/images/picnic_2005",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Kay Olson"
+  },
+  {
+    "title": "2005 PSA Picnic #2",
+    "src": "4-dsc04883.jpg",
+    "tags": "2005",
+    "alt": "2005 PSA Picnic #2",
+    "imgDir": "./src/images/picnic_2005/",
+    "outputDir": "/images/picnic_2005",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Kay Olson"
+  },
+  {
+    "title": "2005 PSA Picnic #3",
+    "src": "5-dsc04884.jpg",
+    "tags": "2005",
+    "alt": "2005 PSA Picnic #3",
+    "imgDir": "./src/images/picnic_2005/",
+    "outputDir": "/images/picnic_2005",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Kay Olson"
+  },
+  {
+    "title": "2005 PSA Picnic #4",
+    "src": "7-dsc04886.jpg",
+    "tags": "2005",
+    "alt": "2005 PSA Picnic #4",
+    "imgDir": "./src/images/picnic_2005/",
+    "outputDir": "/images/picnic_2005",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Kay Olson"
+  },
+  {
+    "title": "2005 PSA Picnic #5",
+    "src": "8-dsc04887.jpg",
+    "tags": "2005",
+    "alt": "2005 PSA Picnic #5",
+    "imgDir": "./src/images/picnic_2005/",
+    "outputDir": "/images/picnic_2005",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Kay Olson"
+  },
+  {
+    "title": "2005 PSA Picnic #6",
+    "src": "9-dsc04888.jpg",
+    "tags": "2005",
+    "alt": "2005 PSA Picnic #6",
+    "imgDir": "./src/images/picnic_2005/",
+    "outputDir": "/images/picnic_2005",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Kay Olson"
+  },
+  {
+    "title": "2005 PSA Picnic #7",
+    "src": "10-dsc04889.jpg",
+    "tags": "2005",
+    "alt": "2005 PSA Picnic #7",
+    "imgDir": "./src/images/picnic_2005/",
+    "outputDir": "/images/picnic_2005",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Kay Olson"
+  },
+  {
+    "title": "2005 PSA Picnic #8",
+    "src": "11-dsc04890.jpg",
+    "tags": "2005",
+    "alt": "2005 PSA Picnic #8",
+    "imgDir": "./src/images/picnic_2005/",
+    "outputDir": "/images/picnic_2005",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Kay Olson"
+  },
+  {
+    "title": "2005 PSA Picnic #9",
+    "src": "12-dsc04891.jpg",
+    "tags": "2005",
+    "alt": "2005 PSA Picnic #9",
+    "imgDir": "./src/images/picnic_2005/",
+    "outputDir": "/images/picnic_2005",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Kay Olson"
+  },
+  {
+    "title": "2005 PSA Picnic #10",
+    "src": "14-dsc04893.jpg",
+    "tags": "2005",
+    "alt": "2005 PSA Picnic #10",
+    "imgDir": "./src/images/picnic_2005/",
+    "outputDir": "/images/picnic_2005",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Kay Olson"
+  },
+  {
+    "title": "2005 PSA Picnic #11",
+    "src": "16-dsc04895.jpg",
+    "tags": "2005",
+    "alt": "2005 PSA Picnic #11",
+    "imgDir": "./src/images/picnic_2005/",
+    "outputDir": "/images/picnic_2005",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Kay Olson"
+  },
+  {
+    "title": "2005 PSA Picnic #12",
+    "src": "17-dsc04896.jpg",
+    "tags": "2005",
+    "alt": "2005 PSA Picnic #12",
+    "imgDir": "./src/images/picnic_2005/",
+    "outputDir": "/images/picnic_2005",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Kay Olson"
+  },
+  {
+    "title": "2005 PSA Picnic #13",
+    "src": "18-dsc04897.jpg",
+    "tags": "2005",
+    "alt": "2005 PSA Picnic #13",
+    "imgDir": "./src/images/picnic_2005/",
+    "outputDir": "/images/picnic_2005",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Kay Olson"
+  },
+  {
+    "title": "2005 PSA Picnic #14",
+    "src": "19-dsc04898.jpg",
+    "tags": "2005",
+    "alt": "2005 PSA Picnic #14",
+    "imgDir": "./src/images/picnic_2005/",
+    "outputDir": "/images/picnic_2005",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Kay Olson"
+  },
+  {
+    "title": "2005 PSA Picnic #15",
+    "src": "20-dsc04899.jpg",
+    "tags": "2005",
+    "alt": "2005 PSA Picnic #15",
+    "imgDir": "./src/images/picnic_2005/",
+    "outputDir": "/images/picnic_2005",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Kay Olson"
+  },
+  {
+    "title": "2005 PSA Picnic #16",
+    "src": "21-dsc04900.jpg",
+    "tags": "2005",
+    "alt": "2005 PSA Picnic #16",
+    "imgDir": "./src/images/picnic_2005/",
+    "outputDir": "/images/picnic_2005",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Kay Olson"
+  },
+  {
+    "title": "2005 PSA Picnic #17",
+    "src": "22-dsc04901.jpg",
+    "tags": "2005",
+    "alt": "2005 PSA Picnic #17",
+    "imgDir": "./src/images/picnic_2005/",
+    "outputDir": "/images/picnic_2005",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Kay Olson"
+  },
+  {
+    "title": "2005 PSA Picnic #18",
+    "src": "23-dsc04902.jpg",
+    "tags": "2005",
+    "alt": "2005 PSA Picnic #18",
+    "imgDir": "./src/images/picnic_2005/",
+    "outputDir": "/images/picnic_2005",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Kay Olson"
+  },
+  {
+    "title": "2005 PSA Picnic #19",
+    "src": "24-dsc04903.jpg",
+    "tags": "2005",
+    "alt": "2005 PSA Picnic #19",
+    "imgDir": "./src/images/picnic_2005/",
+    "outputDir": "/images/picnic_2005",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Kay Olson"
+  },
+  {
+    "title": "2005 PSA Picnic #20",
+    "src": "26-89090586_1000.jpg",
+    "tags": "2005",
+    "alt": "2005 PSA Picnic #20",
+    "imgDir": "./src/images/picnic_2005/",
+    "outputDir": "/images/picnic_2005",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Kay Olson"
+  },
+  {
+    "title": "2005 PSA Picnic #21",
+    "src": "27-89088332_1000.jpg",
+    "tags": "2005",
+    "alt": "2005 PSA Picnic #21",
+    "imgDir": "./src/images/picnic_2005/",
+    "outputDir": "/images/picnic_2005",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Kay Olson"
+  },
+  {
+    "title": "2005 PSA Picnic #22",
+    "src": "28-89088333_1000.jpg",
+    "tags": "2005",
+    "alt": "2005 PSA Picnic #22",
+    "imgDir": "./src/images/picnic_2005/",
+    "outputDir": "/images/picnic_2005",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Kay Olson"
+  },
+  {
+    "title": "2005 PSA Picnic #23",
+    "src": "29-89089313_1000.jpg",
+    "tags": "2005",
+    "alt": "2005 PSA Picnic #23",
+    "imgDir": "./src/images/picnic_2005/",
+    "outputDir": "/images/picnic_2005",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Kay Olson"
+  },
+  {
+    "title": "2005 PSA Picnic #24",
+    "src": "30-89089792_1000.jpg",
+    "tags": "2005",
+    "alt": "2005 PSA Picnic #24",
+    "imgDir": "./src/images/picnic_2005/",
+    "outputDir": "/images/picnic_2005",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Kay Olson"
+  },
+  {
+    "title": "2005 PSA Picnic #25",
+    "src": "31-89090464_1000.jpg",
+    "tags": "2005",
+    "alt": "2005 PSA Picnic #25",
+    "imgDir": "./src/images/picnic_2005/",
+    "outputDir": "/images/picnic_2005",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Kay Olson"
+  },
+  {
+    "title": "2005 PSA Picnic #26",
+    "src": "32-89090768_1000.jpg",
+    "tags": "2005",
+    "alt": "2005 PSA Picnic #26",
+    "imgDir": "./src/images/picnic_2005/",
+    "outputDir": "/images/picnic_2005",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Kay Olson"
+  },
+  {
+    "title": "2005 PSA Picnic #27",
+    "src": "33-89090288_1000.jpg",
+    "tags": "2005",
+    "alt": "2005 PSA Picnic #27",
+    "imgDir": "./src/images/picnic_2005/",
+    "outputDir": "/images/picnic_2005",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Kay Olson"
+  },
+  {
+    "title": "2005 PSA Picnic #28",
+    "src": "34-dsc04913.jpg",
+    "tags": "2005",
+    "alt": "2005 PSA Picnic #28",
+    "imgDir": "./src/images/picnic_2005/",
+    "outputDir": "/images/picnic_2005",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Kay Olson"
+  },
+  {
+    "title": "2005 PSA Picnic #29",
+    "src": "35-dsc04914.jpg",
+    "tags": "2005",
+    "alt": "2005 PSA Picnic #29",
+    "imgDir": "./src/images/picnic_2005/",
+    "outputDir": "/images/picnic_2005",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Kay Olson"
+  },
+  {
+    "title": "2005 PSA Picnic #30",
+    "src": "36-dsc04915.jpg",
+    "tags": "2005",
+    "alt": "2005 PSA Picnic #30",
+    "imgDir": "./src/images/picnic_2005/",
+    "outputDir": "/images/picnic_2005",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Kay Olson"
+  },
+  {
+    "title": "2005 PSA Picnic #31",
+    "src": "38-dsc04917.jpg",
+    "tags": "2005",
+    "alt": "2005 PSA Picnic #31",
+    "imgDir": "./src/images/picnic_2005/",
+    "outputDir": "/images/picnic_2005",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Kay Olson"
+  },
+  {
+    "title": "2005 PSA Picnic #32",
+    "src": "39-dsc04918.jpg",
+    "tags": "2005",
+    "alt": "2005 PSA Picnic #32",
+    "imgDir": "./src/images/picnic_2005/",
+    "outputDir": "/images/picnic_2005",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Kay Olson"
+  },
+  {
+    "title": "2005 PSA Picnic #33",
+    "src": "40-dsc04919.jpg",
+    "tags": "2005",
+    "alt": "2005 PSA Picnic #33",
+    "imgDir": "./src/images/picnic_2005/",
+    "outputDir": "/images/picnic_2005",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Kay Olson"
+  },
+  {
+    "title": "2005 PSA Picnic #34",
+    "src": "41-dsc04920.jpg",
+    "tags": "2005",
+    "alt": "2005 PSA Picnic #34",
+    "imgDir": "./src/images/picnic_2005/",
+    "outputDir": "/images/picnic_2005",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Kay Olson"
+  },
+  {
+    "title": "2005 PSA Picnic #35",
+    "src": "42-dsc04921.jpg",
+    "tags": "2005",
+    "alt": "2005 PSA Picnic #35",
+    "imgDir": "./src/images/picnic_2005/",
+    "outputDir": "/images/picnic_2005",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Kay Olson"
+  },
+  {
+    "title": "2005 PSA Picnic #36",
+    "src": "44-dsc04923.jpg",
+    "tags": "2005",
+    "alt": "2005 PSA Picnic #36",
+    "imgDir": "./src/images/picnic_2005/",
+    "outputDir": "/images/picnic_2005",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Kay Olson"
+  },
+  {
+    "title": "2005 PSA Picnic #37",
+    "src": "45-dsc04924.jpg",
+    "tags": "2005",
+    "alt": "2005 PSA Picnic #37",
+    "imgDir": "./src/images/picnic_2005/",
+    "outputDir": "/images/picnic_2005",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Kay Olson"
+  },
+  {
+    "title": "2005 PSA Picnic #38",
+    "src": "46-dsc04925.jpg",
+    "tags": "2005",
+    "alt": "2005 PSA Picnic #38",
+    "imgDir": "./src/images/picnic_2005/",
+    "outputDir": "/images/picnic_2005",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Kay Olson"
+  },
+  {
+    "title": "2005 PSA Picnic #39",
+    "src": "48-dsc04927.jpg",
+    "tags": "2005",
+    "alt": "2005 PSA Picnic #39",
+    "imgDir": "./src/images/picnic_2005/",
+    "outputDir": "/images/picnic_2005",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Kay Olson"
+  },
+  {
+    "title": "2005 PSA Picnic #40",
+    "src": "49-dsc04928.jpg",
+    "tags": "2005",
+    "alt": "2005 PSA Picnic #40",
+    "imgDir": "./src/images/picnic_2005/",
+    "outputDir": "/images/picnic_2005",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Kay Olson"
+  },
+  {
+    "title": "2005 PSA Picnic #41",
+    "src": "50-dsc04929.jpg",
+    "tags": "2005",
+    "alt": "2005 PSA Picnic #41",
+    "imgDir": "./src/images/picnic_2005/",
+    "outputDir": "/images/picnic_2005",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Kay Olson"
+  },
+  {
+    "title": "2005 PSA Picnic #42",
+    "src": "51-dsc04930.jpg",
+    "tags": "2005",
+    "alt": "2005 PSA Picnic #42",
+    "imgDir": "./src/images/picnic_2005/",
+    "outputDir": "/images/picnic_2005",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Kay Olson"
+  },
+  {
+    "title": "2005 PSA Picnic #43",
+    "src": "52-dsc04931.jpg",
+    "tags": "2005",
+    "alt": "2005 PSA Picnic #43",
+    "imgDir": "./src/images/picnic_2005/",
+    "outputDir": "/images/picnic_2005",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Kay Olson"
+  },
+  {
+    "title": "2005 PSA Picnic #44",
+    "src": "55-dsc04934.jpg",
+    "tags": "2005",
+    "alt": "2005 PSA Picnic #44",
+    "imgDir": "./src/images/picnic_2005/",
+    "outputDir": "/images/picnic_2005",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Kay Olson"
+  },
+  {
+    "title": "2005 PSA Picnic #45",
+    "src": "60-dsc04939.jpg",
+    "tags": "2005",
+    "alt": "2005 PSA Picnic #45",
+    "imgDir": "./src/images/picnic_2005/",
+    "outputDir": "/images/picnic_2005",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Kay Olson"
+  },
+  {
+    "title": "2005 PSA Picnic #46",
+    "src": "61-dsc04940.jpg",
+    "tags": "2005",
+    "alt": "2005 PSA Picnic #46",
+    "imgDir": "./src/images/picnic_2005/",
+    "outputDir": "/images/picnic_2005",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Kay Olson"
+  },
+  {
+    "title": "2005 PSA Picnic #47",
+    "src": "62-dsc04941.jpg",
+    "tags": "2005",
+    "alt": "2005 PSA Picnic #47",
+    "imgDir": "./src/images/picnic_2005/",
+    "outputDir": "/images/picnic_2005",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Kay Olson"
+  },
+  {
+    "title": "2005 PSA Picnic #48",
+    "src": "63-dsc04942.jpg",
+    "tags": "2005",
+    "alt": "2005 PSA Picnic #48",
+    "imgDir": "./src/images/picnic_2005/",
+    "outputDir": "/images/picnic_2005",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Kay Olson"
+  },
+  {
+    "title": "2005 PSA Picnic #49",
+    "src": "65-dsc04944.jpg",
+    "tags": "2005",
+    "alt": "2005 PSA Picnic #49",
+    "imgDir": "./src/images/picnic_2005/",
+    "outputDir": "/images/picnic_2005",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Kay Olson"
+  },
+  {
+    "title": "2005 PSA Picnic #50",
+    "src": "66-dsc04945.jpg",
+    "tags": "2005",
+    "alt": "2005 PSA Picnic #50",
+    "imgDir": "./src/images/picnic_2005/",
+    "outputDir": "/images/picnic_2005",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Kay Olson"
+  },
+  {
+    "title": "2005 PSA Picnic #51",
+    "src": "67-dsc04946.jpg",
+    "tags": "2005",
+    "alt": "2005 PSA Picnic #51",
+    "imgDir": "./src/images/picnic_2005/",
+    "outputDir": "/images/picnic_2005",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Kay Olson"
+  },
+  {
+    "title": "2005 PSA Picnic #52",
+    "src": "68-dsc04947.jpg",
+    "tags": "2005",
+    "alt": "2005 PSA Picnic #52",
+    "imgDir": "./src/images/picnic_2005/",
+    "outputDir": "/images/picnic_2005",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Kay Olson"
+  },
+  {
+    "title": "2005 PSA Picnic #53",
+    "src": "69-dsc04948.jpg",
+    "tags": "2005",
+    "alt": "2005 PSA Picnic #53",
+    "imgDir": "./src/images/picnic_2005/",
+    "outputDir": "/images/picnic_2005",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Kay Olson"
+  },
+  {
+    "title": "2005 PSA Picnic #54",
+    "src": "71-dsc04950.jpg",
+    "tags": "2005",
+    "alt": "2005 PSA Picnic #54",
+    "imgDir": "./src/images/picnic_2005/",
+    "outputDir": "/images/picnic_2005",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Kay Olson"
+  },
+  {
+    "title": "2005 PSA Picnic #55",
+    "src": "72-dsc04951.jpg",
+    "tags": "2005",
+    "alt": "2005 PSA Picnic #55",
+    "imgDir": "./src/images/picnic_2005/",
+    "outputDir": "/images/picnic_2005",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Kay Olson"
+  },
+  {
+    "title": "2005 PSA Picnic #56",
+    "src": "73-dsc04952.jpg",
+    "tags": "2005",
+    "alt": "2005 PSA Picnic #56",
+    "imgDir": "./src/images/picnic_2005/",
+    "outputDir": "/images/picnic_2005",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Kay Olson"
+  },
+  {
+    "title": "2005 PSA Picnic #57",
+    "src": "74-dsc04953.jpg",
+    "tags": "2005",
+    "alt": "2005 PSA Picnic #57",
+    "imgDir": "./src/images/picnic_2005/",
+    "outputDir": "/images/picnic_2005",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Kay Olson"
+  },
+  {
+    "title": "2005 PSA Picnic #58",
+    "src": "75-dsc04954.jpg",
+    "tags": "2005",
+    "alt": "2005 PSA Picnic #58",
+    "imgDir": "./src/images/picnic_2005/",
+    "outputDir": "/images/picnic_2005",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Kay Olson"
+  },
+  {
+    "title": "2005 PSA Picnic #59",
+    "src": "76-dsc04955.jpg",
+    "tags": "2005",
+    "alt": "2005 PSA Picnic #59",
+    "imgDir": "./src/images/picnic_2005/",
+    "outputDir": "/images/picnic_2005",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Kay Olson"
+  },
+  {
+    "title": "2005 PSA Picnic #60",
+    "src": "77-dsc04956.jpg",
+    "tags": "2005",
+    "alt": "2005 PSA Picnic #60",
+    "imgDir": "./src/images/picnic_2005/",
+    "outputDir": "/images/picnic_2005",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Kay Olson"
+  },
+  {
+    "title": "2005 PSA Picnic #61",
+    "src": "78-dsc04957.jpg",
+    "tags": "2005",
+    "alt": "2005 PSA Picnic #61",
+    "imgDir": "./src/images/picnic_2005/",
+    "outputDir": "/images/picnic_2005",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Kay Olson"
+  },
+  {
+    "title": "2005 PSA Picnic #62",
+    "src": "79-dsc04958.jpg",
+    "tags": "2005",
+    "alt": "2005 PSA Picnic #62",
+    "imgDir": "./src/images/picnic_2005/",
+    "outputDir": "/images/picnic_2005",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Kay Olson"
+  },
+  {
+    "title": "2005 PSA Picnic #63",
+    "src": "80-dsc04959.jpg",
+    "tags": "2005",
+    "alt": "2005 PSA Picnic #63",
+    "imgDir": "./src/images/picnic_2005/",
+    "outputDir": "/images/picnic_2005",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Kay Olson"
+  },
+  {
+    "title": "2005 PSA Picnic #64",
+    "src": "81-dsc04960.jpg",
+    "tags": "2005",
+    "alt": "2005 PSA Picnic #64",
+    "imgDir": "./src/images/picnic_2005/",
+    "outputDir": "/images/picnic_2005",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Kay Olson"
+  },
+  {
+    "title": "2005 PSA Picnic #65",
+    "src": "82-dsc04961.jpg",
+    "tags": "2005",
+    "alt": "2005 PSA Picnic #65",
+    "imgDir": "./src/images/picnic_2005/",
+    "outputDir": "/images/picnic_2005",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Kay Olson"
+  },
+  {
+    "title": "2005 PSA Picnic #66",
+    "src": "83-dsc04962.jpg",
+    "tags": "2005",
+    "alt": "2005 PSA Picnic #66",
+    "imgDir": "./src/images/picnic_2005/",
+    "outputDir": "/images/picnic_2005",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Kay Olson"
+  },
+  {
+    "title": "2005 PSA Picnic #67",
+    "src": "84-dsc04963.jpg",
+    "tags": "2005",
+    "alt": "2005 PSA Picnic #67",
+    "imgDir": "./src/images/picnic_2005/",
+    "outputDir": "/images/picnic_2005",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Kay Olson"
+  },
+  {
+    "title": "2005 PSA Picnic #68",
+    "src": "86-dsc04965.jpg",
+    "tags": "2005",
+    "alt": "2005 PSA Picnic #68",
+    "imgDir": "./src/images/picnic_2005/",
+    "outputDir": "/images/picnic_2005",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Kay Olson"
+  },
+  {
+    "title": "2005 PSA Picnic #69",
+    "src": "87-dsc04966.jpg",
+    "tags": "2005",
+    "alt": "2005 PSA Picnic #69",
+    "imgDir": "./src/images/picnic_2005/",
+    "outputDir": "/images/picnic_2005",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Kay Olson"
+  },
+  {
+    "title": "2005 PSA Picnic #70",
+    "src": "88-dsc04967.jpg",
+    "tags": "2005",
+    "alt": "2005 PSA Picnic #70",
+    "imgDir": "./src/images/picnic_2005/",
+    "outputDir": "/images/picnic_2005",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Kay Olson"
+  },
+  {
+    "title": "2005 PSA Picnic #71",
+    "src": "89-dsc04968.jpg",
+    "tags": "2005",
+    "alt": "2005 PSA Picnic #71",
+    "imgDir": "./src/images/picnic_2005/",
+    "outputDir": "/images/picnic_2005",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Kay Olson"
+  },
+  {
+    "title": "2005 PSA Picnic #72",
+    "src": "90-dsc04969.jpg",
+    "tags": "2005",
+    "alt": "2005 PSA Picnic #72",
+    "imgDir": "./src/images/picnic_2005/",
+    "outputDir": "/images/picnic_2005",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Kay Olson"
+  },
+  {
+    "title": "2005 PSA Picnic #73",
+    "src": "91-dsc04970.jpg",
+    "tags": "2005",
+    "alt": "2005 PSA Picnic #73",
+    "imgDir": "./src/images/picnic_2005/",
+    "outputDir": "/images/picnic_2005",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Kay Olson"
+  },
+  {
+    "title": "2005 PSA Picnic #74",
+    "src": "92-dsc04971.jpg",
+    "tags": "2005",
+    "alt": "2005 PSA Picnic #74",
+    "imgDir": "./src/images/picnic_2005/",
+    "outputDir": "/images/picnic_2005",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Kay Olson"
+  },
+  {
+    "title": "2005 PSA Picnic #75",
+    "src": "93-dsc04972.jpg",
+    "tags": "2005",
+    "alt": "2005 PSA Picnic #75",
+    "imgDir": "./src/images/picnic_2005/",
+    "outputDir": "/images/picnic_2005",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Kay Olson"
+  },
+  {
+    "title": "2005 PSA Picnic #76",
+    "src": "96-dsc04975.jpg",
+    "tags": "2005",
+    "alt": "2005 PSA Picnic #76",
+    "imgDir": "./src/images/picnic_2005/",
+    "outputDir": "/images/picnic_2005",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Kay Olson"
+  },
+  {
+    "title": "2005 PSA Picnic #77",
+    "src": "97-dsc04976.jpg",
+    "tags": "2005",
+    "alt": "2005 PSA Picnic #77",
+    "imgDir": "./src/images/picnic_2005/",
+    "outputDir": "/images/picnic_2005",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Kay Olson"
+  },
+  {
+    "title": "2005 PSA Picnic #78",
+    "src": "98-dsc04977.jpg",
+    "tags": "2005",
+    "alt": "2005 PSA Picnic #78",
+    "imgDir": "./src/images/picnic_2005/",
+    "outputDir": "/images/picnic_2005",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Kay Olson"
+  },
+  {
+    "title": "2005 PSA Picnic #79",
+    "src": "99-dsc04978.jpg",
+    "tags": "2005",
+    "alt": "2005 PSA Picnic #79",
+    "imgDir": "./src/images/picnic_2005/",
+    "outputDir": "/images/picnic_2005",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Kay Olson"
+  },
+  {
+    "title": "2005 PSA Picnic #80",
+    "src": "101-dsc04980.jpg",
+    "tags": "2005",
+    "alt": "2005 PSA Picnic #80",
+    "imgDir": "./src/images/picnic_2005/",
+    "outputDir": "/images/picnic_2005",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Kay Olson"
+  },
+  {
+    "title": "2005 PSA Picnic #81",
+    "src": "mills01.jpg",
+    "tags": "2005",
+    "alt": "2005 PSA Picnic #81",
+    "imgDir": "./src/images/picnic_2005/",
+    "outputDir": "/images/picnic_2005",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Pamela Sue Mills"
+  },
+  {
+    "title": "2005 PSA Picnic #82",
+    "src": "mills02_0.jpg",
+    "tags": "2005",
+    "alt": "2005 PSA Picnic #82",
+    "imgDir": "./src/images/picnic_2005/",
+    "outputDir": "/images/picnic_2005",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Pamela Sue Mills"
+  },
+  {
+    "title": "2005 PSA Picnic #83",
+    "src": "mills03_0.jpg",
+    "tags": "2005",
+    "alt": "2005 PSA Picnic #83",
+    "imgDir": "./src/images/picnic_2005/",
+    "outputDir": "/images/picnic_2005",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Pamela Sue Mills"
+  },
+  {
+    "title": "2005 PSA Picnic #84",
+    "src": "mills04_0.jpg",
+    "tags": "2005",
+    "alt": "2005 PSA Picnic #84",
+    "imgDir": "./src/images/picnic_2005/",
+    "outputDir": "/images/picnic_2005",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Pamela Sue Mills"
+  },
+  {
+    "title": "2005 PSA Picnic #85",
+    "src": "mills05_0.jpg",
+    "tags": "2005",
+    "alt": "2005 PSA Picnic #85",
+    "imgDir": "./src/images/picnic_2005/",
+    "outputDir": "/images/picnic_2005",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Pamela Sue Mills"
+  },
+  {
+    "title": "2005 PSA Picnic #86",
+    "src": "mills06.jpg",
+    "tags": "2005",
+    "alt": "2005 PSA Picnic #86",
+    "imgDir": "./src/images/picnic_2005/",
+    "outputDir": "/images/picnic_2005",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Pamela Sue Mills"
+  },
+  {
+    "title": "2005 PSA Picnic #87",
+    "src": "mills07.jpg",
+    "tags": "2005",
+    "alt": "2005 PSA Picnic #87",
+    "imgDir": "./src/images/picnic_2005/",
+    "outputDir": "/images/picnic_2005",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Pamela Sue Mills"
+  }
+]

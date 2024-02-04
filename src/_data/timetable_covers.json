@@ -1,0 +1,1512 @@
+[
+  {
+    "Title": "Timetable, 1950-11-01",
+    "date": "November 01, 1950",
+    "src": "ps-195011.jpeg",
+    "tags": "1950",
+    "alt": "Timetable, 1950-11-01",
+    "imgDir": "./src/images/timetable_covers/",
+    "outputDir": "/images/timetable_covers",
+    "pathToRoot": "../../.."
+  },
+  {
+    "Title": "Timetable, 1951-07-13",
+    "date": "July 13, 1951",
+    "src": "5107.jpg",
+    "tags": "1951",
+    "alt": "Timetable, 1951-07-13",
+    "imgDir": "./src/images/timetable_covers/",
+    "outputDir": "/images/timetable_covers",
+    "pathToRoot": "../../.."
+  },
+  {
+    "Title": "Timetable, 1952-03-03",
+    "date": "March 03, 1952",
+    "src": "19520303.jpg",
+    "tags": "1952",
+    "alt": "Timetable, 1952-03-03",
+    "imgDir": "./src/images/timetable_covers/",
+    "outputDir": "/images/timetable_covers",
+    "pathToRoot": "../../.."
+  },
+  {
+    "Title": "Timetable, 1952-06-01",
+    "date": "June 01, 1952",
+    "src": "5206.jpg",
+    "tags": "1952",
+    "alt": "Timetable, 1952-06-01",
+    "imgDir": "./src/images/timetable_covers/",
+    "outputDir": "/images/timetable_covers",
+    "pathToRoot": "../../.."
+  },
+  {
+    "Title": "Timetable, 1953-10-01",
+    "date": "October 01, 1953",
+    "src": "5310.jpg",
+    "tags": "1953",
+    "alt": "Timetable, 1953-10-01",
+    "imgDir": "./src/images/timetable_covers/",
+    "outputDir": "/images/timetable_covers",
+    "pathToRoot": "../../.."
+  },
+  {
+    "Title": "Timetable, 1954-01-15",
+    "date": "January 15, 1954",
+    "src": "5401.jpg",
+    "tags": "1954",
+    "alt": "Timetable, 1954-01-15",
+    "imgDir": "./src/images/timetable_covers/",
+    "outputDir": "/images/timetable_covers",
+    "pathToRoot": "../../.."
+  },
+  {
+    "Title": "Timetable, 1954-08-01",
+    "date": "August 01, 1954",
+    "src": "5408.jpg",
+    "tags": "1954",
+    "alt": "Timetable, 1954-08-01",
+    "imgDir": "./src/images/timetable_covers/",
+    "outputDir": "/images/timetable_covers",
+    "pathToRoot": "../../.."
+  },
+  {
+    "Title": "Timetable, 1955-03-14",
+    "date": "March 14, 1955",
+    "src": "19550314.jpg",
+    "tags": "1955",
+    "alt": "Timetable, 1955-03-14",
+    "imgDir": "./src/images/timetable_covers/",
+    "outputDir": "/images/timetable_covers",
+    "pathToRoot": "../../.."
+  },
+  {
+    "Title": "Timetable, 1956-01-06",
+    "date": "January 06, 1956",
+    "src": "5601.jpg",
+    "tags": "1956",
+    "alt": "Timetable, 1956-01-06",
+    "imgDir": "./src/images/timetable_covers/",
+    "outputDir": "/images/timetable_covers",
+    "pathToRoot": "../../.."
+  },
+  {
+    "Title": "Timetable, 1956-04-06",
+    "date": "April 06, 1956",
+    "src": "5604.jpg",
+    "tags": "1956",
+    "alt": "Timetable, 1956-04-06",
+    "imgDir": "./src/images/timetable_covers/",
+    "outputDir": "/images/timetable_covers",
+    "pathToRoot": "../../.."
+  },
+  {
+    "Title": "Timetable, 1957-01-03",
+    "date": "January 03, 1957",
+    "src": "19570103.jpg",
+    "tags": "1957",
+    "alt": "Timetable, 1957-01-03",
+    "imgDir": "./src/images/timetable_covers/",
+    "outputDir": "/images/timetable_covers",
+    "pathToRoot": "../../.."
+  },
+  {
+    "Title": "Timetable, 1957-04-01",
+    "date": "April 01, 1957",
+    "src": "19570401.jpg",
+    "tags": "1957",
+    "alt": "Timetable, 1957-04-01",
+    "imgDir": "./src/images/timetable_covers/",
+    "outputDir": "/images/timetable_covers",
+    "pathToRoot": "../../.."
+  },
+  {
+    "Title": "Timetable, 1957-09-06",
+    "date": "September 06, 1957",
+    "src": "5709.jpg",
+    "tags": "1957",
+    "alt": "Timetable, 1957-09-06",
+    "imgDir": "./src/images/timetable_covers/",
+    "outputDir": "/images/timetable_covers",
+    "pathToRoot": "../../.."
+  },
+  {
+    "Title": "Timetable, 1958-03-22",
+    "date": "March 22, 1958",
+    "src": "5803.jpg",
+    "tags": "1958",
+    "alt": "Timetable, 1958-03-22",
+    "imgDir": "./src/images/timetable_covers/",
+    "outputDir": "/images/timetable_covers",
+    "pathToRoot": "../../.."
+  },
+  {
+    "Title": "Timetable, 1959-08-03",
+    "date": "August 03, 1959",
+    "src": "5908.jpg",
+    "tags": "1959",
+    "alt": "Timetable, 1959-08-03",
+    "imgDir": "./src/images/timetable_covers/",
+    "outputDir": "/images/timetable_covers",
+    "pathToRoot": "../../.."
+  },
+  {
+    "Title": "Timetable, 1961-03-27",
+    "date": "March 27, 1961",
+    "src": "6103.jpg",
+    "tags": "1961",
+    "alt": "Timetable, 1961-03-27",
+    "imgDir": "./src/images/timetable_covers/",
+    "outputDir": "/images/timetable_covers",
+    "pathToRoot": "../../.."
+  },
+  {
+    "Title": "Timetable, 1961-07-07",
+    "date": "July 07, 1961",
+    "src": "6107.jpg",
+    "tags": "1961",
+    "alt": "Timetable, 1961-07-07",
+    "imgDir": "./src/images/timetable_covers/",
+    "outputDir": "/images/timetable_covers",
+    "pathToRoot": "../../.."
+  },
+  {
+    "Title": "Timetable, 1961-09-25",
+    "date": "September 25, 1961",
+    "src": "6109.jpg",
+    "tags": "1961",
+    "alt": "Timetable, 1961-09-25",
+    "imgDir": "./src/images/timetable_covers/",
+    "outputDir": "/images/timetable_covers",
+    "pathToRoot": "../../.."
+  },
+  {
+    "Title": "Timetable, 1962-05-04",
+    "date": "May 04, 1962",
+    "src": "tt-19620504.jpeg",
+    "tags": "1962",
+    "alt": "Timetable, 1962-05-04",
+    "imgDir": "./src/images/timetable_covers/",
+    "outputDir": "/images/timetable_covers",
+    "pathToRoot": "../../.."
+  },
+  {
+    "Title": "Timetable, 1962-06-25",
+    "date": "June 25, 1962",
+    "src": "6206.jpg",
+    "tags": "1962",
+    "alt": "Timetable, 1962-06-25",
+    "imgDir": "./src/images/timetable_covers/",
+    "outputDir": "/images/timetable_covers",
+    "pathToRoot": "../../.."
+  },
+  {
+    "Title": "Timetable, 1962-10-01",
+    "date": "October 01, 1962",
+    "src": "6210.jpg",
+    "tags": "1962",
+    "alt": "Timetable, 1962-10-01",
+    "imgDir": "./src/images/timetable_covers/",
+    "outputDir": "/images/timetable_covers",
+    "pathToRoot": "../../.."
+  },
+  {
+    "Title": "Timetable, 1963-03-18",
+    "date": "March 18, 1963",
+    "src": "6303.jpg",
+    "tags": "1963",
+    "alt": "Timetable, 1963-03-18",
+    "imgDir": "./src/images/timetable_covers/",
+    "outputDir": "/images/timetable_covers",
+    "pathToRoot": "../../.."
+  },
+  {
+    "Title": "Timetable, 1963-04-22",
+    "date": "April 22, 1963",
+    "src": "6304.jpg",
+    "tags": "1963",
+    "alt": "Timetable, 1963-04-22",
+    "imgDir": "./src/images/timetable_covers/",
+    "outputDir": "/images/timetable_covers",
+    "pathToRoot": "../../.."
+  },
+  {
+    "Title": "Timetable, 1963-06-21",
+    "date": "June 21, 1963",
+    "src": "6306.jpg",
+    "tags": "1963",
+    "alt": "Timetable, 1963-06-21",
+    "imgDir": "./src/images/timetable_covers/",
+    "outputDir": "/images/timetable_covers",
+    "pathToRoot": "../../.."
+  },
+  {
+    "Title": "Timetable, 1963-09-20",
+    "date": "September 20, 1963",
+    "src": "tt-19630920.jpeg",
+    "tags": "1963",
+    "alt": "Timetable, 1963-09-20",
+    "imgDir": "./src/images/timetable_covers/",
+    "outputDir": "/images/timetable_covers",
+    "pathToRoot": "../../.."
+  },
+  {
+    "Title": "Timetable, 1963-10-21",
+    "date": "October 21, 1963",
+    "src": "6310_01.jpg",
+    "tags": "1963",
+    "alt": "Timetable, 1963-10-21",
+    "imgDir": "./src/images/timetable_covers/",
+    "outputDir": "/images/timetable_covers",
+    "pathToRoot": "../../.."
+  },
+  {
+    "Title": "Timetable, 1964-01-01",
+    "date": "January 01, 1964",
+    "src": "6401.jpg",
+    "tags": "1964",
+    "alt": "Timetable, 1964-01-01",
+    "imgDir": "./src/images/timetable_covers/",
+    "outputDir": "/images/timetable_covers",
+    "pathToRoot": "../../.."
+  },
+  {
+    "Title": "Timetable, 1964-03-12",
+    "date": "March 12, 1964",
+    "src": "6403.jpg",
+    "tags": "1964",
+    "alt": "Timetable, 1964-03-12",
+    "imgDir": "./src/images/timetable_covers/",
+    "outputDir": "/images/timetable_covers",
+    "pathToRoot": "../../.."
+  },
+  {
+    "Title": "Timetable, 1964-06-12",
+    "date": "June 12, 1964",
+    "src": "6406.jpg",
+    "tags": "1964",
+    "alt": "Timetable, 1964-06-12",
+    "imgDir": "./src/images/timetable_covers/",
+    "outputDir": "/images/timetable_covers",
+    "pathToRoot": "../../.."
+  },
+  {
+    "Title": "Timetable, 1964-09-28",
+    "date": "September 28, 1964",
+    "src": "6409.jpg",
+    "tags": "1964",
+    "alt": "Timetable, 1964-09-28",
+    "imgDir": "./src/images/timetable_covers/",
+    "outputDir": "/images/timetable_covers",
+    "pathToRoot": "../../.."
+  },
+  {
+    "Title": "Timetable, 1965-01-05",
+    "date": "January 05, 1965",
+    "src": "6501.jpg",
+    "tags": "1965",
+    "alt": "Timetable, 1965-01-05",
+    "imgDir": "./src/images/timetable_covers/",
+    "outputDir": "/images/timetable_covers",
+    "pathToRoot": "../../.."
+  },
+  {
+    "Title": "Timetable, 1965-02-15",
+    "date": "February 15, 1965",
+    "src": "6502.jpg",
+    "tags": "1965",
+    "alt": "Timetable, 1965-02-15",
+    "imgDir": "./src/images/timetable_covers/",
+    "outputDir": "/images/timetable_covers",
+    "pathToRoot": "../../.."
+  },
+  {
+    "Title": "Timetable, 1965-06-04",
+    "date": "June 04, 1965",
+    "src": "6506.jpg",
+    "tags": "1965",
+    "alt": "Timetable, 1965-06-04",
+    "imgDir": "./src/images/timetable_covers/",
+    "outputDir": "/images/timetable_covers",
+    "pathToRoot": "../../.."
+  },
+  {
+    "Title": "Timetable, 1965-08-06",
+    "date": "August 06, 1965",
+    "src": "6508.jpg",
+    "tags": "1965",
+    "alt": "Timetable, 1965-08-06",
+    "imgDir": "./src/images/timetable_covers/",
+    "outputDir": "/images/timetable_covers",
+    "pathToRoot": "../../.."
+  },
+  {
+    "Title": "Timetable, 1965-10-08",
+    "date": "October 08, 1965",
+    "src": "6510.jpg",
+    "tags": "1965",
+    "alt": "Timetable, 1965-10-08",
+    "imgDir": "./src/images/timetable_covers/",
+    "outputDir": "/images/timetable_covers",
+    "pathToRoot": "../../.."
+  },
+  {
+    "Title": "Timetable, 1966-01-24",
+    "date": "January 24, 1966",
+    "src": "6601.jpg",
+    "tags": "1966",
+    "alt": "Timetable, 1966-01-24",
+    "imgDir": "./src/images/timetable_covers/",
+    "outputDir": "/images/timetable_covers",
+    "pathToRoot": "../../.."
+  },
+  {
+    "Title": "Timetable, 1966-05-18",
+    "date": "May 18, 1966",
+    "src": "6605.jpg",
+    "tags": "1966",
+    "alt": "Timetable, 1966-05-18",
+    "imgDir": "./src/images/timetable_covers/",
+    "outputDir": "/images/timetable_covers",
+    "pathToRoot": "../../.."
+  },
+  {
+    "Title": "Timetable, 1966-06-20",
+    "date": "June 20, 1966",
+    "src": "6606.jpg",
+    "tags": "1966",
+    "alt": "Timetable, 1966-06-20",
+    "imgDir": "./src/images/timetable_covers/",
+    "outputDir": "/images/timetable_covers",
+    "pathToRoot": "../../.."
+  },
+  {
+    "Title": "Timetable, 1966-10-17",
+    "date": "October 17, 1966",
+    "src": "6610.jpg",
+    "tags": "1966",
+    "alt": "Timetable, 1966-10-17",
+    "imgDir": "./src/images/timetable_covers/",
+    "outputDir": "/images/timetable_covers",
+    "pathToRoot": "../../.."
+  },
+  {
+    "Title": "Timetable, 1967-01-07",
+    "date": "January 07, 1967",
+    "src": "19670107.jpeg",
+    "tags": "1967",
+    "alt": "Timetable, 1967-01-07",
+    "imgDir": "./src/images/timetable_covers/",
+    "outputDir": "/images/timetable_covers",
+    "pathToRoot": "../../.."
+  },
+  {
+    "Title": "Timetable, 1967-02-03",
+    "date": "February 03, 1967",
+    "src": "6702.jpg",
+    "tags": "1967",
+    "alt": "Timetable, 1967-02-03",
+    "imgDir": "./src/images/timetable_covers/",
+    "outputDir": "/images/timetable_covers",
+    "pathToRoot": "../../.."
+  },
+  {
+    "Title": "Timetable, 1967-06-19",
+    "date": "June 19, 1967",
+    "src": "6706.jpg",
+    "tags": "1967",
+    "alt": "Timetable, 1967-06-19",
+    "imgDir": "./src/images/timetable_covers/",
+    "outputDir": "/images/timetable_covers",
+    "pathToRoot": "../../.."
+  },
+  {
+    "Title": "Timetable, 1967-08-11",
+    "date": "August 11, 1967",
+    "src": "6708.jpg",
+    "tags": "1967",
+    "alt": "Timetable, 1967-08-11",
+    "imgDir": "./src/images/timetable_covers/",
+    "outputDir": "/images/timetable_covers",
+    "pathToRoot": "../../.."
+  },
+  {
+    "Title": "Timetable, 1967-10-16",
+    "date": "October 16, 1967",
+    "src": "6710_16.jpg",
+    "tags": "1967",
+    "alt": "Timetable, 1967-10-16",
+    "imgDir": "./src/images/timetable_covers/",
+    "outputDir": "/images/timetable_covers",
+    "pathToRoot": "../../.."
+  },
+  {
+    "Title": "Timetable, 1968-02-19",
+    "date": "February 19, 1968",
+    "src": "6802.jpg",
+    "tags": "1968",
+    "alt": "Timetable, 1968-02-19",
+    "imgDir": "./src/images/timetable_covers/",
+    "outputDir": "/images/timetable_covers",
+    "pathToRoot": "../../.."
+  },
+  {
+    "Title": "Timetable, 1968-04-22",
+    "date": "April 22, 1968",
+    "src": "6804.jpg",
+    "tags": "1968",
+    "alt": "Timetable, 1968-04-22",
+    "imgDir": "./src/images/timetable_covers/",
+    "outputDir": "/images/timetable_covers",
+    "pathToRoot": "../../.."
+  },
+  {
+    "Title": "Timetable, 1968-06-14",
+    "date": "June 14, 1968",
+    "src": "6806.jpg",
+    "tags": "1968",
+    "alt": "Timetable, 1968-06-14",
+    "imgDir": "./src/images/timetable_covers/",
+    "outputDir": "/images/timetable_covers",
+    "pathToRoot": "../../.."
+  },
+  {
+    "Title": "Timetable, 1968-09-09",
+    "date": "September 09, 1968",
+    "src": "6809.jpg",
+    "tags": "1968",
+    "alt": "Timetable, 1968-09-09",
+    "imgDir": "./src/images/timetable_covers/",
+    "outputDir": "/images/timetable_covers",
+    "pathToRoot": "../../.."
+  },
+  {
+    "Title": "Timetable, 1969-01-17",
+    "date": "January 17, 1969",
+    "src": "6901.jpg",
+    "tags": "1969",
+    "alt": "Timetable, 1969-01-17",
+    "imgDir": "./src/images/timetable_covers/",
+    "outputDir": "/images/timetable_covers",
+    "pathToRoot": "../../.."
+  },
+  {
+    "Title": "Timetable, 1969-06-20",
+    "date": "June 20, 1969",
+    "src": "6906.jpg",
+    "tags": "1969",
+    "alt": "Timetable, 1969-06-20",
+    "imgDir": "./src/images/timetable_covers/",
+    "outputDir": "/images/timetable_covers",
+    "pathToRoot": "../../.."
+  },
+  {
+    "Title": "Timetable, 1969-07-25",
+    "date": "July 25, 1969",
+    "src": "6907.jpg",
+    "tags": "1969",
+    "alt": "Timetable, 1969-07-25",
+    "imgDir": "./src/images/timetable_covers/",
+    "outputDir": "/images/timetable_covers",
+    "pathToRoot": "../../.."
+  },
+  {
+    "Title": "Timetable, 1969-11-21",
+    "date": "November 21, 1969",
+    "src": "6911.jpg",
+    "tags": "1969",
+    "alt": "Timetable, 1969-11-21",
+    "imgDir": "./src/images/timetable_covers/",
+    "outputDir": "/images/timetable_covers",
+    "pathToRoot": "../../.."
+  },
+  {
+    "Title": "Timetable, 1970-02-24",
+    "date": "February 24, 1970",
+    "src": "7002_24.jpg",
+    "tags": "1970",
+    "alt": "Timetable, 1970-02-24",
+    "imgDir": "./src/images/timetable_covers/",
+    "outputDir": "/images/timetable_covers",
+    "pathToRoot": "../../.."
+  },
+  {
+    "Title": "Timetable, 1970-06-19",
+    "date": "June 19, 1970",
+    "src": "7006.jpg",
+    "tags": "1970",
+    "alt": "Timetable, 1970-06-19",
+    "imgDir": "./src/images/timetable_covers/",
+    "outputDir": "/images/timetable_covers",
+    "pathToRoot": "../../.."
+  },
+  {
+    "Title": "Timetable, 1970-09-21",
+    "date": "September 21, 1970",
+    "src": "7009.jpg",
+    "tags": "1970",
+    "alt": "Timetable, 1970-09-21",
+    "imgDir": "./src/images/timetable_covers/",
+    "outputDir": "/images/timetable_covers",
+    "pathToRoot": "../../.."
+  },
+  {
+    "Title": "Timetable, 1971-02-01",
+    "date": "February 01, 1971",
+    "src": "7102.jpg",
+    "tags": "1971",
+    "alt": "Timetable, 1971-02-01",
+    "imgDir": "./src/images/timetable_covers/",
+    "outputDir": "/images/timetable_covers",
+    "pathToRoot": "../../.."
+  },
+  {
+    "Title": "Timetable, 1971-07-09",
+    "date": "July 09, 1971",
+    "src": "7107.jpg",
+    "tags": "1971",
+    "alt": "Timetable, 1971-07-09",
+    "imgDir": "./src/images/timetable_covers/",
+    "outputDir": "/images/timetable_covers",
+    "pathToRoot": "../../.."
+  },
+  {
+    "Title": "Timetable, 1971-09-17",
+    "date": "September 17, 1971",
+    "src": "7109.jpg",
+    "tags": "1971",
+    "alt": "Timetable, 1971-09-17",
+    "imgDir": "./src/images/timetable_covers/",
+    "outputDir": "/images/timetable_covers",
+    "pathToRoot": "../../.."
+  },
+  {
+    "Title": "Timetable, 1972-02-18",
+    "date": "February 18, 1972",
+    "src": "7202.jpg",
+    "tags": "1972",
+    "alt": "Timetable, 1972-02-18",
+    "imgDir": "./src/images/timetable_covers/",
+    "outputDir": "/images/timetable_covers",
+    "pathToRoot": "../../.."
+  },
+  {
+    "Title": "Timetable, 1972-07-10",
+    "date": "July 10, 1972",
+    "src": "7207.jpg",
+    "tags": "1972",
+    "alt": "Timetable, 1972-07-10",
+    "imgDir": "./src/images/timetable_covers/",
+    "outputDir": "/images/timetable_covers",
+    "pathToRoot": "../../.."
+  },
+  {
+    "Title": "Timetable, 1973-01-15",
+    "date": "January 15, 1973",
+    "src": "7301.jpg",
+    "tags": "1973",
+    "alt": "Timetable, 1973-01-15",
+    "imgDir": "./src/images/timetable_covers/",
+    "outputDir": "/images/timetable_covers",
+    "pathToRoot": "../../.."
+  },
+  {
+    "Title": "Timetable, 1973-05-14",
+    "date": "May 14, 1973",
+    "src": "7305.jpg",
+    "tags": "1973",
+    "alt": "Timetable, 1973-05-14",
+    "imgDir": "./src/images/timetable_covers/",
+    "outputDir": "/images/timetable_covers",
+    "pathToRoot": "../../.."
+  },
+  {
+    "Title": "Timetable, 1973-06-25",
+    "date": "June 25, 1973",
+    "src": "7306.jpg",
+    "tags": "1973",
+    "alt": "Timetable, 1973-06-25",
+    "imgDir": "./src/images/timetable_covers/",
+    "outputDir": "/images/timetable_covers",
+    "pathToRoot": "../../.."
+  },
+  {
+    "Title": "Timetable, 1973-10-01",
+    "date": "October 01, 1973",
+    "src": "7310.jpg",
+    "tags": "1973",
+    "alt": "Timetable, 1973-10-01",
+    "imgDir": "./src/images/timetable_covers/",
+    "outputDir": "/images/timetable_covers",
+    "pathToRoot": "../../.."
+  },
+  {
+    "Title": "Timetable, 1974-01-25",
+    "date": "January 25, 1974",
+    "src": "7401.jpg",
+    "tags": "1974",
+    "alt": "Timetable, 1974-01-25",
+    "imgDir": "./src/images/timetable_covers/",
+    "outputDir": "/images/timetable_covers",
+    "pathToRoot": "../../.."
+  },
+  {
+    "Title": "Timetable, 1974-03-25",
+    "date": "March 25, 1974",
+    "src": "7403.jpg",
+    "tags": "1974",
+    "alt": "Timetable, 1974-03-25",
+    "imgDir": "./src/images/timetable_covers/",
+    "outputDir": "/images/timetable_covers",
+    "pathToRoot": "../../.."
+  },
+  {
+    "Title": "Timetable, 1974-06-17",
+    "date": "June 17, 1974",
+    "src": "7406.jpg",
+    "tags": "1974",
+    "alt": "Timetable, 1974-06-17",
+    "imgDir": "./src/images/timetable_covers/",
+    "outputDir": "/images/timetable_covers",
+    "pathToRoot": "../../.."
+  },
+  {
+    "Title": "Timetable, 1974-08-01",
+    "date": "August 01, 1974",
+    "src": "7408.jpg",
+    "tags": "1974",
+    "alt": "Timetable, 1974-08-01",
+    "imgDir": "./src/images/timetable_covers/",
+    "outputDir": "/images/timetable_covers",
+    "pathToRoot": "../../.."
+  },
+  {
+    "Title": "Timetable, 1974-10-18",
+    "date": "October 18, 1974",
+    "src": "7410.jpg",
+    "tags": "1974",
+    "alt": "Timetable, 1974-10-18",
+    "imgDir": "./src/images/timetable_covers/",
+    "outputDir": "/images/timetable_covers",
+    "pathToRoot": "../../.."
+  },
+  {
+    "Title": "Timetable, 1975-04-04",
+    "date": "April 04, 1975",
+    "src": "7504.jpg",
+    "tags": "1975",
+    "alt": "Timetable, 1975-04-04",
+    "imgDir": "./src/images/timetable_covers/",
+    "outputDir": "/images/timetable_covers",
+    "pathToRoot": "../../.."
+  },
+  {
+    "Title": "Timetable, 1975-06-16",
+    "date": "June 16, 1975",
+    "src": "7506_16.jpg",
+    "tags": "1975",
+    "alt": "Timetable, 1975-06-16",
+    "imgDir": "./src/images/timetable_covers/",
+    "outputDir": "/images/timetable_covers",
+    "pathToRoot": "../../.."
+  },
+  {
+    "Title": "Timetable, 1975-06-23",
+    "date": "June 23, 1975",
+    "src": "7506_23.jpg",
+    "tags": "1975",
+    "alt": "Timetable, 1975-06-23",
+    "imgDir": "./src/images/timetable_covers/",
+    "outputDir": "/images/timetable_covers",
+    "pathToRoot": "../../.."
+  },
+  {
+    "Title": "Timetable, 1975-07-21",
+    "date": "July 21, 1975",
+    "src": "7507.jpg",
+    "tags": "1975",
+    "alt": "Timetable, 1975-07-21",
+    "imgDir": "./src/images/timetable_covers/",
+    "outputDir": "/images/timetable_covers",
+    "pathToRoot": "../../.."
+  },
+  {
+    "Title": "Timetable, 1975-09-08",
+    "date": "September 08, 1975",
+    "src": "7509.jpg",
+    "tags": "1975",
+    "alt": "Timetable, 1975-09-08",
+    "imgDir": "./src/images/timetable_covers/",
+    "outputDir": "/images/timetable_covers",
+    "pathToRoot": "../../.."
+  },
+  {
+    "Title": "Timetable, 1975-10-27",
+    "date": "October 27, 1975",
+    "src": "7510.jpg",
+    "tags": "1975",
+    "alt": "Timetable, 1975-10-27",
+    "imgDir": "./src/images/timetable_covers/",
+    "outputDir": "/images/timetable_covers",
+    "pathToRoot": "../../.."
+  },
+  {
+    "Title": "Timetable, 1976-01-30",
+    "date": "January 30, 1976",
+    "src": "7601.jpg",
+    "tags": "1976",
+    "alt": "Timetable, 1976-01-30",
+    "imgDir": "./src/images/timetable_covers/",
+    "outputDir": "/images/timetable_covers",
+    "pathToRoot": "../../.."
+  },
+  {
+    "Title": "Timetable, 1976-03-10",
+    "date": "March 10, 1976",
+    "src": "7603.jpg",
+    "tags": "1976",
+    "alt": "Timetable, 1976-03-10",
+    "imgDir": "./src/images/timetable_covers/",
+    "outputDir": "/images/timetable_covers",
+    "pathToRoot": "../../.."
+  },
+  {
+    "Title": "Timetable, 1976-06-01",
+    "date": "June 01, 1976",
+    "src": "7606.jpg",
+    "tags": "1976",
+    "alt": "Timetable, 1976-06-01",
+    "imgDir": "./src/images/timetable_covers/",
+    "outputDir": "/images/timetable_covers",
+    "pathToRoot": "../../.."
+  },
+  {
+    "Title": "Timetable, 1976-09-15",
+    "date": "September 15, 1976",
+    "src": "7609.jpg",
+    "tags": "1976",
+    "alt": "Timetable, 1976-09-15",
+    "imgDir": "./src/images/timetable_covers/",
+    "outputDir": "/images/timetable_covers",
+    "pathToRoot": "../../.."
+  },
+  {
+    "Title": "Timetable, 1977-01-03",
+    "date": "January 03, 1977",
+    "src": "7701.jpg",
+    "tags": "1977",
+    "alt": "Timetable, 1977-01-03",
+    "imgDir": "./src/images/timetable_covers/",
+    "outputDir": "/images/timetable_covers",
+    "pathToRoot": "../../.."
+  },
+  {
+    "Title": "Timetable, 1977-04-04",
+    "date": "April 04, 1977",
+    "src": "7704.jpg",
+    "tags": "1977",
+    "alt": "Timetable, 1977-04-04",
+    "imgDir": "./src/images/timetable_covers/",
+    "outputDir": "/images/timetable_covers",
+    "pathToRoot": "../../.."
+  },
+  {
+    "Title": "Timetable, 1977-06-17",
+    "date": "June 17, 1977",
+    "src": "7706.jpg",
+    "tags": "1977",
+    "alt": "Timetable, 1977-06-17",
+    "imgDir": "./src/images/timetable_covers/",
+    "outputDir": "/images/timetable_covers",
+    "pathToRoot": "../../.."
+  },
+  {
+    "Title": "Timetable, 1977-10-12",
+    "date": "October 12, 1977",
+    "src": "7712.jpg",
+    "tags": "1977",
+    "alt": "Timetable, 1977-10-12",
+    "imgDir": "./src/images/timetable_covers/",
+    "outputDir": "/images/timetable_covers",
+    "pathToRoot": "../../.."
+  },
+  {
+    "Title": "Timetable, 1978-01-04",
+    "date": "January 04, 1978",
+    "src": "7801.jpg",
+    "tags": "1978",
+    "alt": "Timetable, 1978-01-04",
+    "imgDir": "./src/images/timetable_covers/",
+    "outputDir": "/images/timetable_covers",
+    "pathToRoot": "../../.."
+  },
+  {
+    "Title": "Timetable, 1978-06-21",
+    "date": "June 21, 1978",
+    "src": "7806.jpg",
+    "tags": "1978",
+    "alt": "Timetable, 1978-06-21",
+    "imgDir": "./src/images/timetable_covers/",
+    "outputDir": "/images/timetable_covers",
+    "pathToRoot": "../../.."
+  },
+  {
+    "Title": "Timetable, 1978-07-19",
+    "date": "July 19, 1978",
+    "src": "7807.jpg",
+    "tags": "1978",
+    "alt": "Timetable, 1978-07-19",
+    "imgDir": "./src/images/timetable_covers/",
+    "outputDir": "/images/timetable_covers",
+    "pathToRoot": "../../.."
+  },
+  {
+    "Title": "Timetable, 1978-10-11",
+    "date": "October 11, 1978",
+    "src": "7810.jpg",
+    "tags": "1978",
+    "alt": "Timetable, 1978-10-11",
+    "imgDir": "./src/images/timetable_covers/",
+    "outputDir": "/images/timetable_covers",
+    "pathToRoot": "../../.."
+  },
+  {
+    "Title": "Timetable, 1978-12-15",
+    "date": "December 15, 1978",
+    "src": "7812.jpg",
+    "tags": "1978",
+    "alt": "Timetable, 1978-12-15",
+    "imgDir": "./src/images/timetable_covers/",
+    "outputDir": "/images/timetable_covers",
+    "pathToRoot": "../../.."
+  },
+  {
+    "Title": "Timetable, 1979-02-28",
+    "date": "February 28, 1979",
+    "src": "7902.jpg",
+    "tags": "1979",
+    "alt": "Timetable, 1979-02-28",
+    "imgDir": "./src/images/timetable_covers/",
+    "outputDir": "/images/timetable_covers",
+    "pathToRoot": "../../.."
+  },
+  {
+    "Title": "Timetable, 1979-03-28",
+    "date": "March 28, 1979",
+    "src": "7903.jpg",
+    "tags": "1979",
+    "alt": "Timetable, 1979-03-28",
+    "imgDir": "./src/images/timetable_covers/",
+    "outputDir": "/images/timetable_covers",
+    "pathToRoot": "../../.."
+  },
+  {
+    "Title": "Timetable, 1979-05-23",
+    "date": "May 23, 1979",
+    "src": "7905.jpg",
+    "tags": "1979",
+    "alt": "Timetable, 1979-05-23",
+    "imgDir": "./src/images/timetable_covers/",
+    "outputDir": "/images/timetable_covers",
+    "pathToRoot": "../../.."
+  },
+  {
+    "Title": "Timetable, 1979-07-05",
+    "date": "July 05, 1979",
+    "src": "7907.jpg",
+    "tags": "1979",
+    "alt": "Timetable, 1979-07-05",
+    "imgDir": "./src/images/timetable_covers/",
+    "outputDir": "/images/timetable_covers",
+    "pathToRoot": "../../.."
+  },
+  {
+    "Title": "Timetable, 1979-09-12",
+    "date": "September 12, 1979",
+    "src": "7909.jpg",
+    "tags": "1979",
+    "alt": "Timetable, 1979-09-12",
+    "imgDir": "./src/images/timetable_covers/",
+    "outputDir": "/images/timetable_covers",
+    "pathToRoot": "../../.."
+  },
+  {
+    "Title": "Timetable, 1979-11-07",
+    "date": "November 07, 1979",
+    "src": "7911.jpg",
+    "tags": "1979",
+    "alt": "Timetable, 1979-11-07",
+    "imgDir": "./src/images/timetable_covers/",
+    "outputDir": "/images/timetable_covers",
+    "pathToRoot": "../../.."
+  },
+  {
+    "Title": "Timetable, 1980-01-08",
+    "date": "January 08, 1980",
+    "src": "8001.jpg",
+    "tags": "1980",
+    "alt": "Timetable, 1980-01-08",
+    "imgDir": "./src/images/timetable_covers/",
+    "outputDir": "/images/timetable_covers",
+    "pathToRoot": "../../.."
+  },
+  {
+    "Title": "Timetable, 1980-02-27",
+    "date": "February 27, 1980",
+    "src": "8002.jpg",
+    "tags": "1980",
+    "alt": "Timetable, 1980-02-27",
+    "imgDir": "./src/images/timetable_covers/",
+    "outputDir": "/images/timetable_covers",
+    "pathToRoot": "../../.."
+  },
+  {
+    "Title": "Timetable, 1980-04-27",
+    "date": "April 27, 1980",
+    "src": "8004.jpg",
+    "tags": "1980",
+    "alt": "Timetable, 1980-04-27",
+    "imgDir": "./src/images/timetable_covers/",
+    "outputDir": "/images/timetable_covers",
+    "pathToRoot": "../../.."
+  },
+  {
+    "Title": "Timetable, 1980-06-18",
+    "date": "June 18, 1980",
+    "src": "8006.jpg",
+    "tags": "1980",
+    "alt": "Timetable, 1980-06-18",
+    "imgDir": "./src/images/timetable_covers/",
+    "outputDir": "/images/timetable_covers",
+    "pathToRoot": "../../.."
+  },
+  {
+    "Title": "Timetable, 1980-09-17",
+    "date": "September 17, 1980",
+    "src": "8009.jpg",
+    "tags": "1980",
+    "alt": "Timetable, 1980-09-17",
+    "imgDir": "./src/images/timetable_covers/",
+    "outputDir": "/images/timetable_covers",
+    "pathToRoot": "../../.."
+  },
+  {
+    "Title": "Timetable, 1980-12-17",
+    "date": "December 17, 1980",
+    "src": "8012.jpg",
+    "tags": "1980",
+    "alt": "Timetable, 1980-12-17",
+    "imgDir": "./src/images/timetable_covers/",
+    "outputDir": "/images/timetable_covers",
+    "pathToRoot": "../../.."
+  },
+  {
+    "Title": "Timetable, 1981-01-15",
+    "date": "January 15, 1981",
+    "src": "8101.jpg",
+    "tags": "1981",
+    "alt": "Timetable, 1981-01-15",
+    "imgDir": "./src/images/timetable_covers/",
+    "outputDir": "/images/timetable_covers",
+    "pathToRoot": "../../.."
+  },
+  {
+    "Title": "Timetable, 1981-03-25",
+    "date": "March 25, 1981",
+    "src": "8103.jpg",
+    "tags": "1981",
+    "alt": "Timetable, 1981-03-25",
+    "imgDir": "./src/images/timetable_covers/",
+    "outputDir": "/images/timetable_covers",
+    "pathToRoot": "../../.."
+  },
+  {
+    "Title": "Timetable, 1981-04-26",
+    "date": "April 26, 1981",
+    "src": "8104.jpg",
+    "tags": "1981",
+    "alt": "Timetable, 1981-04-26",
+    "imgDir": "./src/images/timetable_covers/",
+    "outputDir": "/images/timetable_covers",
+    "pathToRoot": "../../.."
+  },
+  {
+    "Title": "Timetable, 1981-06-17",
+    "date": "June 17, 1981",
+    "src": "8106.jpg",
+    "tags": "1981",
+    "alt": "Timetable, 1981-06-17",
+    "imgDir": "./src/images/timetable_covers/",
+    "outputDir": "/images/timetable_covers",
+    "pathToRoot": "../../.."
+  },
+  {
+    "Title": "Timetable, 1981-09-09",
+    "date": "September 09, 1981",
+    "src": "8109.jpg",
+    "tags": "1981",
+    "alt": "Timetable, 1981-09-09",
+    "imgDir": "./src/images/timetable_covers/",
+    "outputDir": "/images/timetable_covers",
+    "pathToRoot": "../../.."
+  },
+  {
+    "Title": "Timetable, 1981-10-25",
+    "date": "October 25, 1981",
+    "src": "8110.jpg",
+    "tags": "1981",
+    "alt": "Timetable, 1981-10-25",
+    "imgDir": "./src/images/timetable_covers/",
+    "outputDir": "/images/timetable_covers",
+    "pathToRoot": "../../.."
+  },
+  {
+    "Title": "Timetable, 1981-12-10",
+    "date": "December 10, 1981",
+    "src": "8112.jpg",
+    "tags": "1981",
+    "alt": "Timetable, 1981-12-10",
+    "imgDir": "./src/images/timetable_covers/",
+    "outputDir": "/images/timetable_covers",
+    "pathToRoot": "../../.."
+  },
+  {
+    "Title": "Timetable, 1982-01-05",
+    "date": "January 05, 1982",
+    "src": "8201.jpg",
+    "tags": "1982",
+    "alt": "Timetable, 1982-01-05",
+    "imgDir": "./src/images/timetable_covers/",
+    "outputDir": "/images/timetable_covers",
+    "pathToRoot": "../../.."
+  },
+  {
+    "Title": "Timetable, 1982-04-25",
+    "date": "April 25, 1982",
+    "src": "8204.jpg",
+    "tags": "1982",
+    "alt": "Timetable, 1982-04-25",
+    "imgDir": "./src/images/timetable_covers/",
+    "outputDir": "/images/timetable_covers",
+    "pathToRoot": "../../.."
+  },
+  {
+    "Title": "Timetable, 1982-06-16",
+    "date": "June 16, 1982",
+    "src": "8206.jpg",
+    "tags": "1982",
+    "alt": "Timetable, 1982-06-16",
+    "imgDir": "./src/images/timetable_covers/",
+    "outputDir": "/images/timetable_covers",
+    "pathToRoot": "../../.."
+  },
+  {
+    "Title": "Timetable, 1982-09-08",
+    "date": "September 08, 1982",
+    "src": "8209.jpg",
+    "tags": "1982",
+    "alt": "Timetable, 1982-09-08",
+    "imgDir": "./src/images/timetable_covers/",
+    "outputDir": "/images/timetable_covers",
+    "pathToRoot": "../../.."
+  },
+  {
+    "Title": "Timetable, 1982-11-03",
+    "date": "November 03, 1982",
+    "src": "8211.jpg",
+    "tags": "1982",
+    "alt": "Timetable, 1982-11-03",
+    "imgDir": "./src/images/timetable_covers/",
+    "outputDir": "/images/timetable_covers",
+    "pathToRoot": "../../.."
+  },
+  {
+    "Title": "Timetable, 1982-12-01",
+    "date": "December 01, 1982",
+    "src": "8212.jpg",
+    "tags": "1982",
+    "alt": "Timetable, 1982-12-01",
+    "imgDir": "./src/images/timetable_covers/",
+    "outputDir": "/images/timetable_covers",
+    "pathToRoot": "../../.."
+  },
+  {
+    "Title": "Timetable, 1983-01-26",
+    "date": "January 26, 1983",
+    "src": "8301.jpg",
+    "tags": "1983",
+    "alt": "Timetable, 1983-01-26",
+    "imgDir": "./src/images/timetable_covers/",
+    "outputDir": "/images/timetable_covers",
+    "pathToRoot": "../../.."
+  },
+  {
+    "Title": "Timetable, 1983-04-24",
+    "date": "April 24, 1983",
+    "src": "8304.jpg",
+    "tags": "1983",
+    "alt": "Timetable, 1983-04-24",
+    "imgDir": "./src/images/timetable_covers/",
+    "outputDir": "/images/timetable_covers",
+    "pathToRoot": "../../.."
+  },
+  {
+    "Title": "Timetable, 1983-05-18",
+    "date": "May 18, 1983",
+    "src": "8305.jpg",
+    "tags": "1983",
+    "alt": "Timetable, 1983-05-18",
+    "imgDir": "./src/images/timetable_covers/",
+    "outputDir": "/images/timetable_covers",
+    "pathToRoot": "../../.."
+  },
+  {
+    "Title": "Timetable, 1983-06-15",
+    "date": "June 15, 1983",
+    "src": "8306.jpg",
+    "tags": "1983",
+    "alt": "Timetable, 1983-06-15",
+    "imgDir": "./src/images/timetable_covers/",
+    "outputDir": "/images/timetable_covers",
+    "pathToRoot": "../../.."
+  },
+  {
+    "Title": "Timetable, 1983-07-13",
+    "date": "July 13, 1983",
+    "src": "8307.jpg",
+    "tags": "1983",
+    "alt": "Timetable, 1983-07-13",
+    "imgDir": "./src/images/timetable_covers/",
+    "outputDir": "/images/timetable_covers",
+    "pathToRoot": "../../.."
+  },
+  {
+    "Title": "Timetable, 1983-09-07",
+    "date": "September 07, 1983",
+    "src": "8309.jpg",
+    "tags": "1983",
+    "alt": "Timetable, 1983-09-07",
+    "imgDir": "./src/images/timetable_covers/",
+    "outputDir": "/images/timetable_covers",
+    "pathToRoot": "../../.."
+  },
+  {
+    "Title": "Timetable, 1983-11-02",
+    "date": "November 02, 1983",
+    "src": "8311.jpg",
+    "tags": "1983",
+    "alt": "Timetable, 1983-11-02",
+    "imgDir": "./src/images/timetable_covers/",
+    "outputDir": "/images/timetable_covers",
+    "pathToRoot": "../../.."
+  },
+  {
+    "Title": "Timetable, 1983-12-01",
+    "date": "December 01, 1983",
+    "src": "8312.jpg",
+    "tags": "1983",
+    "alt": "Timetable, 1983-12-01",
+    "imgDir": "./src/images/timetable_covers/",
+    "outputDir": "/images/timetable_covers",
+    "pathToRoot": "../../.."
+  },
+  {
+    "Title": "Timetable, 1984-02-22",
+    "date": "February 22, 1984",
+    "src": "8402.jpg",
+    "tags": "1984",
+    "alt": "Timetable, 1984-02-22",
+    "imgDir": "./src/images/timetable_covers/",
+    "outputDir": "/images/timetable_covers",
+    "pathToRoot": "../../.."
+  },
+  {
+    "Title": "Timetable, 1984-03-21",
+    "date": "March 21, 1984",
+    "src": "8403.jpg",
+    "tags": "1984",
+    "alt": "Timetable, 1984-03-21",
+    "imgDir": "./src/images/timetable_covers/",
+    "outputDir": "/images/timetable_covers",
+    "pathToRoot": "../../.."
+  },
+  {
+    "Title": "Timetable, 1984-04-29",
+    "date": "April 29, 1984",
+    "src": "8404.jpg",
+    "tags": "1984",
+    "alt": "Timetable, 1984-04-29",
+    "imgDir": "./src/images/timetable_covers/",
+    "outputDir": "/images/timetable_covers",
+    "pathToRoot": "../../.."
+  },
+  {
+    "Title": "Timetable, 1984-06-20",
+    "date": "June 20, 1984",
+    "src": "8406.jpg",
+    "tags": "1984",
+    "alt": "Timetable, 1984-06-20",
+    "imgDir": "./src/images/timetable_covers/",
+    "outputDir": "/images/timetable_covers",
+    "pathToRoot": "../../.."
+  },
+  {
+    "Title": "Timetable, 1984-07-11",
+    "date": "July 11, 1984",
+    "src": "8407.jpg",
+    "tags": "1984",
+    "alt": "Timetable, 1984-07-11",
+    "imgDir": "./src/images/timetable_covers/",
+    "outputDir": "/images/timetable_covers",
+    "pathToRoot": "../../.."
+  },
+  {
+    "Title": "Timetable, 1984-09-05",
+    "date": "September 05, 1984",
+    "src": "8409.jpg",
+    "tags": "1984",
+    "alt": "Timetable, 1984-09-05",
+    "imgDir": "./src/images/timetable_covers/",
+    "outputDir": "/images/timetable_covers",
+    "pathToRoot": "../../.."
+  },
+  {
+    "Title": "Timetable, 1984-10-31",
+    "date": "October 31, 1984",
+    "src": "8410.jpg",
+    "tags": "1984",
+    "alt": "Timetable, 1984-10-31",
+    "imgDir": "./src/images/timetable_covers/",
+    "outputDir": "/images/timetable_covers",
+    "pathToRoot": "../../.."
+  },
+  {
+    "Title": "Timetable, 1984-12-20",
+    "date": "December 20, 1984",
+    "src": "8412.jpg",
+    "tags": "1984",
+    "alt": "Timetable, 1984-12-20",
+    "imgDir": "./src/images/timetable_covers/",
+    "outputDir": "/images/timetable_covers",
+    "pathToRoot": "../../.."
+  },
+  {
+    "Title": "Timetable, 1985-01-08",
+    "date": "January 08, 1985",
+    "src": "8501.jpg",
+    "tags": "1985",
+    "alt": "Timetable, 1985-01-08",
+    "imgDir": "./src/images/timetable_covers/",
+    "outputDir": "/images/timetable_covers",
+    "pathToRoot": "../../.."
+  },
+  {
+    "Title": "Timetable, 1985-03-01",
+    "date": "March 01, 1985",
+    "src": "8503.jpg",
+    "tags": "1985",
+    "alt": "Timetable, 1985-03-01",
+    "imgDir": "./src/images/timetable_covers/",
+    "outputDir": "/images/timetable_covers",
+    "pathToRoot": "../../.."
+  },
+  {
+    "Title": "Timetable, 1985-04-28",
+    "date": "April 28, 1985",
+    "src": "8504.jpg",
+    "tags": "1985",
+    "alt": "Timetable, 1985-04-28",
+    "imgDir": "./src/images/timetable_covers/",
+    "outputDir": "/images/timetable_covers",
+    "pathToRoot": "../../.."
+  },
+  {
+    "Title": "Timetable, 1985-05-23",
+    "date": "May 23, 1985",
+    "src": "8505.jpg",
+    "tags": "1985",
+    "alt": "Timetable, 1985-05-23",
+    "imgDir": "./src/images/timetable_covers/",
+    "outputDir": "/images/timetable_covers",
+    "pathToRoot": "../../.."
+  },
+  {
+    "Title": "Timetable, 1985-06-12",
+    "date": "June 12, 1985",
+    "src": "8506.jpg",
+    "tags": "1985",
+    "alt": "Timetable, 1985-06-12",
+    "imgDir": "./src/images/timetable_covers/",
+    "outputDir": "/images/timetable_covers",
+    "pathToRoot": "../../.."
+  },
+  {
+    "Title": "Timetable, 1985-08-07",
+    "date": "August 07, 1985",
+    "src": "8508.jpg",
+    "tags": "1985",
+    "alt": "Timetable, 1985-08-07",
+    "imgDir": "./src/images/timetable_covers/",
+    "outputDir": "/images/timetable_covers",
+    "pathToRoot": "../../.."
+  },
+  {
+    "Title": "Timetable, 1985-09-15",
+    "date": "September 15, 1985",
+    "src": "8509.jpg",
+    "tags": "1985",
+    "alt": "Timetable, 1985-09-15",
+    "imgDir": "./src/images/timetable_covers/",
+    "outputDir": "/images/timetable_covers",
+    "pathToRoot": "../../.."
+  },
+  {
+    "Title": "Timetable, 1985-10-30",
+    "date": "October 30, 1985",
+    "src": "8510.jpg",
+    "tags": "1985",
+    "alt": "Timetable, 1985-10-30",
+    "imgDir": "./src/images/timetable_covers/",
+    "outputDir": "/images/timetable_covers",
+    "pathToRoot": "../../.."
+  },
+  {
+    "Title": "Timetable, 1985-12-19",
+    "date": "December 19, 1985",
+    "src": "8512.jpg",
+    "tags": "1985",
+    "alt": "Timetable, 1985-12-19",
+    "imgDir": "./src/images/timetable_covers/",
+    "outputDir": "/images/timetable_covers",
+    "pathToRoot": "../../.."
+  },
+  {
+    "Title": "Timetable, 1986-03-19",
+    "date": "March 19, 1986",
+    "src": "8603.jpg",
+    "tags": "1986",
+    "alt": "Timetable, 1986-03-19",
+    "imgDir": "./src/images/timetable_covers/",
+    "outputDir": "/images/timetable_covers",
+    "pathToRoot": "../../.."
+  },
+  {
+    "Title": "Timetable, 1986-05-14",
+    "date": "May 14, 1986",
+    "src": "8605.jpg",
+    "tags": "1986",
+    "alt": "Timetable, 1986-05-14",
+    "imgDir": "./src/images/timetable_covers/",
+    "outputDir": "/images/timetable_covers",
+    "pathToRoot": "../../.."
+  },
+  {
+    "Title": "Timetable, 1986-06-15",
+    "date": "June 15, 1986",
+    "src": "8606.jpg",
+    "tags": "1986",
+    "alt": "Timetable, 1986-06-15",
+    "imgDir": "./src/images/timetable_covers/",
+    "outputDir": "/images/timetable_covers",
+    "pathToRoot": "../../.."
+  },
+  {
+    "Title": "Timetable, 1986-08-01",
+    "date": "August 01, 1986",
+    "src": "8608.jpg",
+    "tags": "1986",
+    "alt": "Timetable, 1986-08-01",
+    "imgDir": "./src/images/timetable_covers/",
+    "outputDir": "/images/timetable_covers",
+    "pathToRoot": "../../.."
+  },
+  {
+    "Title": "Timetable, 1986-09-03",
+    "date": "September 03, 1986",
+    "src": "8609.jpg",
+    "tags": "1986",
+    "alt": "Timetable, 1986-09-03",
+    "imgDir": "./src/images/timetable_covers/",
+    "outputDir": "/images/timetable_covers",
+    "pathToRoot": "../../.."
+  },
+  {
+    "Title": "Timetable, 1986-10-29",
+    "date": "October 29, 1986",
+    "src": "8610.jpg",
+    "tags": "1986",
+    "alt": "Timetable, 1986-10-29",
+    "imgDir": "./src/images/timetable_covers/",
+    "outputDir": "/images/timetable_covers",
+    "pathToRoot": "../../.."
+  },
+  {
+    "Title": "Timetable, 1987-01-21",
+    "date": "January 21, 1987",
+    "src": "8701.jpg",
+    "tags": "1987",
+    "alt": "Timetable, 1987-01-21",
+    "imgDir": "./src/images/timetable_covers/",
+    "outputDir": "/images/timetable_covers",
+    "pathToRoot": "../../.."
+  },
+  {
+    "Title": "Timetable, 1987-04-05",
+    "date": "April 05, 1987",
+    "src": "8704.jpg",
+    "tags": "1987",
+    "alt": "Timetable, 1987-04-05",
+    "imgDir": "./src/images/timetable_covers/",
+    "outputDir": "/images/timetable_covers",
+    "pathToRoot": "../../.."
+  },
+  {
+    "Title": "Timetable, 1987-06-10",
+    "date": "June 10, 1987",
+    "src": "8706.jpg",
+    "tags": "1987",
+    "alt": "Timetable, 1987-06-10",
+    "imgDir": "./src/images/timetable_covers/",
+    "outputDir": "/images/timetable_covers",
+    "pathToRoot": "../../.."
+  },
+  {
+    "Title": "Timetable, 1987-09-09",
+    "date": "September 09, 1987",
+    "src": "8709.jpg",
+    "tags": "1987",
+    "alt": "Timetable, 1987-09-09",
+    "imgDir": "./src/images/timetable_covers/",
+    "outputDir": "/images/timetable_covers",
+    "pathToRoot": "../../.."
+  },
+  {
+    "Title": "Timetable, 1987-10-28",
+    "date": "October 28, 1987",
+    "src": "8710.jpg",
+    "tags": "1987",
+    "alt": "Timetable, 1987-10-28",
+    "imgDir": "./src/images/timetable_covers/",
+    "outputDir": "/images/timetable_covers",
+    "pathToRoot": "../../.."
+  },
+  {
+    "Title": "Timetable, 1988-01-20",
+    "date": "January 20, 1988",
+    "src": "8801.jpg",
+    "tags": "1988",
+    "alt": "Timetable, 1988-01-20",
+    "imgDir": "./src/images/timetable_covers/",
+    "outputDir": "/images/timetable_covers",
+    "pathToRoot": "../../.."
+  },
+  {
+    "Title": "Timetable, 1988-02-17",
+    "date": "February 17, 1988",
+    "src": "8802.jpg",
+    "tags": "1988",
+    "alt": "Timetable, 1988-02-17",
+    "imgDir": "./src/images/timetable_covers/",
+    "outputDir": "/images/timetable_covers",
+    "pathToRoot": "../../.."
+  }
+]

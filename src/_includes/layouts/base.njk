@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en-US" dir="ltr">
+    {% include "partials/header.njk" %}
+    <body>
+        <div class="container">
+        <a href="#main" class="skip-link">Skip to main content</a>
+        {% include "partials/nav.njk" %}
+
+        {{ content | safe }}
+
+        {% include "partials/footer.njk" %}
+        </div>
+    </body>
+</html>

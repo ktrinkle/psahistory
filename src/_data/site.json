@@ -1,0 +1,24 @@
+{   
+    "author": {
+        "firstName": "Kevin",
+        "lastName": "Trinkle"
+    },
+    "pageMetadata": {
+        "home": {
+            "content": "PSA page home"
+        },
+        "oldtimers": {
+            "content": "Photos of past PSA reunions, and copies of PSA employee newsletters."
+        },
+        "about-psa": {
+            "content": "History of PSA."
+        },
+        "memorabilia": {
+            "content": "Digital copies of some PSA memorabilia."
+        },
+        "other-resources": {
+            "content": "Additional information sources about PSA, and information about this page."
+        }
+
+    }
+}

@@ -1,0 +1,10 @@
+// Create your own map
+$custom-colors: (
+  "psa-dark-red": #AE535C,
+  "psa-light-red": #D24F39,
+  "psa-orange": #D77540
+);
+
+// Merge the maps
+$theme-colors: map-merge($theme-colors, $custom-colors);
+

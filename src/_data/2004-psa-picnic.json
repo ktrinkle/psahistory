@@ -1,0 +1,692 @@
+[
+  {
+    "title": "2004 PSA Picnic #1",
+    "src": "dsc02822.jpg",
+    "tags": "2004",
+    "alt": "2004 PSA Picnic #1",
+    "imgDir": "./src/images/picnic_2004/",
+    "outputDir": "/images/picnic_2004",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Kay Olson"
+  },
+  {
+    "title": "2004 PSA Picnic #2",
+    "src": "dsc02825.jpg",
+    "tags": "2004",
+    "alt": "2004 PSA Picnic #2",
+    "imgDir": "./src/images/picnic_2004/",
+    "outputDir": "/images/picnic_2004",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Kay Olson"
+  },
+  {
+    "title": "2004 PSA Picnic #3",
+    "src": "dsc02827.jpg",
+    "tags": "2004",
+    "alt": "2004 PSA Picnic #3",
+    "imgDir": "./src/images/picnic_2004/",
+    "outputDir": "/images/picnic_2004",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Kay Olson"
+  },
+  {
+    "title": "2004 PSA Picnic #4",
+    "src": "dsc02830.jpg",
+    "tags": "2004",
+    "alt": "2004 PSA Picnic #4",
+    "imgDir": "./src/images/picnic_2004/",
+    "outputDir": "/images/picnic_2004",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Kay Olson"
+  },
+  {
+    "title": "2004 PSA Picnic #5",
+    "src": "dsc02831.jpg",
+    "tags": "2004",
+    "alt": "2004 PSA Picnic #5",
+    "imgDir": "./src/images/picnic_2004/",
+    "outputDir": "/images/picnic_2004",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Kay Olson"
+  },
+  {
+    "title": "2004 PSA Picnic #6",
+    "src": "dsc02832.jpg",
+    "tags": "2004",
+    "alt": "2004 PSA Picnic #6",
+    "imgDir": "./src/images/picnic_2004/",
+    "outputDir": "/images/picnic_2004",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Kay Olson"
+  },
+  {
+    "title": "2004 PSA Picnic #7",
+    "src": "dsc02835.jpg",
+    "tags": "2004",
+    "alt": "2004 PSA Picnic #7",
+    "imgDir": "./src/images/picnic_2004/",
+    "outputDir": "/images/picnic_2004",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Kay Olson"
+  },
+  {
+    "title": "2004 PSA Picnic #8",
+    "src": "dsc02837.jpg",
+    "tags": "2004",
+    "alt": "2004 PSA Picnic #8",
+    "imgDir": "./src/images/picnic_2004/",
+    "outputDir": "/images/picnic_2004",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Kay Olson"
+  },
+  {
+    "title": "2004 PSA Picnic #9",
+    "src": "dsc02839.jpg",
+    "tags": "2004",
+    "alt": "2004 PSA Picnic #9",
+    "imgDir": "./src/images/picnic_2004/",
+    "outputDir": "/images/picnic_2004",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Kay Olson"
+  },
+  {
+    "title": "2004 PSA Picnic #10",
+    "src": "dsc02841.jpg",
+    "tags": "2004",
+    "alt": "2004 PSA Picnic #10",
+    "imgDir": "./src/images/picnic_2004/",
+    "outputDir": "/images/picnic_2004",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Kay Olson"
+  },
+  {
+    "title": "2004 PSA Picnic #11",
+    "src": "dsc02842.jpg",
+    "tags": "2004",
+    "alt": "2004 PSA Picnic #11",
+    "imgDir": "./src/images/picnic_2004/",
+    "outputDir": "/images/picnic_2004",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Kay Olson"
+  },
+  {
+    "title": "2004 PSA Picnic #12",
+    "src": "dsc02843.jpg",
+    "tags": "2004",
+    "alt": "2004 PSA Picnic #12",
+    "imgDir": "./src/images/picnic_2004/",
+    "outputDir": "/images/picnic_2004",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Kay Olson"
+  },
+  {
+    "title": "2004 PSA Picnic #13",
+    "src": "dsc02844.jpg",
+    "tags": "2004",
+    "alt": "2004 PSA Picnic #13",
+    "imgDir": "./src/images/picnic_2004/",
+    "outputDir": "/images/picnic_2004",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Kay Olson"
+  },
+  {
+    "title": "2004 PSA Picnic #14",
+    "src": "dsc02845.jpg",
+    "tags": "2004",
+    "alt": "2004 PSA Picnic #14",
+    "imgDir": "./src/images/picnic_2004/",
+    "outputDir": "/images/picnic_2004",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Kay Olson"
+  },
+  {
+    "title": "2004 PSA Picnic #15",
+    "src": "dsc02848.jpg",
+    "tags": "2004",
+    "alt": "2004 PSA Picnic #15",
+    "imgDir": "./src/images/picnic_2004/",
+    "outputDir": "/images/picnic_2004",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Kay Olson"
+  },
+  {
+    "title": "2004 PSA Picnic #16",
+    "src": "dsc02850.jpg",
+    "tags": "2004",
+    "alt": "2004 PSA Picnic #16",
+    "imgDir": "./src/images/picnic_2004/",
+    "outputDir": "/images/picnic_2004",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Kay Olson"
+  },
+  {
+    "title": "2004 PSA Picnic #17",
+    "src": "dsc02851.jpg",
+    "tags": "2004",
+    "alt": "2004 PSA Picnic #17",
+    "imgDir": "./src/images/picnic_2004/",
+    "outputDir": "/images/picnic_2004",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Kay Olson"
+  },
+  {
+    "title": "2004 PSA Picnic #18",
+    "src": "dsc02855.jpg",
+    "tags": "2004",
+    "alt": "2004 PSA Picnic #18",
+    "imgDir": "./src/images/picnic_2004/",
+    "outputDir": "/images/picnic_2004",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Kay Olson"
+  },
+  {
+    "title": "2004 PSA Picnic #19",
+    "src": "dsc02859.jpg",
+    "tags": "2004",
+    "alt": "2004 PSA Picnic #19",
+    "imgDir": "./src/images/picnic_2004/",
+    "outputDir": "/images/picnic_2004",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Kay Olson"
+  },
+  {
+    "title": "2004 PSA Picnic #20",
+    "src": "dsc02860.jpg",
+    "tags": "2004",
+    "alt": "2004 PSA Picnic #20",
+    "imgDir": "./src/images/picnic_2004/",
+    "outputDir": "/images/picnic_2004",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Kay Olson"
+  },
+  {
+    "title": "2004 PSA Picnic #21",
+    "src": "dsc02863.jpg",
+    "tags": "2004",
+    "alt": "2004 PSA Picnic #21",
+    "imgDir": "./src/images/picnic_2004/",
+    "outputDir": "/images/picnic_2004",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Kay Olson"
+  },
+  {
+    "title": "2004 PSA Picnic #22",
+    "src": "dsc02868.jpg",
+    "tags": "2004",
+    "alt": "2004 PSA Picnic #22",
+    "imgDir": "./src/images/picnic_2004/",
+    "outputDir": "/images/picnic_2004",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Kay Olson"
+  },
+  {
+    "title": "2004 PSA Picnic #23",
+    "src": "dsc02869.jpg",
+    "tags": "2004",
+    "alt": "2004 PSA Picnic #23",
+    "imgDir": "./src/images/picnic_2004/",
+    "outputDir": "/images/picnic_2004",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Kay Olson"
+  },
+  {
+    "title": "2004 PSA Picnic #24",
+    "src": "dsc02870.jpg",
+    "tags": "2004",
+    "alt": "2004 PSA Picnic #24",
+    "imgDir": "./src/images/picnic_2004/",
+    "outputDir": "/images/picnic_2004",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Kay Olson"
+  },
+  {
+    "title": "2004 PSA Picnic #25",
+    "src": "dsc02871.jpg",
+    "tags": "2004",
+    "alt": "2004 PSA Picnic #25",
+    "imgDir": "./src/images/picnic_2004/",
+    "outputDir": "/images/picnic_2004",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Kay Olson"
+  },
+  {
+    "title": "2004 PSA Picnic #26",
+    "src": "dsc02873.jpg",
+    "tags": "2004",
+    "alt": "2004 PSA Picnic #26",
+    "imgDir": "./src/images/picnic_2004/",
+    "outputDir": "/images/picnic_2004",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Kay Olson"
+  },
+  {
+    "title": "2004 PSA Picnic #27",
+    "src": "dsc02874.jpg",
+    "tags": "2004",
+    "alt": "2004 PSA Picnic #27",
+    "imgDir": "./src/images/picnic_2004/",
+    "outputDir": "/images/picnic_2004",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Kay Olson"
+  },
+  {
+    "title": "2004 PSA Picnic #28",
+    "src": "dsc02875.jpg",
+    "tags": "2004",
+    "alt": "2004 PSA Picnic #28",
+    "imgDir": "./src/images/picnic_2004/",
+    "outputDir": "/images/picnic_2004",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Kay Olson"
+  },
+  {
+    "title": "2004 PSA Picnic #29",
+    "src": "dsc02876.jpg",
+    "tags": "2004",
+    "alt": "2004 PSA Picnic #29",
+    "imgDir": "./src/images/picnic_2004/",
+    "outputDir": "/images/picnic_2004",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Kay Olson"
+  },
+  {
+    "title": "2004 PSA Picnic #30",
+    "src": "dsc02877.jpg",
+    "tags": "2004",
+    "alt": "2004 PSA Picnic #30",
+    "imgDir": "./src/images/picnic_2004/",
+    "outputDir": "/images/picnic_2004",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Kay Olson"
+  },
+  {
+    "title": "2004 PSA Picnic #31",
+    "src": "dsc02878.jpg",
+    "tags": "2004",
+    "alt": "2004 PSA Picnic #31",
+    "imgDir": "./src/images/picnic_2004/",
+    "outputDir": "/images/picnic_2004",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Kay Olson"
+  },
+  {
+    "title": "2004 PSA Picnic #32",
+    "src": "dsc02879.jpg",
+    "tags": "2004",
+    "alt": "2004 PSA Picnic #32",
+    "imgDir": "./src/images/picnic_2004/",
+    "outputDir": "/images/picnic_2004",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Kay Olson"
+  },
+  {
+    "title": "2004 PSA Picnic #33",
+    "src": "dsc02881.jpg",
+    "tags": "2004",
+    "alt": "2004 PSA Picnic #33",
+    "imgDir": "./src/images/picnic_2004/",
+    "outputDir": "/images/picnic_2004",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Kay Olson"
+  },
+  {
+    "title": "2004 PSA Picnic #34",
+    "src": "dsc02883.jpg",
+    "tags": "2004",
+    "alt": "2004 PSA Picnic #34",
+    "imgDir": "./src/images/picnic_2004/",
+    "outputDir": "/images/picnic_2004",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Kay Olson"
+  },
+  {
+    "title": "2004 PSA Picnic #35",
+    "src": "dsc02884.jpg",
+    "tags": "2004",
+    "alt": "2004 PSA Picnic #35",
+    "imgDir": "./src/images/picnic_2004/",
+    "outputDir": "/images/picnic_2004",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Kay Olson"
+  },
+  {
+    "title": "2004 PSA Picnic #36",
+    "src": "dsc02885.jpg",
+    "tags": "2004",
+    "alt": "2004 PSA Picnic #36",
+    "imgDir": "./src/images/picnic_2004/",
+    "outputDir": "/images/picnic_2004",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Kay Olson"
+  },
+  {
+    "title": "2004 PSA Picnic #37",
+    "src": "dsc02886.jpg",
+    "tags": "2004",
+    "alt": "2004 PSA Picnic #37",
+    "imgDir": "./src/images/picnic_2004/",
+    "outputDir": "/images/picnic_2004",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Kay Olson"
+  },
+  {
+    "title": "2004 PSA Picnic #38",
+    "src": "dsc02889.jpg",
+    "tags": "2004",
+    "alt": "2004 PSA Picnic #38",
+    "imgDir": "./src/images/picnic_2004/",
+    "outputDir": "/images/picnic_2004",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Kay Olson"
+  },
+  {
+    "title": "2004 PSA Picnic #39",
+    "src": "dsc02890.jpg",
+    "tags": "2004",
+    "alt": "2004 PSA Picnic #39",
+    "imgDir": "./src/images/picnic_2004/",
+    "outputDir": "/images/picnic_2004",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Kay Olson"
+  },
+  {
+    "title": "2004 PSA Picnic #40",
+    "src": "dsc02891.jpg",
+    "tags": "2004",
+    "alt": "2004 PSA Picnic #40",
+    "imgDir": "./src/images/picnic_2004/",
+    "outputDir": "/images/picnic_2004",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Kay Olson"
+  },
+  {
+    "title": "2004 PSA Picnic #41",
+    "src": "dsc02892.jpg",
+    "tags": "2004",
+    "alt": "2004 PSA Picnic #41",
+    "imgDir": "./src/images/picnic_2004/",
+    "outputDir": "/images/picnic_2004",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Kay Olson"
+  },
+  {
+    "title": "2004 PSA Picnic #42",
+    "src": "dsc02893.jpg",
+    "tags": "2004",
+    "alt": "2004 PSA Picnic #42",
+    "imgDir": "./src/images/picnic_2004/",
+    "outputDir": "/images/picnic_2004",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Kay Olson"
+  },
+  {
+    "title": "2004 PSA Picnic #43",
+    "src": "dsc02894.jpg",
+    "tags": "2004",
+    "alt": "2004 PSA Picnic #43",
+    "imgDir": "./src/images/picnic_2004/",
+    "outputDir": "/images/picnic_2004",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Kay Olson"
+  },
+  {
+    "title": "2004 PSA Picnic #44",
+    "src": "dsc02896.jpg",
+    "tags": "2004",
+    "alt": "2004 PSA Picnic #44",
+    "imgDir": "./src/images/picnic_2004/",
+    "outputDir": "/images/picnic_2004",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Kay Olson"
+  },
+  {
+    "title": "2004 PSA Picnic #45",
+    "src": "dsc02897.jpg",
+    "tags": "2004",
+    "alt": "2004 PSA Picnic #45",
+    "imgDir": "./src/images/picnic_2004/",
+    "outputDir": "/images/picnic_2004",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Kay Olson"
+  },
+  {
+    "title": "2004 PSA Picnic #46",
+    "src": "dsc02898.jpg",
+    "tags": "2004",
+    "alt": "2004 PSA Picnic #46",
+    "imgDir": "./src/images/picnic_2004/",
+    "outputDir": "/images/picnic_2004",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Kay Olson"
+  },
+  {
+    "title": "2004 PSA Picnic #47",
+    "src": "dsc02899.jpg",
+    "tags": "2004",
+    "alt": "2004 PSA Picnic #47",
+    "imgDir": "./src/images/picnic_2004/",
+    "outputDir": "/images/picnic_2004",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Kay Olson"
+  },
+  {
+    "title": "2004 PSA Picnic #48",
+    "src": "dsc02900.jpg",
+    "tags": "2004",
+    "alt": "2004 PSA Picnic #48",
+    "imgDir": "./src/images/picnic_2004/",
+    "outputDir": "/images/picnic_2004",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Kay Olson"
+  },
+  {
+    "title": "2004 PSA Picnic #49",
+    "src": "dsc02901.jpg",
+    "tags": "2004",
+    "alt": "2004 PSA Picnic #49",
+    "imgDir": "./src/images/picnic_2004/",
+    "outputDir": "/images/picnic_2004",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Kay Olson"
+  },
+  {
+    "title": "2004 PSA Picnic #50",
+    "src": "dsc02902.jpg",
+    "tags": "2004",
+    "alt": "2004 PSA Picnic #50",
+    "imgDir": "./src/images/picnic_2004/",
+    "outputDir": "/images/picnic_2004",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Kay Olson"
+  },
+  {
+    "title": "2004 PSA Picnic #51",
+    "src": "dsc02903.jpg",
+    "tags": "2004",
+    "alt": "2004 PSA Picnic #51",
+    "imgDir": "./src/images/picnic_2004/",
+    "outputDir": "/images/picnic_2004",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Kay Olson"
+  },
+  {
+    "title": "2004 PSA Picnic #52",
+    "src": "dsc02905.jpg",
+    "tags": "2004",
+    "alt": "2004 PSA Picnic #52",
+    "imgDir": "./src/images/picnic_2004/",
+    "outputDir": "/images/picnic_2004",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Kay Olson"
+  },
+  {
+    "title": "2004 PSA Picnic #53",
+    "src": "dsc02908.jpg",
+    "tags": "2004",
+    "alt": "2004 PSA Picnic #53",
+    "imgDir": "./src/images/picnic_2004/",
+    "outputDir": "/images/picnic_2004",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Kay Olson"
+  },
+  {
+    "title": "2004 PSA Picnic #54",
+    "src": "fred-1.jpg",
+    "tags": "2004",
+    "alt": "2004 PSA Picnic #54",
+    "imgDir": "./src/images/picnic_2004/",
+    "outputDir": "/images/picnic_2004",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Fred Hall"
+  },
+  {
+    "title": "2004 PSA Picnic #55",
+    "src": "fred-2.jpg",
+    "tags": "2004",
+    "alt": "2004 PSA Picnic #55",
+    "imgDir": "./src/images/picnic_2004/",
+    "outputDir": "/images/picnic_2004",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Fred Hall"
+  },
+  {
+    "title": "2004 PSA Picnic #56",
+    "src": "fred-3.jpg",
+    "tags": "2004",
+    "alt": "2004 PSA Picnic #56",
+    "imgDir": "./src/images/picnic_2004/",
+    "outputDir": "/images/picnic_2004",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Fred Hall"
+  },
+  {
+    "title": "2004 PSA Picnic #57",
+    "src": "fred-4.jpg",
+    "tags": "2004",
+    "alt": "2004 PSA Picnic #57",
+    "imgDir": "./src/images/picnic_2004/",
+    "outputDir": "/images/picnic_2004",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Fred Hall"
+  },
+  {
+    "title": "2004 PSA Picnic #58",
+    "src": "fred-5.jpg",
+    "tags": "2004",
+    "alt": "2004 PSA Picnic #58",
+    "imgDir": "./src/images/picnic_2004/",
+    "outputDir": "/images/picnic_2004",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Fred Hall"
+  },
+  {
+    "title": "2004 PSA Picnic #59",
+    "src": "fred-6.jpg",
+    "tags": "2004",
+    "alt": "2004 PSA Picnic #59",
+    "imgDir": "./src/images/picnic_2004/",
+    "outputDir": "/images/picnic_2004",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Fred Hall"
+  },
+  {
+    "title": "2004 PSA Picnic #60",
+    "src": "fred-7.jpg",
+    "tags": "2004",
+    "alt": "2004 PSA Picnic #60",
+    "imgDir": "./src/images/picnic_2004/",
+    "outputDir": "/images/picnic_2004",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Fred Hall"
+  },
+  {
+    "title": "2004 PSA Picnic #61",
+    "src": "fred-8.jpg",
+    "tags": "2004",
+    "alt": "2004 PSA Picnic #61",
+    "imgDir": "./src/images/picnic_2004/",
+    "outputDir": "/images/picnic_2004",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Fred Hall"
+  },
+  {
+    "title": "2004 PSA Picnic #62",
+    "src": "fred-9.jpg",
+    "tags": "2004",
+    "alt": "2004 PSA Picnic #62",
+    "imgDir": "./src/images/picnic_2004/",
+    "outputDir": "/images/picnic_2004",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Fred Hall"
+  },
+  {
+    "title": "2004 PSA Picnic #63",
+    "src": "fred-10.jpg",
+    "tags": "2004",
+    "alt": "2004 PSA Picnic #63",
+    "imgDir": "./src/images/picnic_2004/",
+    "outputDir": "/images/picnic_2004",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Fred Hall"
+  },
+  {
+    "title": "2004 PSA Picnic #64",
+    "src": "fred-11.jpg",
+    "tags": "2004",
+    "alt": "2004 PSA Picnic #64",
+    "imgDir": "./src/images/picnic_2004/",
+    "outputDir": "/images/picnic_2004",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Fred Hall"
+  },
+  {
+    "title": "2004 PSA Picnic #65",
+    "src": "fred-12.jpg",
+    "tags": "2004",
+    "alt": "2004 PSA Picnic #65",
+    "imgDir": "./src/images/picnic_2004/",
+    "outputDir": "/images/picnic_2004",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Fred Hall"
+  },
+  {
+    "title": "2004 PSA Picnic #66",
+    "src": "fred-13.jpg",
+    "tags": "2004",
+    "alt": "2004 PSA Picnic #66",
+    "imgDir": "./src/images/picnic_2004/",
+    "outputDir": "/images/picnic_2004",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Fred Hall"
+  },
+  {
+    "title": "2004 PSA Picnic #67",
+    "src": "fred-14.jpg",
+    "tags": "2004",
+    "alt": "2004 PSA Picnic #67",
+    "imgDir": "./src/images/picnic_2004/",
+    "outputDir": "/images/picnic_2004",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Fred Hall"
+  },
+  {
+    "title": "2004 PSA Picnic #68",
+    "src": "fred-15.jpg",
+    "tags": "2004",
+    "alt": "2004 PSA Picnic #68",
+    "imgDir": "./src/images/picnic_2004/",
+    "outputDir": "/images/picnic_2004",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Fred Hall"
+  },
+  {
+    "title": "2004 PSA Picnic #69",
+    "src": "fred-16.jpg",
+    "tags": "2004",
+    "alt": "2004 PSA Picnic #69",
+    "imgDir": "./src/images/picnic_2004/",
+    "outputDir": "/images/picnic_2004",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Fred Hall"
+  }
+]

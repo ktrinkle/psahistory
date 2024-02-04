@@ -1,0 +1,382 @@
+[
+  {
+    "title": "ABQ Baggage tag",
+    "src": "abqtag.jpg",
+    "tags": "bag_tag",
+    "alt": "ABQ Baggage tag",
+    "imgDir": "./src/images/bag_tag/",
+    "outputDir": "/images/bag_tag",
+    "pathToRoot": "../../..",
+    "credit": "Collection of Kevin Trinkle"
+  },
+  {
+    "title": "ACV Baggage tag",
+    "src": "acvtag.jpg",
+    "tags": "bag_tag",
+    "alt": "ACV Baggage tag",
+    "imgDir": "./src/images/bag_tag/",
+    "outputDir": "/images/bag_tag",
+    "pathToRoot": "../../..",
+    "credit": "Collection of Kevin Trinkle"
+  },
+  {
+    "title": "BLI Baggage tag",
+    "src": "blitag.jpg",
+    "tags": "bag_tag",
+    "alt": "BLI Baggage tag",
+    "imgDir": "./src/images/bag_tag/",
+    "outputDir": "/images/bag_tag",
+    "pathToRoot": "../../..",
+    "credit": "Collection of Kevin Trinkle"
+  },
+  {
+    "title": "BOI Baggage tag",
+    "src": "boitag.jpg",
+    "tags": "bag_tag",
+    "alt": "BOI Baggage tag",
+    "imgDir": "./src/images/bag_tag/",
+    "outputDir": "/images/bag_tag",
+    "pathToRoot": "../../..",
+    "credit": "Collection of Kevin Trinkle"
+  },
+  {
+    "title": "BUR Baggage tag",
+    "src": "burtag.jpg",
+    "tags": "bag_tag",
+    "alt": "BUR Baggage tag",
+    "imgDir": "./src/images/bag_tag/",
+    "outputDir": "/images/bag_tag",
+    "pathToRoot": "../../..",
+    "credit": "Collection of Kevin Trinkle"
+  },
+  {
+    "title": "CCR Baggage tag",
+    "src": "ccrtag_cl.jpg",
+    "tags": "bag_tag",
+    "alt": "CCR Baggage tag (courtesy of Chris Laborde)",
+    "imgDir": "./src/images/bag_tag/",
+    "outputDir": "/images/bag_tag",
+    "pathToRoot": "../../..",
+    "credit": "Collection of Chris Laborde"
+  },
+  {
+    "title": "EUG Baggage tag",
+    "src": "eugtag.jpg",
+    "tags": "bag_tag",
+    "alt": "EUG Baggage tag",
+    "imgDir": "./src/images/bag_tag/",
+    "outputDir": "/images/bag_tag",
+    "pathToRoot": "../../..",
+    "credit": "Collection of Kevin Trinkle"
+  },
+  {
+    "title": "FAT Baggage tag",
+    "src": "fattag.jpg",
+    "tags": "bag_tag",
+    "alt": "FAT Baggage tag",
+    "imgDir": "./src/images/bag_tag/",
+    "outputDir": "/images/bag_tag",
+    "pathToRoot": "../../..",
+    "credit": "Collection of Kevin Trinkle"
+  },
+  {
+    "title": "GEG Baggage tag",
+    "src": "gegtag.jpg",
+    "tags": "bag_tag",
+    "alt": "GEG Baggage tag",
+    "imgDir": "./src/images/bag_tag/",
+    "outputDir": "/images/bag_tag",
+    "pathToRoot": "../../..",
+    "credit": "Collection of Kevin Trinkle"
+  },
+  {
+    "title": "HDN Baggage tag",
+    "src": "hdntag.jpg",
+    "tags": "bag_tag",
+    "alt": "HDN Baggage tag",
+    "imgDir": "./src/images/bag_tag/",
+    "outputDir": "/images/bag_tag",
+    "pathToRoot": "../../..",
+    "credit": "Collection of Kevin Trinkle"
+  },
+  {
+    "title": "LAS Baggage tag",
+    "src": "lastag.jpg",
+    "tags": "bag_tag",
+    "alt": "LAS Baggage tag",
+    "imgDir": "./src/images/bag_tag/",
+    "outputDir": "/images/bag_tag",
+    "pathToRoot": "../../..",
+    "credit": "Collection of Kevin Trinkle"
+  },
+  {
+    "title": "LAX Baggage tag",
+    "src": "laxtag.jpg",
+    "tags": "bag_tag",
+    "alt": "LAX Baggage tag",
+    "imgDir": "./src/images/bag_tag/",
+    "outputDir": "/images/bag_tag",
+    "pathToRoot": "../../..",
+    "credit": "Collection of Kevin Trinkle"
+  },
+  {
+    "title": "LAX Baggage tag (1970)",
+    "src": "laxtag70.jpg",
+    "tags": "bag_tag",
+    "alt": "LAX Baggage tag (1970)",
+    "imgDir": "./src/images/bag_tag/",
+    "outputDir": "/images/bag_tag",
+    "pathToRoot": "../../..",
+    "credit": "Collection of Kevin Trinkle"
+  },
+  {
+    "title": "LGB Baggage tag",
+    "src": "lgbtag.jpg",
+    "tags": "bag_tag",
+    "alt": "LGB Baggage tag",
+    "imgDir": "./src/images/bag_tag/",
+    "outputDir": "/images/bag_tag",
+    "pathToRoot": "../../..",
+    "credit": "Collection of Kevin Trinkle"
+  },
+  {
+    "title": "MFR Baggage tag",
+    "src": "mfrtag.jpg",
+    "tags": "bag_tag",
+    "alt": "MFR Baggage tag",
+    "imgDir": "./src/images/bag_tag/",
+    "outputDir": "/images/bag_tag",
+    "pathToRoot": "../../..",
+    "credit": "Collection of Kevin Trinkle"
+  },
+  {
+    "title": "OAK Baggage tag",
+    "src": "oaktag.jpg",
+    "tags": "bag_tag",
+    "alt": "OAK Baggage tag",
+    "imgDir": "./src/images/bag_tag/",
+    "outputDir": "/images/bag_tag",
+    "pathToRoot": "../../..",
+    "credit": "Collection of Kevin Trinkle"
+  },
+  {
+    "title": "OAK Baggage tag (1970)",
+    "src": "oaktag70.jpg",
+    "tags": "bag_tag",
+    "alt": "OAK Baggage tag (1970)",
+    "imgDir": "./src/images/bag_tag/",
+    "outputDir": "/images/bag_tag",
+    "pathToRoot": "../../..",
+    "credit": "Collection of Kevin Trinkle"
+  },
+  {
+    "title": "ONT Baggage tag",
+    "src": "onttag.jpg",
+    "tags": "bag_tag",
+    "alt": "ONT Baggage tag",
+    "imgDir": "./src/images/bag_tag/",
+    "outputDir": "/images/bag_tag",
+    "pathToRoot": "../../..",
+    "credit": "Collection of Kevin Trinkle"
+  },
+  {
+    "title": "PDX Baggage tag",
+    "src": "pdxtag.jpg",
+    "tags": "bag_tag",
+    "alt": "PDX Baggage tag",
+    "imgDir": "./src/images/bag_tag/",
+    "outputDir": "/images/bag_tag",
+    "pathToRoot": "../../..",
+    "credit": "Collection of Kevin Trinkle"
+  },
+  {
+    "title": "PHX Baggage tag",
+    "src": "phxtag.jpg",
+    "tags": "bag_tag",
+    "alt": "PHX Baggage tag",
+    "imgDir": "./src/images/bag_tag/",
+    "outputDir": "/images/bag_tag",
+    "pathToRoot": "../../..",
+    "credit": "Collection of Kevin Trinkle"
+  },
+  {
+    "title": "PSC Baggage tag",
+    "src": "psctag.jpg",
+    "tags": "bag_tag",
+    "alt": "PSC Baggage tag",
+    "imgDir": "./src/images/bag_tag/",
+    "outputDir": "/images/bag_tag",
+    "pathToRoot": "../../..",
+    "credit": "Collection of Kevin Trinkle"
+  },
+  {
+    "title": "PSP Baggage tag",
+    "src": "psptag_cl.jpg",
+    "tags": "bag_tag",
+    "alt": "PSP Baggage tag (courtesy of Chris Laborde)",
+    "imgDir": "./src/images/bag_tag/",
+    "outputDir": "/images/bag_tag",
+    "pathToRoot": "../../..",
+    "credit": "Collection of Kevin Trinkle"
+  },
+  {
+    "title": "RDM Baggage tag",
+    "src": "rdmtag.jpg",
+    "tags": "bag_tag",
+    "alt": "RDM Baggage tag",
+    "imgDir": "./src/images/bag_tag/",
+    "outputDir": "/images/bag_tag",
+    "pathToRoot": "../../..",
+    "credit": "Collection of Kevin Trinkle"
+  },
+  {
+    "title": "RNO Baggage tag",
+    "src": "rnotag.jpg",
+    "tags": "bag_tag",
+    "alt": "RNO Baggage tag",
+    "imgDir": "./src/images/bag_tag/",
+    "outputDir": "/images/bag_tag",
+    "pathToRoot": "../../..",
+    "credit": "Collection of Kevin Trinkle"
+  },
+  {
+    "title": "SAN Baggage tag",
+    "src": "santag.jpg",
+    "tags": "bag_tag",
+    "alt": "SAN Baggage tag",
+    "imgDir": "./src/images/bag_tag/",
+    "outputDir": "/images/bag_tag",
+    "pathToRoot": "../../..",
+    "credit": "Collection of Kevin Trinkle"
+  },
+  {
+    "title": "SAN Baggage tag (1970)",
+    "src": "santag70.jpg",
+    "tags": "bag_tag",
+    "alt": "SAN Baggage tag (1970)",
+    "imgDir": "./src/images/bag_tag/",
+    "outputDir": "/images/bag_tag",
+    "pathToRoot": "../../..",
+    "credit": "Collection of Kevin Trinkle"
+  },
+  {
+    "title": "SCK Baggage tag",
+    "src": "scktag.jpg",
+    "tags": "bag_tag",
+    "alt": "SCK Baggage tag",
+    "imgDir": "./src/images/bag_tag/",
+    "outputDir": "/images/bag_tag",
+    "pathToRoot": "../../..",
+    "credit": "Collection of Kevin Trinkle"
+  },
+  {
+    "title": "SEA Baggage tag",
+    "src": "seatag.jpg",
+    "tags": "bag_tag",
+    "alt": "SEA Baggage tag",
+    "imgDir": "./src/images/bag_tag/",
+    "outputDir": "/images/bag_tag",
+    "pathToRoot": "../../..",
+    "credit": "Collection of Kevin Trinkle"
+  },
+  {
+    "title": "SFO Baggage tag",
+    "src": "sfotag.jpg",
+    "tags": "bag_tag",
+    "alt": "SFO Baggage tag",
+    "imgDir": "./src/images/bag_tag/",
+    "outputDir": "/images/bag_tag",
+    "pathToRoot": "../../..",
+    "credit": "Collection of Kevin Trinkle"
+  },
+  {
+    "title": "SFO Baggage tag (1964)",
+    "src": "sfo64tag.jpg",
+    "tags": "bag_tag",
+    "alt": "SFO Baggage tag (1964)",
+    "imgDir": "./src/images/bag_tag/",
+    "outputDir": "/images/bag_tag",
+    "pathToRoot": "../../..",
+    "credit": "Collection of Kevin Trinkle"
+  },
+  {
+    "title": "SJC Baggage tag",
+    "src": "sjctag.jpg",
+    "tags": "bag_tag",
+    "alt": "SJC Baggage tag",
+    "imgDir": "./src/images/bag_tag/",
+    "outputDir": "/images/bag_tag",
+    "pathToRoot": "../../..",
+    "credit": "Collection of Kevin Trinkle"
+  },
+  {
+    "title": "SJD Baggage tag",
+    "src": "sjdtag.jpg",
+    "tags": "bag_tag",
+    "alt": "SJD Baggage tag",
+    "imgDir": "./src/images/bag_tag/",
+    "outputDir": "/images/bag_tag",
+    "pathToRoot": "../../..",
+    "credit": "Collection of Kevin Trinkle"
+  },
+  {
+    "title": "SLC Baggage tag",
+    "src": "slctag.jpeg",
+    "tags": "bag_tag",
+    "alt": "<p>SLC Baggage tag</p>",
+    "imgDir": "./src/images/bag_tag/",
+    "outputDir": "/images/bag_tag",
+    "pathToRoot": "../../..",
+    "credit": "Collection of Kevin Trinkle"
+  },
+  {
+    "title": "SMF Baggage tag",
+    "src": "smftag.jpg",
+    "tags": "bag_tag",
+    "alt": "SMF Baggage tag",
+    "imgDir": "./src/images/bag_tag/",
+    "outputDir": "/images/bag_tag",
+    "pathToRoot": "../../..",
+    "credit": "Collection of Kevin Trinkle"
+  },
+  {
+    "title": "SNA Baggage tag",
+    "src": "snatag.jpg",
+    "tags": "bag_tag",
+    "alt": "SNA Baggage tag",
+    "imgDir": "./src/images/bag_tag/",
+    "outputDir": "/images/bag_tag",
+    "pathToRoot": "../../..",
+    "credit": "Collection of Kevin Trinkle"
+  },
+  {
+    "title": "TUS Baggage tag",
+    "src": "tustag2.jpg",
+    "tags": "bag_tag",
+    "alt": "TUS Baggage tag",
+    "imgDir": "./src/images/bag_tag/",
+    "outputDir": "/images/bag_tag",
+    "pathToRoot": "../../..",
+    "credit": "Collection of Kevin Trinkle"
+  },
+  {
+    "title": "TVL Baggage tag",
+    "src": "tvltag_cl.jpg",
+    "tags": "bag_tag",
+    "alt": "TVL Baggage tag (courtesy of Chris Laborde)",
+    "imgDir": "./src/images/bag_tag/",
+    "outputDir": "/images/bag_tag",
+    "pathToRoot": "../../..",
+    "credit": "Collection of Chris Laborde"
+  },
+  {
+    "title": "YKM Baggage tag",
+    "src": "ykmtag.jpg",
+    "tags": "bag_tag",
+    "alt": "YKM Baggage tag",
+    "imgDir": "./src/images/bag_tag/",
+    "outputDir": "/images/bag_tag",
+    "pathToRoot": "../../..",
+    "credit": "Collection of Kevin Trinkle"
+  }
+]

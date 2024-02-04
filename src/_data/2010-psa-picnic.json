@@ -1,0 +1,662 @@
+[
+  {
+    "title": "2010 PSA Picnic #1",
+    "src": "pty499.jpg",
+    "tags": "2010",
+    "alt": "2010 PSA Picnic #1",
+    "imgDir": "./src/images/picnic_2010/",
+    "outputDir": "/images/picnic_2010",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Kevin Trinkle"
+  },
+  {
+    "title": "2010 PSA Picnic #2",
+    "src": "pty500.jpg",
+    "tags": "2010",
+    "alt": "2010 PSA Picnic #2",
+    "imgDir": "./src/images/picnic_2010/",
+    "outputDir": "/images/picnic_2010",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Kevin Trinkle"
+  },
+  {
+    "title": "2010 PSA Picnic #3",
+    "src": "pty501.jpg",
+    "tags": "2010",
+    "alt": "2010 PSA Picnic #3",
+    "imgDir": "./src/images/picnic_2010/",
+    "outputDir": "/images/picnic_2010",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Kevin Trinkle"
+  },
+  {
+    "title": "2010 PSA Picnic #4",
+    "src": "pty502.jpg",
+    "tags": "2010",
+    "alt": "2010 PSA Picnic #4",
+    "imgDir": "./src/images/picnic_2010/",
+    "outputDir": "/images/picnic_2010",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Kevin Trinkle"
+  },
+  {
+    "title": "2010 PSA Picnic #5",
+    "src": "pty503.jpg",
+    "tags": "2010",
+    "alt": "2010 PSA Picnic #5",
+    "imgDir": "./src/images/picnic_2010/",
+    "outputDir": "/images/picnic_2010",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Kevin Trinkle"
+  },
+  {
+    "title": "2010 PSA Picnic #6",
+    "src": "pty504.jpg",
+    "tags": "2010",
+    "alt": "2010 PSA Picnic #6",
+    "imgDir": "./src/images/picnic_2010/",
+    "outputDir": "/images/picnic_2010",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Kevin Trinkle"
+  },
+  {
+    "title": "2010 PSA Picnic #7",
+    "src": "pty505.jpg",
+    "tags": "2010",
+    "alt": "2010 PSA Picnic #7",
+    "imgDir": "./src/images/picnic_2010/",
+    "outputDir": "/images/picnic_2010",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Kevin Trinkle"
+  },
+  {
+    "title": "2010 PSA Picnic #8",
+    "src": "pty506.jpg",
+    "tags": "2010",
+    "alt": "2010 PSA Picnic #8",
+    "imgDir": "./src/images/picnic_2010/",
+    "outputDir": "/images/picnic_2010",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Kevin Trinkle"
+  },
+  {
+    "title": "2010 PSA Picnic #9",
+    "src": "pty507.jpg",
+    "tags": "2010",
+    "alt": "2010 PSA Picnic #9",
+    "imgDir": "./src/images/picnic_2010/",
+    "outputDir": "/images/picnic_2010",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Kevin Trinkle"
+  },
+  {
+    "title": "2010 PSA Picnic #10",
+    "src": "pty508.jpg",
+    "tags": "2010",
+    "alt": "2010 PSA Picnic #10",
+    "imgDir": "./src/images/picnic_2010/",
+    "outputDir": "/images/picnic_2010",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Kevin Trinkle"
+  },
+  {
+    "title": "2010 PSA Picnic #11",
+    "src": "pty509.jpg",
+    "tags": "2010",
+    "alt": "2010 PSA Picnic #11",
+    "imgDir": "./src/images/picnic_2010/",
+    "outputDir": "/images/picnic_2010",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Kevin Trinkle"
+  },
+  {
+    "title": "2010 PSA Picnic #12",
+    "src": "pty510.jpg",
+    "tags": "2010",
+    "alt": "2010 PSA Picnic #12",
+    "imgDir": "./src/images/picnic_2010/",
+    "outputDir": "/images/picnic_2010",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Kevin Trinkle"
+  },
+  {
+    "title": "2010 PSA Picnic #13",
+    "src": "pty511.jpg",
+    "tags": "2010",
+    "alt": "2010 PSA Picnic #13",
+    "imgDir": "./src/images/picnic_2010/",
+    "outputDir": "/images/picnic_2010",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Kevin Trinkle"
+  },
+  {
+    "title": "2010 PSA Picnic #14",
+    "src": "pty513.jpg",
+    "tags": "2010",
+    "alt": "2010 PSA Picnic #14",
+    "imgDir": "./src/images/picnic_2010/",
+    "outputDir": "/images/picnic_2010",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Kevin Trinkle"
+  },
+  {
+    "title": "2010 PSA Picnic #15",
+    "src": "pty514.jpg",
+    "tags": "2010",
+    "alt": "2010 PSA Picnic #15",
+    "imgDir": "./src/images/picnic_2010/",
+    "outputDir": "/images/picnic_2010",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Kevin Trinkle"
+  },
+  {
+    "title": "2010 PSA Picnic #16",
+    "src": "pty515.jpg",
+    "tags": "2010",
+    "alt": "2010 PSA Picnic #16",
+    "imgDir": "./src/images/picnic_2010/",
+    "outputDir": "/images/picnic_2010",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Kevin Trinkle"
+  },
+  {
+    "title": "2010 PSA Picnic #17",
+    "src": "pty516.jpg",
+    "tags": "2010",
+    "alt": "2010 PSA Picnic #17",
+    "imgDir": "./src/images/picnic_2010/",
+    "outputDir": "/images/picnic_2010",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Kevin Trinkle"
+  },
+  {
+    "title": "2010 PSA Picnic #18",
+    "src": "pty518.jpg",
+    "tags": "2010",
+    "alt": "2010 PSA Picnic #18",
+    "imgDir": "./src/images/picnic_2010/",
+    "outputDir": "/images/picnic_2010",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Kevin Trinkle"
+  },
+  {
+    "title": "2010 PSA Picnic #19",
+    "src": "pty522.jpg",
+    "tags": "2010",
+    "alt": "2010 PSA Picnic #19",
+    "imgDir": "./src/images/picnic_2010/",
+    "outputDir": "/images/picnic_2010",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Kevin Trinkle"
+  },
+  {
+    "title": "2010 PSA Picnic #20",
+    "src": "pty523.jpg",
+    "tags": "2010",
+    "alt": "2010 PSA Picnic #20",
+    "imgDir": "./src/images/picnic_2010/",
+    "outputDir": "/images/picnic_2010",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Kevin Trinkle"
+  },
+  {
+    "title": "2010 PSA Picnic #21",
+    "src": "pty524.jpg",
+    "tags": "2010",
+    "alt": "2010 PSA Picnic #21",
+    "imgDir": "./src/images/picnic_2010/",
+    "outputDir": "/images/picnic_2010",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Kevin Trinkle"
+  },
+  {
+    "title": "2010 PSA Picnic #22",
+    "src": "pty525.jpg",
+    "tags": "2010",
+    "alt": "2010 PSA Picnic #22",
+    "imgDir": "./src/images/picnic_2010/",
+    "outputDir": "/images/picnic_2010",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Kevin Trinkle"
+  },
+  {
+    "title": "2010 PSA Picnic #23",
+    "src": "pty526.jpg",
+    "tags": "2010",
+    "alt": "2010 PSA Picnic #23",
+    "imgDir": "./src/images/picnic_2010/",
+    "outputDir": "/images/picnic_2010",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Kevin Trinkle"
+  },
+  {
+    "title": "2010 PSA Picnic #24",
+    "src": "pty527.jpg",
+    "tags": "2010",
+    "alt": "2010 PSA Picnic #24",
+    "imgDir": "./src/images/picnic_2010/",
+    "outputDir": "/images/picnic_2010",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Kevin Trinkle"
+  },
+  {
+    "title": "2010 PSA Picnic #25",
+    "src": "pty528.jpg",
+    "tags": "2010",
+    "alt": "2010 PSA Picnic #25",
+    "imgDir": "./src/images/picnic_2010/",
+    "outputDir": "/images/picnic_2010",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Kevin Trinkle"
+  },
+  {
+    "title": "2010 PSA Picnic #26",
+    "src": "pic531.jpg",
+    "tags": "2010",
+    "alt": "2010 PSA Picnic #26",
+    "imgDir": "./src/images/picnic_2010/",
+    "outputDir": "/images/picnic_2010",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Kevin Trinkle"
+  },
+  {
+    "title": "2010 PSA Picnic #27",
+    "src": "pic532.jpg",
+    "tags": "2010",
+    "alt": "2010 PSA Picnic #27",
+    "imgDir": "./src/images/picnic_2010/",
+    "outputDir": "/images/picnic_2010",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Kevin Trinkle"
+  },
+  {
+    "title": "2010 PSA Picnic #28",
+    "src": "pic533.jpg",
+    "tags": "2010",
+    "alt": "2010 PSA Picnic #28",
+    "imgDir": "./src/images/picnic_2010/",
+    "outputDir": "/images/picnic_2010",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Kevin Trinkle"
+  },
+  {
+    "title": "2010 PSA Picnic #29",
+    "src": "pic539.jpg",
+    "tags": "2010",
+    "alt": "2010 PSA Picnic #29",
+    "imgDir": "./src/images/picnic_2010/",
+    "outputDir": "/images/picnic_2010",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Kevin Trinkle"
+  },
+  {
+    "title": "2010 PSA Picnic #30",
+    "src": "pic540.jpg",
+    "tags": "2010",
+    "alt": "2010 PSA Picnic #30",
+    "imgDir": "./src/images/picnic_2010/",
+    "outputDir": "/images/picnic_2010",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Kevin Trinkle"
+  },
+  {
+    "title": "2010 PSA Picnic #31",
+    "src": "pic541.jpg",
+    "tags": "2010",
+    "alt": "2010 PSA Picnic #31",
+    "imgDir": "./src/images/picnic_2010/",
+    "outputDir": "/images/picnic_2010",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Kevin Trinkle"
+  },
+  {
+    "title": "2010 PSA Picnic #32",
+    "src": "pic542.jpg",
+    "tags": "2010",
+    "alt": "2010 PSA Picnic #32",
+    "imgDir": "./src/images/picnic_2010/",
+    "outputDir": "/images/picnic_2010",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Kevin Trinkle"
+  },
+  {
+    "title": "2010 PSA Picnic #33",
+    "src": "pic543.jpg",
+    "tags": "2010",
+    "alt": "2010 PSA Picnic #33",
+    "imgDir": "./src/images/picnic_2010/",
+    "outputDir": "/images/picnic_2010",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Kevin Trinkle"
+  },
+  {
+    "title": "2010 PSA Picnic #34",
+    "src": "pic544.jpg",
+    "tags": "2010",
+    "alt": "2010 PSA Picnic #34",
+    "imgDir": "./src/images/picnic_2010/",
+    "outputDir": "/images/picnic_2010",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Kevin Trinkle"
+  },
+  {
+    "title": "2010 PSA Picnic #35",
+    "src": "pic545.jpg",
+    "tags": "2010",
+    "alt": "2010 PSA Picnic #35",
+    "imgDir": "./src/images/picnic_2010/",
+    "outputDir": "/images/picnic_2010",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Kevin Trinkle"
+  },
+  {
+    "title": "2010 PSA Picnic #36",
+    "src": "pic546.jpg",
+    "tags": "2010",
+    "alt": "2010 PSA Picnic #36",
+    "imgDir": "./src/images/picnic_2010/",
+    "outputDir": "/images/picnic_2010",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Kevin Trinkle"
+  },
+  {
+    "title": "2010 PSA Picnic #37",
+    "src": "pic547.jpg",
+    "tags": "2010",
+    "alt": "2010 PSA Picnic #37",
+    "imgDir": "./src/images/picnic_2010/",
+    "outputDir": "/images/picnic_2010",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Kevin Trinkle"
+  },
+  {
+    "title": "2010 PSA Picnic #38",
+    "src": "pic548.jpg",
+    "tags": "2010",
+    "alt": "2010 PSA Picnic #38",
+    "imgDir": "./src/images/picnic_2010/",
+    "outputDir": "/images/picnic_2010",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Kevin Trinkle"
+  },
+  {
+    "title": "2010 PSA Picnic #39",
+    "src": "pic549.jpg",
+    "tags": "2010",
+    "alt": "2010 PSA Picnic #39",
+    "imgDir": "./src/images/picnic_2010/",
+    "outputDir": "/images/picnic_2010",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Kevin Trinkle"
+  },
+  {
+    "title": "2010 PSA Picnic #40",
+    "src": "pic550.jpg",
+    "tags": "2010",
+    "alt": "2010 PSA Picnic #40",
+    "imgDir": "./src/images/picnic_2010/",
+    "outputDir": "/images/picnic_2010",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Kevin Trinkle"
+  },
+  {
+    "title": "2010 PSA Picnic #41",
+    "src": "pic551.jpg",
+    "tags": "2010",
+    "alt": "2010 PSA Picnic #41",
+    "imgDir": "./src/images/picnic_2010/",
+    "outputDir": "/images/picnic_2010",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Kevin Trinkle"
+  },
+  {
+    "title": "2010 PSA Picnic #42",
+    "src": "pic552.jpg",
+    "tags": "2010",
+    "alt": "2010 PSA Picnic #42",
+    "imgDir": "./src/images/picnic_2010/",
+    "outputDir": "/images/picnic_2010",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Kevin Trinkle"
+  },
+  {
+    "title": "2010 PSA Picnic #43",
+    "src": "pic553.jpg",
+    "tags": "2010",
+    "alt": "2010 PSA Picnic #43",
+    "imgDir": "./src/images/picnic_2010/",
+    "outputDir": "/images/picnic_2010",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Kevin Trinkle"
+  },
+  {
+    "title": "2010 PSA Picnic #44",
+    "src": "pic554.jpg",
+    "tags": "2010",
+    "alt": "2010 PSA Picnic #44",
+    "imgDir": "./src/images/picnic_2010/",
+    "outputDir": "/images/picnic_2010",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Kevin Trinkle"
+  },
+  {
+    "title": "2010 PSA Picnic #45",
+    "src": "pic555.jpg",
+    "tags": "2010",
+    "alt": "2010 PSA Picnic #45",
+    "imgDir": "./src/images/picnic_2010/",
+    "outputDir": "/images/picnic_2010",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Kevin Trinkle"
+  },
+  {
+    "title": "2010 PSA Picnic #46",
+    "src": "pic556.jpg",
+    "tags": "2010",
+    "alt": "2010 PSA Picnic #46",
+    "imgDir": "./src/images/picnic_2010/",
+    "outputDir": "/images/picnic_2010",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Kevin Trinkle"
+  },
+  {
+    "title": "2010 PSA Picnic #47",
+    "src": "pic557.jpg",
+    "tags": "2010",
+    "alt": "2010 PSA Picnic #47",
+    "imgDir": "./src/images/picnic_2010/",
+    "outputDir": "/images/picnic_2010",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Kevin Trinkle"
+  },
+  {
+    "title": "2010 PSA Picnic #48",
+    "src": "pty529.jpg",
+    "tags": "2010",
+    "alt": "2010 PSA Picnic #48",
+    "imgDir": "./src/images/picnic_2010/",
+    "outputDir": "/images/picnic_2010",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Kevin Trinkle"
+  },
+  {
+    "title": "2010 PSA Picnic #49",
+    "src": "pic560.jpg",
+    "tags": "2010",
+    "alt": "2010 PSA Picnic #49",
+    "imgDir": "./src/images/picnic_2010/",
+    "outputDir": "/images/picnic_2010",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Kevin Trinkle"
+  },
+  {
+    "title": "2010 PSA Picnic #50",
+    "src": "pic562.jpg",
+    "tags": "2010",
+    "alt": "2010 PSA Picnic #50",
+    "imgDir": "./src/images/picnic_2010/",
+    "outputDir": "/images/picnic_2010",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Kevin Trinkle"
+  },
+  {
+    "title": "2010 PSA Picnic #51",
+    "src": "pic563.jpg",
+    "tags": "2010",
+    "alt": "2010 PSA Picnic #51",
+    "imgDir": "./src/images/picnic_2010/",
+    "outputDir": "/images/picnic_2010",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Kevin Trinkle"
+  },
+  {
+    "title": "2010 PSA Picnic #52",
+    "src": "pic564.jpg",
+    "tags": "2010",
+    "alt": "2010 PSA Picnic #52",
+    "imgDir": "./src/images/picnic_2010/",
+    "outputDir": "/images/picnic_2010",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Kevin Trinkle"
+  },
+  {
+    "title": "2010 PSA Picnic #53",
+    "src": "pic565.jpg",
+    "tags": "2010",
+    "alt": "2010 PSA Picnic #53",
+    "imgDir": "./src/images/picnic_2010/",
+    "outputDir": "/images/picnic_2010",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Kevin Trinkle"
+  },
+  {
+    "title": "2010 PSA Picnic #54",
+    "src": "pic566.jpg",
+    "tags": "2010",
+    "alt": "2010 PSA Picnic #54",
+    "imgDir": "./src/images/picnic_2010/",
+    "outputDir": "/images/picnic_2010",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Kevin Trinkle"
+  },
+  {
+    "title": "2010 PSA Picnic #55",
+    "src": "pic567.jpg",
+    "tags": "2010",
+    "alt": "2010 PSA Picnic #55",
+    "imgDir": "./src/images/picnic_2010/",
+    "outputDir": "/images/picnic_2010",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Kevin Trinkle"
+  },
+  {
+    "title": "2010 PSA Picnic #56",
+    "src": "pic576.jpg",
+    "tags": "2010",
+    "alt": "2010 PSA Picnic #56",
+    "imgDir": "./src/images/picnic_2010/",
+    "outputDir": "/images/picnic_2010",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Kevin Trinkle"
+  },
+  {
+    "title": "2010 PSA Picnic #57",
+    "src": "pic577.jpg",
+    "tags": "2010",
+    "alt": "2010 PSA Picnic #57",
+    "imgDir": "./src/images/picnic_2010/",
+    "outputDir": "/images/picnic_2010",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Kevin Trinkle"
+  },
+  {
+    "title": "2010 PSA Picnic #58",
+    "src": "pic593.jpg",
+    "tags": "2010",
+    "alt": "2010 PSA Picnic #58",
+    "imgDir": "./src/images/picnic_2010/",
+    "outputDir": "/images/picnic_2010",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Kevin Trinkle"
+  },
+  {
+    "title": "2010 PSA Picnic #59",
+    "src": "pic594.jpg",
+    "tags": "2010",
+    "alt": "2010 PSA Picnic #59",
+    "imgDir": "./src/images/picnic_2010/",
+    "outputDir": "/images/picnic_2010",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Kevin Trinkle"
+  },
+  {
+    "title": "2010 PSA Picnic #60",
+    "src": "pic595.jpg",
+    "tags": "2010",
+    "alt": "2010 PSA Picnic #60",
+    "imgDir": "./src/images/picnic_2010/",
+    "outputDir": "/images/picnic_2010",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Kevin Trinkle"
+  },
+  {
+    "title": "2010 PSA Picnic #61",
+    "src": "pic599.jpg",
+    "tags": "2010",
+    "alt": "2010 PSA Picnic #61",
+    "imgDir": "./src/images/picnic_2010/",
+    "outputDir": "/images/picnic_2010",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Kevin Trinkle"
+  },
+  {
+    "title": "2010 PSA Picnic #62",
+    "src": "pic600.jpg",
+    "tags": "2010",
+    "alt": "2010 PSA Picnic #62",
+    "imgDir": "./src/images/picnic_2010/",
+    "outputDir": "/images/picnic_2010",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Kevin Trinkle"
+  },
+  {
+    "title": "2010 PSA Picnic #63",
+    "src": "pic601.jpg",
+    "tags": "2010",
+    "alt": "2010 PSA Picnic #63",
+    "imgDir": "./src/images/picnic_2010/",
+    "outputDir": "/images/picnic_2010",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Kevin Trinkle"
+  },
+  {
+    "title": "2010 PSA Picnic #64",
+    "src": "pic602.jpg",
+    "tags": "2010",
+    "alt": "2010 PSA Picnic #64",
+    "imgDir": "./src/images/picnic_2010/",
+    "outputDir": "/images/picnic_2010",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Kevin Trinkle"
+  },
+  {
+    "title": "2010 PSA Picnic #65",
+    "src": "pic603.jpg",
+    "tags": "2010",
+    "alt": "2010 PSA Picnic #65",
+    "imgDir": "./src/images/picnic_2010/",
+    "outputDir": "/images/picnic_2010",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Kevin Trinkle"
+  },
+  {
+    "title": "2010 PSA Picnic #66",
+    "src": "pic604.jpg",
+    "tags": "2010",
+    "alt": "2010 PSA Picnic #66",
+    "imgDir": "./src/images/picnic_2010/",
+    "outputDir": "/images/picnic_2010",
+    "pathToRoot": "../../..",
+    "credit": "Photo by Kevin Trinkle"
+  }
+]

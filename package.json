@@ -1,0 +1,56 @@
+{
+  "name": "psa-eleventy",
+  "version": "7.0.0",
+  "description": "The PSA History Page",
+  "browserslist": "> 0.5%, last 3 versions, not dead",
+  "main": ".eleventy.js",
+  "scripts": {
+    "build": "npm-run-all build:*",
+    "start": "npm-run-all watch:*",
+    "dev": "npm-run-all --parallel watch:*",
+    "build:eleventy": "npx @11ty/eleventy",
+    "watch:eleventy": "npx @11ty/eleventy --serve",
+    "build:sass": "sass src/_includes/scss:src/_includes/css",
+    "watch:sass": "sass --watch src/_includes/scss:src/_includes/css",
+    "debug": "DEBUG=* @11ty/eleventy"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ktrinkle/psa-eleventy.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ktrinkle/psa-eleventy/issues"
+  },
+  "author": {
+    "name": "Kevin Trinkle",
+    "url": "https://github.com/ktrinkle"
+  },
+  "keywords": [
+    "PSA",
+    "Pacific Southwest Airlines",
+    "California",
+    "San Diego",
+    "Smile",
+    "Stewardess",
+    "Hot Pants"
+  ],
+  "homepage": "https://www.psa-history.org/",
+  "dependencies": {
+    "@11ty/eleventy": "^2.0.1",
+    "@11ty/eleventy-navigation": "^0.3.3",
+    "@popperjs/core": "^2.11.8",
+    "bootstrap": "^5.3.2",
+    "clean-css": "^4.2.3",
+    "eleventy-plugin-metagen": "^1.8.3",
+    "npm-run-all": "^4.1.5",
+    "sass": "^1.70.0",
+    "terser": "^5.7.2"
+  },
+  "devDependencies": {
+    "@11ty/eleventy-img": "^3.1.8",
+    "@parcel/transformer-sass": "^2.11.0"
+  },
+  "@mischnic/parcel-resolver-root": {
+    "/": "./dist"
+  }
+}

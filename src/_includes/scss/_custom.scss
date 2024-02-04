@@ -1,0 +1,109 @@
+@font-face {
+    font-family: instrument-serif;
+    src: url('/assets/fonts/InstrumentSerif-Regular.woff2');
+  }
+  
+  @font-face {
+    font-family: miki;
+    src: url('/assets/fonts/KontrapunktMikiRegular.otf');
+  }
+
+
+.image-description {
+    display: flex; 
+    flex-direction: column; 
+    justify-content: center; 
+    align-items: center; 
+    margin: 1.5rem auto 0 auto;
+    padding-left: 1rem;
+    padding-right: 1rem;
+
+    h1 {
+        margin-bottom: .8rem;
+        text-align: center;
+    }
+}
+
+.modal-dialog {
+    margin: 0; 
+    height: 100vh; 
+    width: 100%; 
+    overflow: auto; /*in case content overlap*/
+  }
+
+.modal-body img {
+    height: 100vh;  /* in order that both header and footer of .modal would be on the screen */
+    width: auto; 
+    margin: auto; 
+    display: block;
+}
+
+.image-block {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    max-width: 80ch;
+
+    .block-details {
+        margin: 1rem 0 0;
+
+        p {
+            margin-bottom: 0;
+            color: #333;
+        }
+    }
+
+    img {
+        max-width: 100%;
+        width: 100%;
+        object-fit: contain;
+      }
+}
+
+.skip-link {
+    position: fixed;
+    top: 0;
+    left: 0;
+    transform: translateY(-10rem);
+    transition: transform 0.3s ease-in-out;
+    padding: 0.5rem;
+    background: rgb(255, 255, 255);
+    color: #222;
+    z-index: 999;
+  }
+  .skip-link:focus {
+    transform: translateY(0);
+  }
+
+/* 404 page styles */
+.four-oh-four {
+    margin: 0 auto;
+    width: 100%;
+    max-width: 90ch;
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+    overflow: hidden;
+    background: inherit;
+    min-height: 100vh;
+
+    ul {
+        padding-left: 0;
+        li {
+            padding: 12px 14px;
+            margin: 10px auto;
+        }
+    }
+}
+
+body {
+    font-family: miki;
+}
+
+.instrument-serif {
+    font-family: instrument-serif;
+}
+
+.carousel-control-prev, .carousel-control-next {
+    height: 85vh;
+    top: 7.5vh;
+}
