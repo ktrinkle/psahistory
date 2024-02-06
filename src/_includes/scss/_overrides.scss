@@ -5,6 +5,8 @@ $custom-colors: (
   "psa-orange": #D77540
 );
 
+$btn-close-color: white;
+
 // Merge the maps
 $theme-colors: map-merge($theme-colors, $custom-colors);
 

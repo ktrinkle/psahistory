@@ -2,7 +2,7 @@
 {% macro renderNavListItemParent(link) -%}
 <li class="nav-item dropdown m-2 instrument-serif">
     {%- if link.children.length -%}
-    <a href="{{ link.url | htmlBaseUrl }}" class="nav-link dropdown-toggle" data-bs-toggle="dropdown" aria-expanded="false">
+    <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown" aria-expanded="false">
         {{ link.title }}
     </a>
     <ul class="dropdown-menu">
@@ -34,21 +34,22 @@
     <div class="container-fluid text-bg-psa-light-red mb-0 pt-2 pb-2">
         <div class="container">
             <a href="/"><img src="/assets/images/psa-80s-web.svg" width="200px" alt="PSA"></a>
-            <h3 class="text-end text-light instrument-serif">The PSA History Page</h3>
+            <h3 class="float-md-end text-light instrument-serif">The PSA History Page</h3>
         </div>
     </div>
-        <nav class="navbar navbar-expand-lg text-bg-psa-orange mb-1 text-light">
-            <div class="container-fluid">
-            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDarkDropdown" aria-controls="navbarNavDarkDropdown" aria-expanded="false" aria-label="Toggle navigation">
+    <nav class="navbar navbar-expand-lg text-bg-psa-orange mb-1 text-light">
+        <div class="container-fluid">
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarPsa" 
+                aria-controls="navbarPsa" aria-expanded="false" aria-label="Toggle navigation" data-cy="navBarBtn">
                 <span class="navbar-toggler-icon"></span>
             </button>
-            <div class="navbar-collapse collapse text-bg-psa-orange" id="navbarNavDarkDropdown">
+            <div class="navbar-collapse collapse text-bg-psa-orange" id="navbarPsa">
                 <ul class="navbar-nav p-1 link-light">
                     {% for link in navigation %}
                         {{ renderNavListItemParent(link) }}
                     {% endfor %}
                 </ul>
             </div>
-            </div>
-        </nav>
+        </div>
+    </nav>
 </header>

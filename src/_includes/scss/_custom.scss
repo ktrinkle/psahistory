@@ -33,9 +33,10 @@
 
 .modal-body img {
     height: 100vh;  /* in order that both header and footer of .modal would be on the screen */
-    width: auto; 
+    width: 100vw; 
     margin: auto; 
     display: block;
+    object-fit: contain;
 }
 
 .image-block {
@@ -109,12 +110,5 @@ body {
 }
   
 .modal-body .btn-close-white {
-    position: absolute;
-    top: 5px;
-    right: 25px;
-    font-size: 60px;
-    font-weight: bolder;
-    // transition: 0.3s;
     z-index: 1100!important;
-    // opacity: 0.6;
 }
