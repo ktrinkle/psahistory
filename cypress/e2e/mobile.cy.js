@@ -34,7 +34,7 @@ describe("Nav Menus", () => {
         cy.get("a").contains("Memorabilia").click();
         cy.get("a").contains("Bag Tags").click();
         cy.url().should("include", "/memorabilia/bag_tags");
-        cy.contains("h3", "Bag Tags");
+        cy.contains("h2", "Bag Tags");
     });
 
     it("opens bag tag #2 and confirms visibility", () => {
