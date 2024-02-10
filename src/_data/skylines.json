@@ -1,0 +1,749 @@
+[
+  {
+    "title": "Skylines, April 1959",
+    "tags": ["Skylines", "1959"],
+    "src": "19590424",
+    "alt": "Skylines, April 1959",
+    "year": "1959",
+    "fileDir": "./src/files/",
+    "outputDir": "/files"
+  },
+  {
+    "title": "Skylines, July 1967",
+    "tags": ["Skylines", "1967"],
+    "src": "196707",
+    "alt": "Skylines, July 1967",
+    "year": "1967",
+    "fileDir": "./src/files/",
+    "outputDir": "/files"
+  },
+  {
+    "title": "Skylines, November 1967",
+    "tags": ["Skylines", "1967"],
+    "src": "196711",
+    "alt": "Skylines, November 1967",
+    "year": "1967",
+    "fileDir": "./src/files/",
+    "outputDir": "/files"
+  },
+  {
+    "title": "Skylines, March 1968",
+    "tags": ["Skylines", "1968"],
+    "src": "196803",
+    "alt": "Skylines, March 1968",
+    "year": "1968",
+    "fileDir": "./src/files/",
+    "outputDir": "/files"
+  },
+  {
+    "title": "PSA Magazine Skylines, January 1969",
+    "tags": ["Skylines", "1969"],
+    "src": "196901",
+    "alt": "PSA Magazine Skylines, January 1969",
+    "year": "1969",
+    "fileDir": "./src/files/",
+    "outputDir": "/files"
+  },
+  {
+    "title": "PSA Magazine Skylines, February 1969",
+    "tags": ["Skylines", "1969"],
+    "src": "196902",
+    "alt": "PSA Magazine Skylines, February 1969",
+    "year": "1969",
+    "fileDir": "./src/files/",
+    "outputDir": "/files"
+  },
+  {
+    "title": "PSA Magazine Skylines, March 1969",
+    "tags": ["Skylines", "1969"],
+    "src": "196903",
+    "alt": "PSA Magazine Skylines, March 1969",
+    "year": "1969",
+    "fileDir": "./src/files/",
+    "outputDir": "/files"
+  },
+  {
+    "title": "PSA Magazine Skylines, April 1969",
+    "tags": ["Skylines", "1969"],
+    "src": "196904",
+    "alt": "PSA Magazine Skylines, April 1969",
+    "year": "1969",
+    "fileDir": "./src/files/",
+    "outputDir": "/files"
+  },
+  {
+    "title": "PSA Magazine Skylines, May 1969",
+    "tags": ["Skylines", "1969"],
+    "src": "196905",
+    "alt": "PSA Magazine Skylines, May 1969",
+    "year": "1969",
+    "fileDir": "./src/files/",
+    "outputDir": "/files"
+  },
+  {
+    "title": "PSA Magazine Skylines, June 1969",
+    "tags": ["Skylines", "1969"],
+    "src": "196906",
+    "alt": "PSA Magazine Skylines, June 1969",
+    "year": "1969",
+    "fileDir": "./src/files/",
+    "outputDir": "/files"
+  },
+  {
+    "title": "PSA Magazine Skylines, July 1969",
+    "tags": ["Skylines", "1969"],
+    "src": "196907",
+    "alt": "PSA Magazine Skylines, July 1969",
+    "year": "1969",
+    "fileDir": "./src/files/",
+    "outputDir": "/files"
+  },
+  {
+    "title": "PSA Magazine Skylines, August 1969",
+    "tags": ["Skylines", "1969"],
+    "src": "196908",
+    "alt": "PSA Magazine Skylines, August 1969",
+    "year": "1969",
+    "fileDir": "./src/files/",
+    "outputDir": "/files"
+  },
+  {
+    "title": "PSA Magazine Skylines, September 1969",
+    "tags": ["Skylines", "1969"],
+    "src": "196909",
+    "alt": "PSA Magazine Skylines, September 1969",
+    "year": "1969",
+    "fileDir": "./src/files/",
+    "outputDir": "/files"
+  },
+  {
+    "title": "PSA Magazine Skylines, October 1969",
+    "tags": ["Skylines", "1969"],
+    "src": "196910",
+    "alt": "PSA Magazine Skylines, October 1969",
+    "year": "1969",
+    "fileDir": "./src/files/",
+    "outputDir": "/files"
+  },
+  {
+    "title": "PSA Magazine Skylines, November 1969",
+    "tags": ["Skylines", "1969"],
+    "src": "196911",
+    "alt": "PSA Magazine Skylines, November 1969",
+    "year": "1969",
+    "fileDir": "./src/files/",
+    "outputDir": "/files"
+  },
+  {
+    "title": "PSA Magazine Skylines, January 1970",
+    "tags": ["Skylines", "1970"],
+    "src": "197001",
+    "alt": "PSA Magazine Skylines, January 1970",
+    "year": "1970",
+    "fileDir": "./src/files/",
+    "outputDir": "/files"
+  },
+  {
+    "title": "PSA Magazine Skylines, February 1970",
+    "tags": ["Skylines", "1970"],
+    "src": "197002",
+    "alt": "PSA Magazine Skylines, February 1970",
+    "year": "1970",
+    "fileDir": "./src/files/",
+    "outputDir": "/files"
+  },
+  {
+    "title": "PSA Magazine Skylines, March 1970",
+    "tags": ["Skylines", "1970"],
+    "src": "197003",
+    "alt": "PSA Magazine Skylines, March 1970",
+    "year": "1970",
+    "fileDir": "./src/files/",
+    "outputDir": "/files"
+  },
+  {
+    "title": "PSA Magazine Skylines, April 1970",
+    "tags": ["Skylines", "1970"],
+    "src": "197004",
+    "alt": "PSA Magazine Skylines, April 1970",
+    "year": "1970",
+    "fileDir": "./src/files/",
+    "outputDir": "/files"
+  },
+  {
+    "title": "PSA Magazine Skylines, May 1970",
+    "tags": ["Skylines", "1970"],
+    "src": "197005",
+    "alt": "PSA Magazine Skylines, May 1970",
+    "year": "1970",
+    "fileDir": "./src/files/",
+    "outputDir": "/files"
+  },
+  {
+    "title": "PSA Magazine Skylines, June 1970",
+    "tags": ["Skylines", "1970"],
+    "src": "197006",
+    "alt": "PSA Magazine Skylines, June 1970",
+    "year": "1970",
+    "fileDir": "./src/files/",
+    "outputDir": "/files"
+  },
+  {
+    "title": "PSA Magazine Skylines, July 1970",
+    "tags": ["Skylines", "1970"],
+    "src": "197007",
+    "alt": "PSA Magazine Skylines, July 1970",
+    "year": "1970",
+    "fileDir": "./src/files/",
+    "outputDir": "/files"
+  },
+  {
+    "title": "PSA Magazine Skylines, August 1970",
+    "tags": ["Skylines", "1970"],
+    "src": "197008",
+    "alt": "PSA Magazine Skylines, August 1970",
+    "year": "1970",
+    "fileDir": "./src/files/",
+    "outputDir": "/files"
+  },
+  {
+    "title": "PSA Magazine Skylines, September 1970",
+    "tags": ["Skylines", "1970"],
+    "src": "197009",
+    "alt": "PSA Magazine Skylines, September 1970",
+    "year": "1970",
+    "fileDir": "./src/files/",
+    "outputDir": "/files"
+  },
+  {
+    "title": "PSA Magazine Skylines, October 1970",
+    "tags": ["Skylines", "1970"],
+    "src": "197010",
+    "alt": "PSA Magazine Skylines, October 1970",
+    "year": "1970",
+    "fileDir": "./src/files/",
+    "outputDir": "/files"
+  },
+  {
+    "title": "PSA Magazine Skylines, November 1970",
+    "tags": ["Skylines", "1970"],
+    "src": "197011",
+    "alt": "PSA Magazine Skylines, November 1970",
+    "year": "1970",
+    "fileDir": "./src/files/",
+    "outputDir": "/files"
+  },
+  {
+    "title": "PSA Magazine Skylines, December 1970",
+    "tags": ["Skylines", "1970"],
+    "src": "197012",
+    "alt": "PSA Magazine Skylines, December 1970",
+    "year": "1970",
+    "fileDir": "./src/files/",
+    "outputDir": "/files"
+  },
+  {
+    "title": "PSA Magazine Skylines, January 1971",
+    "tags": ["Skylines", "1971"],
+    "src": "197101",
+    "alt": "PSA Magazine Skylines, January 1971",
+    "year": "1971",
+    "fileDir": "./src/files/",
+    "outputDir": "/files"
+  },
+  {
+    "title": "PSA Magazine Skylines, March 1971",
+    "tags": ["Skylines", "1971"],
+    "src": "197103",
+    "alt": "PSA Magazine Skylines, March 1971",
+    "year": "1971",
+    "fileDir": "./src/files/",
+    "outputDir": "/files"
+  },
+  {
+    "title": "PSA Magazine Skylines, April 1971",
+    "tags": ["Skylines", "1971"],
+    "src": "197104",
+    "alt": "PSA Magazine Skylines, April 1971",
+    "year": "1971",
+    "fileDir": "./src/files/",
+    "outputDir": "/files"
+  },
+  {
+    "title": "PSA Magazine Skylines, May 1971",
+    "tags": ["Skylines", "1971"],
+    "src": "197105",
+    "alt": "PSA Magazine Skylines, May 1971",
+    "year": "1971",
+    "fileDir": "./src/files/",
+    "outputDir": "/files"
+  },
+  {
+    "title": "PSA Magazine Skylines, June 1971",
+    "tags": ["Skylines", "1971"],
+    "src": "197106",
+    "alt": "PSA Magazine Skylines, June 1971",
+    "year": "1971",
+    "fileDir": "./src/files/",
+    "outputDir": "/files"
+  },
+  {
+    "title": "PSA Magazine Skylines, July 1971",
+    "tags": ["Skylines", "1971"],
+    "src": "197107",
+    "alt": "PSA Magazine Skylines, July 1971",
+    "year": "1971",
+    "fileDir": "./src/files/",
+    "outputDir": "/files"
+  },
+  {
+    "title": "PSA Magazine Skylines, August 1971",
+    "tags": ["Skylines", "1971"],
+    "src": "197108",
+    "alt": "PSA Magazine Skylines, August 1971",
+    "year": "1971",
+    "fileDir": "./src/files/",
+    "outputDir": "/files"
+  },
+  {
+    "title": "PSA Magazine Skylines, September 1971",
+    "tags": ["Skylines", "1971"],
+    "src": "197109",
+    "alt": "PSA Magazine Skylines, September 1971",
+    "year": "1971",
+    "fileDir": "./src/files/",
+    "outputDir": "/files"
+  },
+  {
+    "title": "PSA Magazine Skylines, December 1971",
+    "tags": ["Skylines", "1971"],
+    "src": "197112",
+    "alt": "PSA Magazine Skylines, December 1971",
+    "year": "1971",
+    "fileDir": "./src/files/",
+    "outputDir": "/files"
+  },
+  {
+    "title": "PSA Magazine Skylines, January 1972",
+    "tags": ["Skylines", "1972"],
+    "src": "197201",
+    "alt": "PSA Magazine Skylines, January 1972",
+    "year": "1972",
+    "fileDir": "./src/files/",
+    "outputDir": "/files"
+  },
+  {
+    "title": "PSA Magazine Skylines, February 1972",
+    "tags": ["Skylines", "1972"],
+    "src": "197202",
+    "alt": "PSA Magazine Skylines, February 1972",
+    "year": "1972",
+    "fileDir": "./src/files/",
+    "outputDir": "/files"
+  },
+  {
+    "title": "PSA Magazine Skylines, March 1972",
+    "tags": ["Skylines", "1972"],
+    "src": "197203",
+    "alt": "PSA Magazine Skylines, March 1972",
+    "year": "1972",
+    "fileDir": "./src/files/",
+    "outputDir": "/files"
+  },
+  {
+    "title": "PSA Magazine Skylines, April 1972",
+    "tags": ["Skylines", "1972"],
+    "src": "197204",
+    "alt": "PSA Magazine Skylines, April 1972",
+    "year": "1972",
+    "fileDir": "./src/files/",
+    "outputDir": "/files"
+  },
+  {
+    "title": "PSA Magazine Skylines, May 1972",
+    "tags": ["Skylines", "1972"],
+    "src": "197205",
+    "alt": "PSA Magazine Skylines, May 1972",
+    "year": "1972",
+    "fileDir": "./src/files/",
+    "outputDir": "/files"
+  },
+  {
+    "title": "PSA Magazine Skylines, June 1972",
+    "tags": ["Skylines", "1972"],
+    "src": "197206",
+    "alt": "PSA Magazine Skylines, June 1972",
+    "year": "1972",
+    "fileDir": "./src/files/",
+    "outputDir": "/files"
+  },
+  {
+    "title": "PSA Magazine Skylines, July 1972",
+    "tags": ["Skylines", "1972"],
+    "src": "197207",
+    "alt": "PSA Magazine Skylines, July 1972",
+    "year": "1972",
+    "fileDir": "./src/files/",
+    "outputDir": "/files"
+  },
+  {
+    "title": "PSA Magazine Skylines, August 1972",
+    "tags": ["Skylines", "1972"],
+    "src": "197208",
+    "alt": "PSA Magazine Skylines, August 1972",
+    "year": "1972",
+    "fileDir": "./src/files/",
+    "outputDir": "/files"
+  },
+  {
+    "title": "PSA Magazine Skylines, October 1972",
+    "tags": ["Skylines", "1972"],
+    "src": "197210",
+    "alt": "PSA Magazine Skylines, October 1972",
+    "year": "1972",
+    "fileDir": "./src/files/",
+    "outputDir": "/files"
+  },
+  {
+    "title": "PSA Magazine Skylines, December 1972",
+    "tags": ["Skylines", "1972"],
+    "src": "197212",
+    "alt": "PSA Magazine Skylines, December 1972",
+    "year": "1972",
+    "fileDir": "./src/files/",
+    "outputDir": "/files"
+  },
+  {
+    "title": "PSA Magazine Skylines, February 1973",
+    "tags": ["Skylines", "1973"],
+    "src": "197302",
+    "alt": "PSA Magazine Skylines, February 1973",
+    "year": "1973",
+    "fileDir": "./src/files/",
+    "outputDir": "/files"
+  },
+  {
+    "title": "PSA Magazine Skylines, March 1973",
+    "tags": ["Skylines", "1973"],
+    "src": "197303",
+    "alt": "PSA Magazine Skylines, March 1973",
+    "year": "1973",
+    "fileDir": "./src/files/",
+    "outputDir": "/files"
+  },
+  {
+    "title": "PSA Magazine Skylines, April 1973",
+    "tags": ["Skylines", "1973"],
+    "src": "197304",
+    "alt": "PSA Magazine Skylines, April 1973",
+    "year": "1973",
+    "fileDir": "./src/files/",
+    "outputDir": "/files"
+  },
+  {
+    "title": "PSA Magazine Skylines, May 1973",
+    "tags": ["Skylines", "1973"],
+    "src": "197305",
+    "alt": "PSA Magazine Skylines, May 1973",
+    "year": "1973",
+    "fileDir": "./src/files/",
+    "outputDir": "/files"
+  },
+  {
+    "title": "PSA Magazine Skylines, June 1973",
+    "tags": ["Skylines", "1973"],
+    "src": "197306",
+    "alt": "PSA Magazine Skylines, June 1973",
+    "year": "1973",
+    "fileDir": "./src/files/",
+    "outputDir": "/files"
+  },
+  {
+    "title": "PSA Magazine Skylines, July 1973",
+    "tags": ["Skylines", "1973"],
+    "src": "197307",
+    "alt": "PSA Magazine Skylines, July 1973",
+    "year": "1973",
+    "fileDir": "./src/files/",
+    "outputDir": "/files"
+  },
+  {
+    "title": "PSA Magazine Skylines, August 1973",
+    "tags": ["Skylines", "1973"],
+    "src": "197308",
+    "alt": "PSA Magazine Skylines, August 1973",
+    "year": "1973",
+    "fileDir": "./src/files/",
+    "outputDir": "/files"
+  },
+  {
+    "title": "PSA Magazine Skylines, October 1973",
+    "tags": ["Skylines", "1973"],
+    "src": "197310",
+    "alt": "PSA Magazine Skylines, October 1973",
+    "year": "1973",
+    "fileDir": "./src/files/",
+    "outputDir": "/files"
+  },
+  {
+    "title": "PSA Magazine Skylines, December 1973",
+    "tags": ["Skylines", "1973"],
+    "src": "197312",
+    "alt": "PSA Magazine Skylines, December 1973",
+    "year": "1973",
+    "fileDir": "./src/files/",
+    "outputDir": "/files"
+  },
+  {
+    "title": "PSA Magazine Skylines, January 1974",
+    "tags": ["Skylines", "1974"],
+    "src": "197401",
+    "alt": "PSA Magazine Skylines, January 1974",
+    "year": "1974",
+    "fileDir": "./src/files/",
+    "outputDir": "/files"
+  },
+  {
+    "title": "PSA Magazine Skylines, February 1974",
+    "tags": ["Skylines", "1974"],
+    "src": "197402",
+    "alt": "PSA Magazine Skylines, February 1974",
+    "year": "1974",
+    "fileDir": "./src/files/",
+    "outputDir": "/files"
+  },
+  {
+    "title": "PSA Magazine Skylines, March 1974",
+    "tags": ["Skylines", "1974"],
+    "src": "197403",
+    "alt": "PSA Magazine Skylines, March 1974",
+    "year": "1974",
+    "fileDir": "./src/files/",
+    "outputDir": "/files"
+  },
+  {
+    "title": "PSA Magazine Skylines, April 1974",
+    "tags": ["Skylines", "1974"],
+    "src": "197404",
+    "alt": "PSA Magazine Skylines, April 1974",
+    "year": "1974",
+    "fileDir": "./src/files/",
+    "outputDir": "/files"
+  },
+  {
+    "title": "PSA Magazine Skylines, June 1974",
+    "tags": ["Skylines", "1974"],
+    "src": "197406",
+    "alt": "PSA Magazine Skylines, June 1974",
+    "year": "1974",
+    "fileDir": "./src/files/",
+    "outputDir": "/files"
+  },
+  {
+    "title": "PSA Magazine Skylines, July 1974",
+    "tags": ["Skylines", "1974"],
+    "src": "197407",
+    "alt": "PSA Magazine Skylines, July 1974",
+    "year": "1974",
+    "fileDir": "./src/files/",
+    "outputDir": "/files"
+  },
+  {
+    "title": "PSA Magazine Skylines, August 1974",
+    "tags": ["Skylines", "1974"],
+    "src": "197408",
+    "alt": "PSA Magazine Skylines, August 1974",
+    "year": "1974",
+    "fileDir": "./src/files/",
+    "outputDir": "/files"
+  },
+  {
+    "title": "PSA Magazine Skylines, October 1974",
+    "tags": ["Skylines", "1974"],
+    "src": "197410",
+    "alt": "PSA Magazine Skylines, October 1974",
+    "year": "1974",
+    "fileDir": "./src/files/",
+    "outputDir": "/files"
+  },
+  {
+    "title": "PSA Magazine Skylines, November 1974",
+    "tags": ["Skylines", "1974"],
+    "src": "197411",
+    "alt": "PSA Magazine Skylines, November 1974",
+    "year": "1974",
+    "fileDir": "./src/files/",
+    "outputDir": "/files"
+  },
+  {
+    "title": "PSA Magazine Skylines, January 1975",
+    "tags": ["Skylines", "1975"],
+    "src": "197501",
+    "alt": "PSA Magazine Skylines, January 1975",
+    "year": "1975",
+    "fileDir": "./src/files/",
+    "outputDir": "/files"
+  },
+  {
+    "title": "PSA Magazine Skylines, February 1975",
+    "tags": ["Skylines", "1975"],
+    "src": "197502",
+    "alt": "PSA Magazine Skylines, February 1975",
+    "year": "1975",
+    "fileDir": "./src/files/",
+    "outputDir": "/files"
+  },
+  {
+    "title": "PSA Magazine Skylines, March 1975",
+    "tags": ["Skylines", "1975"],
+    "src": "197503",
+    "alt": "PSA Magazine Skylines, March 1975",
+    "year": "1975",
+    "fileDir": "./src/files/",
+    "outputDir": "/files"
+  },
+  {
+    "title": "PSA Magazine Skylines, April 1975",
+    "tags": ["Skylines", "1975"],
+    "src": "197504",
+    "alt": "PSA Magazine Skylines, April 1975",
+    "year": "1975",
+    "fileDir": "./src/files/",
+    "outputDir": "/files"
+  },
+  {
+    "title": "PSA Magazine Skylines, May 1975",
+    "tags": ["Skylines", "1975"],
+    "src": "197505wm",
+    "alt": "PSA Magazine Skylines, May 1975",
+    "year": "1975",
+    "fileDir": "./src/files/",
+    "outputDir": "/files"
+  },
+  {
+    "title": "PSA Magazine Skylines, June 1975",
+    "tags": ["Skylines", "1975"],
+    "src": "197506wm",
+    "alt": "PSA Magazine Skylines, June 1975",
+    "year": "1975",
+    "fileDir": "./src/files/",
+    "outputDir": "/files"
+  },
+  {
+    "title": "PSA Magazine Skylines, July 1975",
+    "tags": ["Skylines", "1975"],
+    "src": "197507wm",
+    "alt": "PSA Magazine Skylines, July 1975",
+    "year": "1975",
+    "fileDir": "./src/files/",
+    "outputDir": "/files"
+  },
+  {
+    "title": "PSA Magazine Skylines, August 1975",
+    "tags": ["Skylines", "1975"],
+    "src": "197508wm",
+    "alt": "PSA Magazine Skylines, August 1975",
+    "year": "1975",
+    "fileDir": "./src/files/",
+    "outputDir": "/files"
+  },
+  {
+    "title": "PSA Magazine Skylines, September 1975",
+    "tags": ["Skylines", "1975"],
+    "src": "197509wm",
+    "alt": "PSA Magazine Skylines, September 1975",
+    "year": "1975",
+    "fileDir": "./src/files/",
+    "outputDir": "/files"
+  },
+  {
+    "title": "PSA Magazine Skylines, October 1975",
+    "tags": ["Skylines", "1975"],
+    "src": "197510wm",
+    "alt": "PSA Magazine Skylines, October 1975",
+    "year": "1975",
+    "fileDir": "./src/files/",
+    "outputDir": "/files"
+  },
+  {
+    "title": "PSA Magazine Skylines, November 1975",
+    "tags": ["Skylines", "1975"],
+    "src": "197511wm",
+    "alt": "PSA Magazine Skylines, November 1975",
+    "year": "1975",
+    "fileDir": "./src/files/",
+    "outputDir": "/files"
+  },
+  {
+    "title": "PSA Magazine Skylines, December 1975",
+    "tags": ["Skylines", "1975"],
+    "src": "197512wm",
+    "alt": "PSA Magazine Skylines, December 1975",
+    "year": "1975",
+    "fileDir": "./src/files/",
+    "outputDir": "/files"
+  },
+  {
+    "title": "PSA Magazine Skylines, January 1976",
+    "tags": ["Skylines", "1976"],
+    "src": "197601wm",
+    "alt": "PSA Magazine Skylines, January 1976",
+    "year": "1976",
+    "fileDir": "./src/files/",
+    "outputDir": "/files"
+  },
+  {
+    "title": "PSA Magazine Skylines, February 1976",
+    "tags": ["Skylines", "1976"],
+    "src": "197602wm",
+    "alt": "PSA Magazine Skylines, February 1976",
+    "year": "1976",
+    "fileDir": "./src/files/",
+    "outputDir": "/files"
+  },
+  {
+    "title": "PSA Magazine Skylines, March 1976",
+    "tags": ["Skylines", "1976"],
+    "src": "197603wm",
+    "alt": "PSA Magazine Skylines, March 1976",
+    "year": "1976",
+    "fileDir": "./src/files/",
+    "outputDir": "/files"
+  },
+  {
+    "title": "PSA Magazine Skylines, April 1976",
+    "tags": ["Skylines", "1976"],
+    "src": "197604wm",
+    "alt": "PSA Magazine Skylines, April 1976",
+    "year": "1976",
+    "fileDir": "./src/files/",
+    "outputDir": "/files"
+  },
+  {
+    "title": "PSA Magazine Skylines, May 1976",
+    "tags": ["Skylines", "1976"],
+    "src": "197605wm",
+    "alt": "PSA Magazine Skylines, May 1976",
+    "year": "1976",
+    "fileDir": "./src/files/",
+    "outputDir": "/files"
+  },
+  {
+    "title": "PSA Magazine Skylines, June 1976",
+    "tags": ["Skylines", "1976"],
+    "src": "197606wm",
+    "alt": "PSA Magazine Skylines, June 1976",
+    "year": "1976",
+    "fileDir": "./src/files/",
+    "outputDir": "/files"
+  },
+  {
+    "title": "Skylines, September 1981",
+    "tags": ["Skylines", "1981"],
+    "src": "198109",
+    "alt": "Skylines, September 1981",
+    "year": "1981",
+    "fileDir": "./src/files/",
+    "outputDir": "/files"
+  }
+]

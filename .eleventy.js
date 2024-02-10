@@ -24,11 +24,14 @@ module.exports = (eleventyConfig) => {
   eleventyConfig.addPassthroughCopy({ "./src/_includes/css": "assets/css" });
   eleventyConfig.addPassthroughCopy({ "./src/_includes/js": "assets/js" });
   eleventyConfig.addPassthroughCopy({ "./src/_includes/images": "assets/images" });
+  eleventyConfig.addPassthroughCopy({ "./src/files": "files" });
   eleventyConfig.addPassthroughCopy({ "./src/_includes/font": "assets/fonts" });
+
   eleventyConfig.addPassthroughCopy("./src/favicon_data");
 
   eleventyConfig.addPassthroughCopy({ "./node_modules/bootstrap/dist/js/bootstrap.min.js": "assets/js" });
   eleventyConfig.addPassthroughCopy({ "./node_modules/@popperjs/core/dist/umd/popper.min.js": "assets/js" });
+  eleventyConfig.addPassthroughCopy({ "./node_modules/pdfobject/pdfobject.min.js" : "assets/js"});
 
   // Create terser JS Minifier async filter (Nunjucks)
   eleventyConfig.addNunjucksAsyncFilter("jsmin", async function (
@@ -47,11 +50,6 @@ module.exports = (eleventyConfig) => {
   // Configure image in a template paired shortcode
   eleventyConfig.addPairedShortcode("image", (srcSet, src, alt, sizes = "(min-width: 400px) 33.3vw, 100vw") => {
     return `<img srcset="${srcSet}" src="${src}" alt="${alt}" sizes="${sizes}" />`;
-  });
-
-  // Configure outgoing Pexels anchor elements in a template paried shortcode
-  eleventyConfig.addPairedShortcode("link", (href, cls = "image-link", rel = "noopener", target = "_blank", btnTxt = "Pexels") => {
-    return `<a class="${cls}" href="${href}" rel="${rel}" target="${target}">${btnTxt}</a>`;
   });
 
   // get the current year to be placed in the footer

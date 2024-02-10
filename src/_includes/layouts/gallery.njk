@@ -41,7 +41,7 @@
                 <div id="gallery-large" class="carousel slide">
                     <div class="carousel-inner">
                        {% for image in collections.all[0].data[ collectionName ] %} 
-                        <div class="carousel-item {% if loop.index0 == 0 %}active{% endif %}"><!-- add javascript logic-->
+                        <div class="carousel-item {% if loop.index0 == 0 %}active{% endif %}">
                             <img src="{{ image.pathToRoot}}{{ image.outputDir }}/{{ image.src }}" class="object-fit-contain" alt="{{ image.alt }}">
                         </div>
                         {% endfor %}       

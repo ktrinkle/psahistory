@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en-US" dir="ltr">
+    {% include "partials/header.njk" %}
+    <body>
+        <div class="container">
+            <a href="#main" class="skip-link">Skip to main content</a>
+            {% include "partials/nav.njk" %}
+            <h2>{{ title }}</h2>
+
+            {{ content | safe }}
+
+            <div class="container">
+                {% for year, files in collections.all[0].data[ collectionName ] | groupby("year") %}
+                <div class="container text-left">
+                    <h3>{{ year }}</h3>
+                </div>
+                <div class="row row-cols-2 row-cols-sm-3 row-cols-md-6 text-center">
+                    {% for fileData in files %}
+                    <div class="col" onClick="showPdf('{{ fileData.src }}');">
+                        <img src="/assets/images/pdf.png" alt="{{ fileData.alt }}">
+                        <div class="block-details">
+                            <h6>{{ fileData.title }}</h6>
+                        </div>
+                    </div>
+                    {% endfor %}
+                </div>
+                {% endfor %}
+            </div>
+
+            <div class="modal fade" id="pdfModal" tabindex="-1" aria-labelledby="PSA Skylines" aria-hidden="true">
+                <div class="modal-dialog modal-fullscreen">
+                    <div class="modal-content text-bg-dark">
+                        <button type="button" class="btn-close btn-close-white" id="close-modal" data-bs-dismiss="modal" aria-label="Close"></button>
+                        <div class="modal-body m-0" id="pdfModalBody">
+                            <div id="pdf"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        {% include "partials/footer.njk" %}
+        </div>
+    </body>
+</html>

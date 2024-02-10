@@ -4,8 +4,8 @@ eleventyNavigation:
   key: Skylines
   order: 1
   parent: Oldtimers
-layout: base.njk
-permalink: "oldtimer/skylines"
+layout: files.njk
+permalink: "oldtimer/skylines/"
 meta_desc: "Copies of PSA Skylines, PSA's employee newsletter"
 url: "https://www.psa-history.org/oldtimer/skylines/"
 collectionName: "skylines"
@@ -19,5 +19,3 @@ Skylines was discontinued in 1969 with the introduction of PSA Flighttime, the P
 Included here are full-text digital copies of Skylines. They tell much of the PSA story in the employees' own words, and can do it better than I can.
 
 --------------
-
-{% include "partials/embed-pagechild.njk" %}
