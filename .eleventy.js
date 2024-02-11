@@ -29,7 +29,7 @@ module.exports = (eleventyConfig) => {
 
   eleventyConfig.addPassthroughCopy({ "./src/robots.txt": "robots.txt" });
 
-  eleventyConfig.addPassthroughCopy("./src/favicon_data": "assets/favicon_data");
+  eleventyConfig.addPassthroughCopy({"./src/favicon_data": "assets/favicon_data"});
 
   eleventyConfig.addPassthroughCopy({ "./node_modules/bootstrap/dist/js/bootstrap.min.js": "assets/js" });
   eleventyConfig.addPassthroughCopy({ "./node_modules/@popperjs/core/dist/umd/popper.min.js": "assets/js" });
