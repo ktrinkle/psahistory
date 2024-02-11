@@ -13,3 +13,5 @@ collectionName: history_by_year
 ---
 
 Chronological history of PSA, by year.
+
+{% include "partials/embed-textdesc.njk" %}

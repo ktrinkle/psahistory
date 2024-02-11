@@ -1,0 +1,14 @@
+<div class="container">
+    <div class="row row-cols-1">
+        {%- for item in collections.all[0].data[ collectionName ] -%}
+        <div class="col">
+            <hr />
+            <h4 class="text-start instrument-serif">{{ item.header_value }}</h4>
+            {% if item.date != "" %}
+            <h5 class="text-start">Passed {{ item.date }}</h5>
+            {% endif %}
+            <div class="text-start">{{ item.body }}</div>
+        </div>
+        {%- endfor -%}
+    </div>
+</div> 

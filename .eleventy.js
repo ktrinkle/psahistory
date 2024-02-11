@@ -27,6 +27,8 @@ module.exports = (eleventyConfig) => {
   eleventyConfig.addPassthroughCopy({ "./src/files": "files" });
   eleventyConfig.addPassthroughCopy({ "./src/_includes/font": "assets/fonts" });
 
+  eleventyConfig.addPassthroughCopy({ "./src/robots.txt": "robots.txt" });
+
   eleventyConfig.addPassthroughCopy("./src/favicon_data");
 
   eleventyConfig.addPassthroughCopy({ "./node_modules/bootstrap/dist/js/bootstrap.min.js": "assets/js" });

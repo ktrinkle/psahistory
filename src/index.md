@@ -4,7 +4,7 @@ eleventyNavigation:
   order: 0
 heading: The PSA History Page
 description: History of San Diego's hometown airline, Pacific Southwest Airlines (PSA). Operated from 1949-1988 through California and the West Coast of the United States. PSA was known for smiles painted on the front of the planes, and stewardesses in hot pants.
-layout: main.njk
+layout: base.njk
 title: The PSA History Page
 meta_desc: History of San Diego's hometown airline, Pacific Southwest Airlines (PSA). Operated from 1949-1988 through California and the West Coast of the United States. PSA was known for smiles painted on the front of the planes, and stewardesses in hot pants.
 url: https://www.psa-history.org/

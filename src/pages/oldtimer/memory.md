@@ -16,4 +16,4 @@ In memory of our co-workers who have passed away.
 
 This page is not the most up to date - more updated information can be found in the Facebook groups.
 
-{% include "partials/embed-pagechild.njk" %}
+{% include "partials/embed-obit.njk" %}

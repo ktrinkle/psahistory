@@ -146,7 +146,7 @@ url: "https://www.psa-history.org/history/"
 <figure><img alt="PSA hangar, San Diego, 2002" src="/images/history/hgr-ct2002.jpg" /><figcaption>PSA Hangar/Commuter Terminal, June 7, 2002.</figcaption></figure>
 
 <p>Today, very little remains of PSA. In San Diego, only the Airmotive facility will remain, with the demolition
-of the headquarters/hangar facility in 2023, and upcoming demolition of Terminal 1 with the New Terminal 1 project. PSA's San Francisco facilities have all been replaced. LAX Terminal 1 remains, and is completely utilized by Southwest Airlines.</p>
+of the headquarters building in 2023, and upcoming demolition of Terminal 1 with the New Terminal 1 project. PSA's San Francisco facilities have all been replaced. LAX Terminal 1 remains, and is completely utilized by Southwest Airlines.</p>
 
 <p>Significant collections of PSA memorabilia can be found in each of the three major California cities. The SFO museum offers rotating exhibits that can include PSA memorabilia. LAX offers the Flight Path museum with a PSA display. San Diego offers the San Diego Air & Space museum, where after years of hard work by the late Capt. Art Steck, Capt. Randy Prine, and Capt. Leo Leonard, PSA exhibits were opened on May 6, 2000 and September 26, 2003.</p>
 
@@ -154,5 +154,5 @@ of the headquarters/hangar facility in 2023, and upcoming demolition of Terminal
 
 <p>Las Vegas, Boise and Albuquerque have PSA models on display in their respective ticketing lobbies (LAS across from the American Airlines counter, ABQ on the right side as you walk toward the gates.) Finally, smiles were known to mysteriously appear on USAir planes...</p>
 
-<p>Want more information about PSA? The late PR director Gary Kissel's book, "Poor Sailor's Airline", is available from Paladwr Press. The book is now out of print, but may still be available.</p>				<nav>
+<p>Want more information about PSA? The late PR director Gary Kissel's book, "Poor Sailor's Airline", was published by Paladwr Press. The book is out of print, and the publisher is out of business (after the death of the owner, R.E.G. Davies). Used copies may be available, but usually at a steep price.</p>
 	 

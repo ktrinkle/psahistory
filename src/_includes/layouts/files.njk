@@ -11,7 +11,7 @@
 
             <div class="container">
                 {% for year, files in collections.all[0].data[ collectionName ] | groupby("year") %}
-                <div class="container text-left">
+                <div class="container text-start">
                     <h3>{{ year }}</h3>
                 </div>
                 <div class="row row-cols-2 row-cols-sm-3 row-cols-md-6 text-center">
