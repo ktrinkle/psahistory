@@ -5,9 +5,9 @@ eleventyNavigation:
   order: 3
   parent: Memorabilia
 layout: gallery.njk
-permalink: "memorabilia/buttons/"
+permalink: "memorabilia/buttons/index.html"
 meta_desc: "PSA Promotional Buttons"
-url: "https://www.psa-history.org/memorabilia/buttons/"
+url: "https://www.psa-history.org/memorabilia/buttons/index.html"
 tags: memorabilia
 collectionName: buttons
 ---

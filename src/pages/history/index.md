@@ -5,9 +5,9 @@ eleventyNavigation:
   order: 3
   parent:
 layout: base.njk
-permalink: "history/"
+permalink: "history/index.html"
 meta_desc: "Detailed history of Pacific Southwest Airlines (PSA)"
-url: "https://www.psa-history.org/history/"
+url: "https://www.psa-history.org/history/index.html"
 ---
 <p>Postwar America was filled with opportunities. Ken Friedkin was a flight instructor who had run a flight training school for Women's Auxiliary Service Pilots during the war. Friedkin went on to fly for Convair's airline, Consairways, but did not enjoy it and left to form a flying school with his old friend, Joe "Bud" Plosser.</p>
 

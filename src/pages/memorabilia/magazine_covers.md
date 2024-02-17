@@ -5,9 +5,9 @@ eleventyNavigation:
   order: 5
   parent: Memorabilia
 layout: gallery.njk
-permalink: "memorabilia/magazine/"
+permalink: "memorabilia/magazine/index.html"
 meta_desc: "PSA Magazine covers"
-url: "https://www.psa-history.org/memorabilia/magazine/"
+url: "https://www.psa-history.org/memorabilia/magazine/index.html"
 tags: memorabilia
 collectionName: magazine_covers
 ---

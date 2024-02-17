@@ -5,9 +5,9 @@ eleventyNavigation:
   order: 1
   parent: Oldtimers
 layout: base.njk
-permalink: "oldtimer/psa_party/"
+permalink: "oldtimer/psa_party/index.html"
 meta_desc: "Photos and information about the PSA Annual reunion party in San Diego"
-url: "https://www.psa-history.org/oldtimer/psa_party/"
+url: "https://www.psa-history.org/oldtimer/psa_party/index.html"
 collectionName: "psa-party"
 tags: "oldtimer"
 ---

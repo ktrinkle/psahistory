@@ -5,9 +5,9 @@ eleventyNavigation:
   order: 5
   parent:
 layout: base.njk
-permalink: "otherpsaresources/about_the_site/"
+permalink: "otherpsaresources/about_the_site/index.html"
 meta_desc: "Information about this site."
-url: "https://www.psa-history.org/otherpsaresources/about_the_site/"
+url: "https://www.psa-history.org/otherpsaresources/about_the_site/index.html"
 collectionName: about_the_site
 ---
 

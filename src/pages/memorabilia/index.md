@@ -7,7 +7,7 @@ eleventyNavigation:
 layout: base.njk
 permalink: "memorabilia/"
 meta_desc: "Memorabilia from PSA"
-url: "https://www.psa-history.org/memorabilia/"
+url: "https://www.psa-history.org/memorabilia/index.html"
 collectionName: memorabilia
 ---
 

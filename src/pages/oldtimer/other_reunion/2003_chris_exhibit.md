@@ -5,9 +5,9 @@ eleventyNavigation:
   order: 
   parent: Other reunion photos
 layout: gallery.njk
-permalink: "oldtimer/other_reunion/2003_chris_exhibit/"
+permalink: "oldtimer/other_reunion/2003_chris_exhibit/index.html"
 meta_desc: "Photos from the 2003 San Diego International Airport PSA display cases"
-url: "https://www.psa-history.org/oldtimer/other_reunion_photos/2003_chris_exhibit"
+url: "https://www.psa-history.org/oldtimer/other_reunion_photos/2003_chris_exhibit/index.html"
 collectionName: "2003-chris"
 tags: "other_reunion"
 ---

@@ -5,9 +5,9 @@ eleventyNavigation:
   order: 3
   parent: Other reunion photos
 layout: gallery.njk
-permalink: "oldtimer/other_reunion/psa-retrojet/"
+permalink: "oldtimer/other_reunion/psa-retrojet/index.html"
 meta_desc: "Photos from the 2006 PSA Retrojet dedication, held in San Diego, CA"
-url: "https://www.psa-history.org/oldtimer/other_reunion_photos/psa-retrojet"
+url: "https://www.psa-history.org/oldtimer/other_reunion_photos/psa-retrojet/index.html"
 collectionName: "2006-psa-retrojet"
 tags: "other_reunion"
 ---

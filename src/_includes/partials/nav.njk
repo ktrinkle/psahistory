@@ -7,14 +7,14 @@
     </a>
     <ul class="dropdown-menu">
         <li>    
-            <a href="{{ link.url | htmlBaseUrl }}" class="dropdown-item">
+            <a href="{{ link.url + 'index.html' | htmlBaseUrl }}" class="dropdown-item">
             {{ link.title }} Home
             </a>  
         </li>
         {%- for child in link.children %}{{ renderNavListItemChild(child) }}{% endfor -%}
     </ul>
     {%- else -%}
-    <a href="{{ link.url | htmlBaseUrl }}" class="nav-link">
+    <a href="{{ link.url + 'index.html' | htmlBaseUrl }}" class="nav-link">
         {{ link.title }}
     </a>
     {%- endif -%}
@@ -22,7 +22,7 @@
 {%- endmacro %}
 {% macro renderNavListItemChild(link) -%}
 <li>
-    <a href="{{ link.url | htmlBaseUrl }}" class="dropdown-item">{{ link.title }}</a>
+    <a href="{{ link.url + 'index.html' | htmlBaseUrl }}" class="dropdown-item">{{ link.title }}</a>
     {%- if link.children.length -%}
     <ul class="dropdown-menu">
         {%- for child in link.children %}{{ renderNavListItemChild(child) }}{% endfor -%}
@@ -33,7 +33,7 @@
 <header class="top-nav">
     <div class="container-fluid text-bg-psa-light-red mb-0 pt-2 pb-2">
         <div class="container">
-            <a href="/"><img src="/assets/images/psa-80s-web.svg" width="200px" alt="PSA"></a>
+            <a href="/index.html"><img src="/assets/images/psa-80s-web.svg" width="200px" alt="PSA"></a>
             <h3 class="float-md-end text-light instrument-serif">The PSA History Page</h3>
         </div>
     </div>

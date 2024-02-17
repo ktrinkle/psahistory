@@ -5,9 +5,9 @@ eleventyNavigation:
   order:
   parent: PSA Party
 layout: gallery.njk
-permalink: "oldtimer/psa_party/2000/"
+permalink: "oldtimer/psa_party/2000/index.html"
 meta_desc: "Photos from the 2000 PSA Party, held in San Diego, CA"
-url: "https://www.psa-history.org/oldtimer/psa_party/2000/"
+url: "https://www.psa-history.org/oldtimer/psa_party/2000/index.html"
 collectionName: "2000-psa-party"
 tags: "psa-party"
 ---

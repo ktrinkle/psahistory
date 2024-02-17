@@ -5,9 +5,9 @@ eleventyNavigation:
   order:
   parent: PSA Party
 layout: gallery.njk
-permalink: "oldtimer/psa_party/2008/"
+permalink: "oldtimer/psa_party/2008/index.html"
 meta_desc: "Photos from the 2008 PSA Party, held in San Diego, CA"
-url: "https://www.psa-history.org/oldtimer/psa_party/2008/"
+url: "https://www.psa-history.org/oldtimer/psa_party/2008/index.html"
 collectionName: "2008-psa-party"
 tags: "psa-party"
 ---

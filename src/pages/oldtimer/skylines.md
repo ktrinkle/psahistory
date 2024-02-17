@@ -5,9 +5,9 @@ eleventyNavigation:
   order: 1
   parent: Oldtimers
 layout: files.njk
-permalink: "oldtimer/skylines/"
+permalink: "oldtimer/skylines/index.html"
 meta_desc: "Copies of PSA Skylines, PSA's employee newsletter"
-url: "https://www.psa-history.org/oldtimer/skylines/"
+url: "https://www.psa-history.org/oldtimer/skylines/index.html"
 collectionName: "skylines"
 tags: "oldtimer"
 ---

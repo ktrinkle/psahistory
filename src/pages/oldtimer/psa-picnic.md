@@ -5,9 +5,9 @@ eleventyNavigation:
   order: 1
   parent: Oldtimers
 layout: base.njk
-permalink: "oldtimer/psa_picnic/"
+permalink: "oldtimer/psa_picnic/index.html"
 meta_desc: "Photos and information about the PSA Annual reunion picnic in San Diego"
-url: "https://www.psa-history.org/oldtimer/psa_picnic/"
+url: "https://www.psa-history.org/oldtimer/psa_picnic/index.html"
 collectionName: "psa-picnic"
 tags: "oldtimer"
 ---

@@ -5,9 +5,9 @@ eleventyNavigation:
   order: 2
   parent: Memorabilia
 layout: gallery.njk
-permalink: "memorabilia/bag_tags/"
+permalink: "memorabilia/bag_tags/index.html"
 meta_desc: "PSA Bag Tags"
-url: "https://www.psa-history.org/memorabilia/bag_tags/"
+url: "https://www.psa-history.org/memorabilia/bag_tags/index.html"
 tags: memorabilia
 collectionName: bag_tag
 ---

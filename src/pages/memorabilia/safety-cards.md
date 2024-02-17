@@ -5,9 +5,9 @@ eleventyNavigation:
   order: 6
   parent: Memorabilia
 layout: gallery.njk
-permalink: "memorabilia/safety-cards/"
+permalink: "memorabilia/safety-cards/index.html"
 meta_desc: "PSA Safety Cards"
-url: "https://www.psa-history.org/memorabilia/safety-cards/"
+url: "https://www.psa-history.org/memorabilia/safety-cards/index.html"
 tags: memorabilia
 collectionName: safety_cards
 ---

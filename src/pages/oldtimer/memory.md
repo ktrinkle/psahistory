@@ -5,9 +5,9 @@ eleventyNavigation:
   order: 1
   parent: Oldtimers
 layout: base.njk
-permalink: "oldtimer/memory"
+permalink: "oldtimer/memory/index.html"
 meta_desc: "In memory of friends and co-workers who have passed away"
-url: "https://www.psa-history.org/oldtimer/memory/"
+url: "https://www.psa-history.org/oldtimer/memory/index.html"
 collectionName: "memory"
 tags: "oldtimer"
 ---

@@ -5,9 +5,9 @@ eleventyNavigation:
   order: 1
   parent: Oldtimers
 layout: base.njk
-permalink: "oldtimer/memorial_182_1771"
+permalink: "oldtimer/memorial_182_1771/"
 meta_desc: "Memorial to the crew and employees on PSA flight 182 and PSA flight 1771"
-url: "https://www.psa-history.org/oldtimer/memory/"
+url: "https://www.psa-history.org/oldtimer/memorial_182_1771/"
 tags: "oldtimer"
 ---
 

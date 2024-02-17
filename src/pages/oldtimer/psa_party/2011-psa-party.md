@@ -5,9 +5,9 @@ eleventyNavigation:
   order:
   parent: PSA Party
 layout: gallery.njk
-permalink: "oldtimer/psa_party/2011/"
+permalink: "oldtimer/psa_party/2011/index.html"
 meta_desc: "Photos from the 2011 PSA Party, held in San Diego, CA"
-url: "https://www.psa-history.org/oldtimer/psa_party/2011/"
+url: "https://www.psa-history.org/oldtimer/psa_party/2011/index.html"
 collectionName: "2011-psa-party"
 tags: "psa-party"
 ---

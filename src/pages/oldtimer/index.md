@@ -5,9 +5,9 @@ eleventyNavigation:
   order: 1
   parent: 
 layout: base.njk
-permalink: "oldtimer/"
+permalink: "oldtimer/index.html"
 meta_desc: "PSA Oldtimers - a resource for past and retired employees of Pacific Southwest Airlines"
-url: "https://www.psa-history.org/oldtimer/"
+url: "https://www.psa-history.org/oldtimer/index.html"
 collectionName: "oldtimer"
 ---
 

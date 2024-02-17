@@ -5,9 +5,9 @@ eleventyNavigation:
   order: 2
   parent: Oldtimers
 layout: base.njk
-permalink: "oldtimer/other_reunion/"
+permalink: "oldtimer/other_reunion/index.html"
 meta_desc: "Other reunion event photos"
-url: "https://www.psa-history.org/oldtimer/other_reunion/"
+url: "https://www.psa-history.org/oldtimer/other_reunion/index.html"
 collectionName: "other_reunion"
 tags: "oldtimer"
 ---

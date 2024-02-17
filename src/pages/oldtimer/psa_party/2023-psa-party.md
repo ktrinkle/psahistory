@@ -5,9 +5,9 @@ eleventyNavigation:
   order:
   parent: PSA Party
 layout: gallery.njk
-permalink: "oldtimer/psa_party/2023-psa-party/"
+permalink: "oldtimer/psa_party/2023-psa-party/index.html"
 meta_desc: "Photos from the 2023 PSA Party, held in San Diego, CA"
-url: "https://www.psa-history.org/oldtimer/psa_party/2023-psa-party/"
+url: "https://www.psa-history.org/oldtimer/psa_party/2023-psa-party/index.html"
 collectionName: "2023-psa-party"
 tags: "psa-party"
 ---

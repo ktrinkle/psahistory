@@ -3,11 +3,11 @@ title: New US Airways (2005) introduction
 eleventyNavigation:
   key: New US Airways (2005)
   order: 
-  parent: Oldtimer
+  parent: Oldtimers
 layout: base.njk
-permalink: "oldtimer/new_us_airways"
+permalink: "oldtimer/new_us_airways/index.html"
 meta_desc: "Photos from the introduction of the New US Airways in 2005"
-url: "https://www.psa-history.org/oldtimer/new_us_airways"
+url: "https://www.psa-history.org/oldtimer/new_us_airways/index.html"
 tags: "oldtimer"
 ---
 

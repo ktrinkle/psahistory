@@ -5,9 +5,9 @@ eleventyNavigation:
   order: 
   parent: Other reunion photos
 layout: gallery.njk
-permalink: "oldtimer/other_reunion/aerospace_2003_dedication/"
+permalink: "oldtimer/other_reunion/aerospace_2003_dedication/index.html"
 meta_desc: "Photos from the 2003 San Diego Air & Space Museum exhibit dedication"
-url: "https://www.psa-history.org/oldtimer/other_reunion_photos/aerospace_2003_dedication"
+url: "https://www.psa-history.org/oldtimer/other_reunion_photos/aerospace_2003_dedication/index.html"
 collectionName: "2003-aerospace"
 tags: "other_reunion"
 ---

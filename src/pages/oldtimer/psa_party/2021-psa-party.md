@@ -5,9 +5,9 @@ eleventyNavigation:
   order:
   parent: PSA Party
 layout: gallery.njk
-permalink: "oldtimer/psa_party/2021-psa-party/"
+permalink: "oldtimer/psa_party/2021-psa-party/index.html"
 meta_desc: "Photos from the 2021 PSA Party, held in San Diego, CA"
-url: "https://www.psa-history.org/oldtimer/psa_party/2021-psa-party/"
+url: "https://www.psa-history.org/oldtimer/psa_party/2021-psa-party/index.html"
 collectionName: "2021-psa-party"
 tags: "psa-party"
 ---
