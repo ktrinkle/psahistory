@@ -7,24 +7,102 @@ on:
             - main
     
 jobs:
-    build_and_test:
-        runs-on: ubuntu-latest
-        steps:
-          - name: checkout
-            uses: actions/checkout@v4
+  build_and_test:
+    runs-on: ubuntu-latest
+    steps:
+      - name: checkout
+        uses: actions/checkout@v4
 
-          - name: use_node
-            uses: actions/setup-node@v3
-            with:
-              node-version: '20.x'
+      - name: login to azure
+        uses: azure/login@v2
+        with:
+          creds: ${{ secrets.AZURE_CREDENTIALS }}
 
-          - name: Install dependencies
-            run: npm ci
+      # temporary pending move to Cloudflare pages when the storage account will flip
+      # we will move the storage account to no IP restriction but no anonymous access at that time
+      # since az login will control the access and we will remove anonymous.
 
-          - name: Build code
-            run: npm run build --if-present
+      - name: Whitelist GitHub Runner IP
+        uses: azure/cli@v2
+        with:
+          azcliversion: latest
+          inlineScript: |
+            set -eu
+            agentIP=$(curl -s https://api.ipify.org/)
+            az storage account network-rule add \
+              --resource-group "${{ secrets.AZURE_RESOURCE_GROUP }}" \
+              --account-name "${{ secrets.AZURE_STORAGE_ACCOUNT_NAME }}" \
+              --ip-address $agentIP
+            sleep 30
 
-          - name: Cypress tests
-            uses: cypress-io/github-action@v6
+      - name: use_node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20.x'
 
-          # bump version here
+      - name: Get files from blob storage
+        uses: azure/cli@v2
+        with:
+          azcliversion: latest
+          inlineScript: |
+            az storage fs directory download -f main --account-name "${{ secrets.AZURE_STORAGE_ACCOUNT_NAME }}" -s "./" -d "./src" --recursive
+      
+      - name: Install dependencies
+        run: npm ci
+     
+      - uses: actions/cache/restore@v4
+        id: cache
+        with:
+          path: |
+            images
+          key: 11ty-${{ runner.os }}-${{ github.run_id }}
+          restore-keys: |
+            11ty-${{ runner.os }}
+            ${{ runner.os }}-11ty
+
+      - name: Build code
+        run: npm run build --if-present
+
+      - name: Cypress tests
+        uses: cypress-io/github-action@v6
+
+      # bump version here
+      - name: Create new version
+        uses: reecetech/version-increment@2024.4.3
+        id: version
+        with:
+          scheme: calver
+          increment: patch
+
+      # drop IP address from Azure storage account
+      - name: Remove GitHub Runner IP from Whitelist
+        if: always()
+        uses: azure/cli@v2
+        with:
+          azcliversion: latest
+          inlineScript: |
+            set -eu
+            agentIP=$(curl -s https://api.ipify.org/)
+            az storage account network-rule remove  \
+              --resource-group "${{ secrets.AZURE_RESOURCE_GROUP }}" \
+              --account-name "${{ secrets.AZURE_STORAGE_ACCOUNT_NAME }}" \
+              --ip-address $agentIP
+
+      - name: Publish to Cloudflare Pages
+        uses: cloudflare/pages-action@v1
+        with:
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID}}
+          projectName: psa-history
+          directory: _site
+          gitHubToken: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ github.head_ref || github.ref_name }}
+          wranglerVersion: "3"
+
+      - name: Save cached files for next time
+        uses: actions/cache/save@v4
+        with:
+          path: |
+            .cache
+            img
+          key: 11ty-${{ runner.os }}-${{ github.run_id }}
