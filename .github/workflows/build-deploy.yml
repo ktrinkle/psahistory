@@ -27,6 +27,7 @@ jobs:
         with:
           azcliversion: latest
           inlineScript: |
+            curl --version
             set -eu
             agentIP=$(curl -s https://api.ipify.org/)
             az storage account network-rule add \
