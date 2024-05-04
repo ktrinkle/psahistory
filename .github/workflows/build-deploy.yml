@@ -24,7 +24,6 @@ jobs:
 
       - name: Whitelist GitHub Runner IP
         run: |
-          curl --version
           set -eu
           agentIP=$(curl -s https://api.ipify.org/)
           az storage account network-rule add \
@@ -40,7 +39,8 @@ jobs:
 
       - name: Get files from blob storage
         run: |
-          az storage fs directory download -f main --account-name "${{ secrets.AZURE_STORAGE_ACCOUNT_NAME }}" -s "./" -d "./src" --recursive
+          az storage fs directory download -f main --account-name "${{ secrets.AZURE_STORAGE_ACCOUNT_NAME }}" -s "./images" -d "./src/images" --recursive --auth-mode login
+          az storage fs directory download -f main --account-name "${{ secrets.AZURE_STORAGE_ACCOUNT_NAME }}" -s "./files" -d "./src/files" --recursive --auth-mode login
       
       - name: Install dependencies
         run: npm ci
