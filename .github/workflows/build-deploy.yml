@@ -45,7 +45,10 @@ jobs:
         id: cache
         with:
           path: |
-            images
+            ./.cache
+            ./src/images
+            ./src/files
+            ./_site
           key: 11ty-${{ runner.os }}-${{ github.run_id }}
           restore-keys: |
             11ty-${{ runner.os }}
@@ -59,18 +62,26 @@ jobs:
       - name: Build code
         run: npm run build --if-present
 
+      - name: List files
+        run: |
+          ls -alr
+          ls -alr ./src
+
       - name: Save cached files for next time
         uses: actions/cache/save@v4
         with:
           path: |
-            .cache
-            img
+            ./.cache
+            ./src/images
+            ./src/files
+            ./_site
           key: 11ty-${{ runner.os }}-${{ github.run_id }}
 
       - name: Cypress tests
         uses: cypress-io/github-action@v6
         with:
-          start: npm start
+          browser: chrome
+          start: npm serve
         continue-on-error: true
 
       # bump version here
