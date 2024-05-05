@@ -22,25 +22,21 @@ jobs:
       # we will move the storage account to no IP restriction but no anonymous access at that time
       # since az login will control the access and we will remove anonymous.
 
-      - name: Whitelist GitHub Runner IP
-        run: |
-          set -eu
-          agentIP=$(curl -s https://api.ipify.org/)
-          az storage account network-rule add \
-            --resource-group "${{ secrets.AZURE_RESOURCE_GROUP }}" \
-            --account-name "${{ secrets.AZURE_STORAGE_ACCOUNT_NAME }}" \
-            --tenant-id "${{ secrets.AZURE_TENANT_ID }}" \
-            --ip-address $agentIP
-          sleep 15
+      # - name: Whitelist GitHub Runner IP
+      #   run: |
+      #     set -eu
+      #     agentIP=$(curl -s https://api.ipify.org/)
+      #     az storage account network-rule add \
+      #       --resource-group "${{ secrets.AZURE_RESOURCE_GROUP }}" \
+      #       --account-name "${{ secrets.AZURE_STORAGE_ACCOUNT_NAME }}" \
+      #       --tenant-id "${{ secrets.AZURE_TENANT_ID }}" \
+      #       --ip-address $agentIP
+      #     sleep 15
 
       - name: Use Node
         uses: actions/setup-node@v4
         with:
           node-version: '20.x'
-
-      - name: Get files from blob storage
-        run: |
-          az storage fs directory download --file-system "main" --account-name "${{ secrets.AZURE_STORAGE_ACCOUNT_NAME }}" -s "/" -d "./src" --recursive
       
       - name: Install dependencies
         run: npm ci
@@ -55,6 +51,10 @@ jobs:
             11ty-${{ runner.os }}
             ${{ runner.os }}-11ty
 
+      - name: Get files from blob storage
+        run: |
+          az storage fs directory download --file-system "main" --account-name "${{ secrets.AZURE_STORAGE_ACCOUNT_NAME }}" -s "/" -d "./src" --recursive
+    
       - name: Build code
         run: npm run build --if-present
 
@@ -69,16 +69,16 @@ jobs:
           scheme: calver
           increment: patch
 
-      # drop IP address from Azure storage account
-      - name: Remove GitHub Runner IP from Whitelist
-        if: always()
-        run: |
-          set -eu
-          agentIP=$(curl -s https://api.ipify.org/)
-          az storage account network-rule remove  \
-            --resource-group "${{ secrets.AZURE_RESOURCE_GROUP }}" \
-            --account-name "${{ secrets.AZURE_STORAGE_ACCOUNT_NAME }}" \
-            --ip-address $agentIP
+      # # drop IP address from Azure storage account
+      # - name: Remove GitHub Runner IP from Whitelist
+      #   if: always()
+      #   run: |
+      #     set -eu
+      #     agentIP=$(curl -s https://api.ipify.org/)
+      #     az storage account network-rule remove  \
+      #       --resource-group "${{ secrets.AZURE_RESOURCE_GROUP }}" \
+      #       --account-name "${{ secrets.AZURE_STORAGE_ACCOUNT_NAME }}" \
+      #       --ip-address $agentIP
 
       - name: Publish to Cloudflare Pages
         uses: cloudflare/pages-action@v1
