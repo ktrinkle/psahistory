@@ -7,7 +7,7 @@ eleventyNavigation:
 layout: gallery.njk
 permalink: "oldtimer/psa_party/2022-psa-party/index.html"
 meta_desc: "Photos from the 2022 PSA Party, held in San Diego, CA"
-url: "https://www.psa-history.org/oldtimer/psa_party/2022-psa-party/"
+url: "https://www.psa-history.org/oldtimer/psa_party/2022-psa-party/index.html"
 collectionName: "2022-psa-party"
 tags: "psa-party"
 ---
