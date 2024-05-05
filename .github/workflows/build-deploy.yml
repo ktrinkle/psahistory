@@ -53,8 +53,9 @@ jobs:
 
       - name: Get files from blob storage
         run: |
-          az storage fs directory download --file-system "main" --account-name "${{ secrets.AZURE_STORAGE_ACCOUNT_NAME }}" -s "/" -d "./src" --recursive
-    
+          az storage fs directory download --file-system "main" --account-name "${{ secrets.AZURE_STORAGE_ACCOUNT_NAME }}" -s "/images" -d "./src/images" --recursive
+          az storage fs directory download --file-system "main" --account-name "${{ secrets.AZURE_STORAGE_ACCOUNT_NAME }}" -s "/files" -d "./src/files" --recursive
+
       - name: Verify file download
         run: |
           ls -ltr ./
