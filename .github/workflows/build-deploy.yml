@@ -55,6 +55,14 @@ jobs:
         run: |
           az storage fs directory download --file-system "main" --account-name "${{ secrets.AZURE_STORAGE_ACCOUNT_NAME }}" -s "/" -d "./src" --recursive
     
+      - name: Verify file download
+        run: |
+          ls -ltr ./
+          echo "---------"
+          ls -ltr ./src
+          echo "---------"
+          ls -ltr ./src/images
+
       - name: Build code
         run: npm run build --if-present
 
