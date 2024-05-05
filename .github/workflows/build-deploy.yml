@@ -30,7 +30,7 @@ jobs:
             --resource-group "${{ secrets.AZURE_RESOURCE_GROUP }}" \
             --account-name "${{ secrets.AZURE_STORAGE_ACCOUNT_NAME }}" \
             --ip-address $agentIP
-          sleep 30
+          sleep 15
 
       - name: Use Node
         uses: actions/setup-node@v4
