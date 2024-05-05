@@ -22,17 +22,6 @@ jobs:
       # we will move the storage account to no IP restriction but no anonymous access at that time
       # since az login will control the access and we will remove anonymous.
 
-      # - name: Whitelist GitHub Runner IP
-      #   run: |
-      #     set -eu
-      #     agentIP=$(curl -s https://api.ipify.org/)
-      #     az storage account network-rule add \
-      #       --resource-group "${{ secrets.AZURE_RESOURCE_GROUP }}" \
-      #       --account-name "${{ secrets.AZURE_STORAGE_ACCOUNT_NAME }}" \
-      #       --tenant-id "${{ secrets.AZURE_TENANT_ID }}" \
-      #       --ip-address $agentIP
-      #     sleep 15
-
       - name: Use Node
         uses: actions/setup-node@v4
         with:
@@ -92,21 +81,29 @@ jobs:
           scheme: calver
           increment: patch
 
-      # # drop IP address from Azure storage account
-      # - name: Remove GitHub Runner IP from Whitelist
-      #   if: always()
-      #   run: |
-      #     set -eu
-      #     agentIP=$(curl -s https://api.ipify.org/)
-      #     az storage account network-rule remove  \
-      #       --resource-group "${{ secrets.AZURE_RESOURCE_GROUP }}" \
-      #       --account-name "${{ secrets.AZURE_STORAGE_ACCOUNT_NAME }}" \
-      #       --ip-address $agentIP
+      - name: Archive production artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: built-site
+          path: |
+            _site
+
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Download a single artifact
+        uses: actions/download-artifact@v4
+        with:
+          name: built-site
+
+      - name: Review LS
+        run: |
+          ls -ltr .
 
       - name: Publish to Cloudflare Pages
         uses: cloudflare/wrangler-action@v3
         with:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
-          command: pages deploy ./_site --project-name=psa-history
+          command: pages deploy ./_site --project-name=psa-history --commit-dirty=true
           wranglerVersion: "3"
