@@ -7,24 +7,104 @@ on:
             - main
     
 jobs:
-    build_and_test:
-        runs-on: ubuntu-latest
-        steps:
-          - name: checkout
-            uses: actions/checkout@v4
+  build_and_test:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v4
 
-          - name: use_node
-            uses: actions/setup-node@v3
-            with:
-              node-version: '20.x'
+      - name: Login to Azure
+        uses: azure/login@v2
+        with:
+          creds: ${{ secrets.AZURE_CREDENTIALS }}
 
-          - name: Install dependencies
-            run: npm ci
+      # temporary pending move to Cloudflare pages when the storage account will flip
+      # we will move the storage account to no IP restriction but no anonymous access at that time
+      # since az login will control the access and we will remove anonymous.
 
-          - name: Build code
-            run: npm run build --if-present
+      - name: Use Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20.x'
+      
+      - name: Install dependencies
+        run: npm ci
+     
+      - uses: actions/cache/restore@v4
+        id: cache
+        with:
+          path: |
+            ./.cache
+            ./src/images
+            ./src/files
+            ./_site
+          key: 11ty-${{ runner.os }}-${{ github.run_id }}
+          restore-keys: |
+            11ty-${{ runner.os }}
+            ${{ runner.os }}-11ty
 
-          - name: Cypress tests
-            uses: cypress-io/github-action@v6
+      - name: Get files from blob storage
+        run: |
+          az storage fs directory download --file-system "main" --account-name "${{ secrets.AZURE_STORAGE_ACCOUNT_NAME }}" -s "/images" -d "./src" --recursive
+          az storage fs directory download --file-system "main" --account-name "${{ secrets.AZURE_STORAGE_ACCOUNT_NAME }}" -s "/files" -d "./src" --recursive
 
-          # bump version here
+      - name: Build code
+        run: npm run build --if-present
+
+      - name: List files
+        run: |
+          ls -alr
+          ls -alr ./src
+
+      - name: Save cached files for next time
+        uses: actions/cache/save@v4
+        with:
+          path: |
+            ./.cache
+            ./src/images
+            ./src/files
+            ./_site
+          key: 11ty-${{ runner.os }}-${{ github.run_id }}
+
+      - name: Cypress tests
+        uses: cypress-io/github-action@v6
+        with:
+          browser: chrome
+          start: npm serve
+        continue-on-error: true
+
+      # bump version here
+      - name: Create new version
+        uses: reecetech/version-increment@2024.4.3
+        id: version
+        with:
+          scheme: calver
+          increment: patch
+
+      - name: Archive production artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: built-site
+          path: |
+            _site
+
+  deploy:
+    runs-on: ubuntu-latest
+    needs: build_and_test
+    steps:
+      - name: Download a single artifact
+        uses: actions/download-artifact@v4
+        with:
+          name: built-site
+
+      - name: Review LS
+        run: |
+          ls -ltr .
+
+      - name: Publish to Cloudflare Pages
+        uses: cloudflare/wrangler-action@v3
+        with:
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          command: pages deploy . --project-name=psa-history --commit-dirty=true
+          wranglerVersion: "3"
