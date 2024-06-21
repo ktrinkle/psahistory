@@ -14,11 +14,11 @@ tags: "oldtimer"
 
 # PSA Party
 
-## 26th annual PSA Party - September 2024
+## 26th annual PSA Party - September 26, 2024
 
 Begun as Ted Fritzges' retirement party, the PSA Party continues to offer the PSA family a chance to get together, dance, and party. 
 
-The 2024 party may have some changes. With dwindling crowds, efforts are happening to determine the future of the party, whether it includes price increases, a change of date, or a change of venue. Stay tuned for more information.
+The date has been announced for the 2024 party, starting at 5 PM at the Bali Hai Club. Pricing and other information will be forthcoming.
 
 Photos of past parties (from 1999 forward) are available here, with limited exceptions for the years that I have not been able to attend.
 
