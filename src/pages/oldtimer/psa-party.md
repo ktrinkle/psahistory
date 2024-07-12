@@ -18,7 +18,7 @@ tags: "oldtimer"
 
 Begun as Ted Fritzges' retirement party, the PSA Party continues to offer the PSA family a chance to get together, dance, and party. 
 
-5-10 PM at the Bali Hai Club. Hawaiian Buffet and No-Host Bar available. Cocktail party attire. 
+5-10 PM at the Bali Hai Club. Hawaiian Buffet and No Host Bar available. Cocktail party attire. 
 
 $50 per person cash at the door.
 
