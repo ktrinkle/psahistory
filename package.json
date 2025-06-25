@@ -1,9 +1,10 @@
 {
   "name": "psa-eleventy",
-  "version": "7.0.0",
+  "version": "7.1.0",
   "description": "The PSA History Page",
   "browserslist": "> 0.5%, last 3 versions, not dead",
   "main": ".eleventy.js",
+  "type": "module",
   "scripts": {
     "build": "npm-run-all build:*",
     "start": "npm-run-all watch:*",
@@ -38,18 +39,18 @@
   ],
   "homepage": "https://www.psa-history.org/",
   "dependencies": {
-    "@11ty/eleventy": "^2.0.1",
+    "@11ty/eleventy": "^3.1.2",
     "@11ty/eleventy-navigation": "^0.3.3",
     "@popperjs/core": "^2.11.8",
-    "bootstrap": "^5.3.3",
+    "bootstrap": "^5.3.7",
     "eleventy-plugin-metagen": "^1.8.3",
     "npm-run-all": "^4.1.5",
-    "pdfobject": "^2.3.0"
+    "pdfobject": "^2.3.1"
   },
   "devDependencies": {
     "@11ty/eleventy-img": "^4.0.2",
     "clean-css": "^5.3.3",
-    "cypress": "^13.10.0",
+    "cypress": "^13.17.0",
     "netlify-plugin-cypress": "^2.2.1",
     "sass": "^1.77.4",
     "terser": "^5.31.0"

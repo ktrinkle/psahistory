@@ -14,8 +14,8 @@ tags: "oldtimer"
 
 # PSA Oldtimers
 
-## 26th annual PSA Party - September 2024
-## PSA Reservations Reunion - October 2024
+## 27th annual PSA Party - September 2025
+## PSA Reservations Reunion - October 25, 2025
 
 
 Our name and affiliations may have changed through the years but there will always be our original and special "PSA Oldtimer family". Join us and tell all our PSA friends too, about this tradition of ours.

@@ -16,7 +16,7 @@ Fonts used can be found in the following repos:
 
 ## Getting Started
 
-- Ensure Node 20 is installed on your machine.
+- Ensure Node 20+ is installed on your machine.
 - Clone the project and install packages with `npm i`.
 
 
