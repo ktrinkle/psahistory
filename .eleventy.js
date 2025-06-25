@@ -1,11 +1,11 @@
-const CleanCSS = require("clean-css");
-const { minify } = require("terser");
-const metagen = require("eleventy-plugin-metagen");
-const eleventyNavigation = require("@11ty/eleventy-navigation");
-const Image = require("@11ty/eleventy-img");
-const { EleventyHtmlBasePlugin } = require("@11ty/eleventy");
+import CleanCSS from "clean-css";
+import { minify } from "terser";
+import metagen from "eleventy-plugin-metagen";
+import eleventyNavigation from "@11ty/eleventy-navigation";
+import Image from "@11ty/eleventy-img";
+import { EleventyHtmlBasePlugin } from "@11ty/eleventy";
 
-module.exports = (eleventyConfig) => {
+export default (eleventyConfig) => {
 
   eleventyConfig.addPlugin(metagen);
   eleventyConfig.addPlugin(eleventyNavigation);
