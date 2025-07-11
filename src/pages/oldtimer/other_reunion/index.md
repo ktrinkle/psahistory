@@ -14,7 +14,7 @@ tags: "oldtimer"
 
 # PSA Oldtimers
 
-## 27th annual PSA Party - September 2025
+## 27th annual PSA Party - September 25, 2025
 ## PSA Reservations Reunion - October 25, 2025
 
 
