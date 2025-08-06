@@ -1,4 +1,3 @@
-import CleanCSS from "clean-css";
 import { minify } from "terser";
 import metagen from "eleventy-plugin-metagen";
 import eleventyNavigation from "@11ty/eleventy-navigation";
@@ -31,8 +30,7 @@ export default (eleventyConfig) => {
 
   eleventyConfig.addPassthroughCopy({"./src/favicon_data": "assets/favicon_data"});
 
-  eleventyConfig.addPassthroughCopy({ "./node_modules/bootstrap/dist/js/bootstrap.min.js": "assets/js/bootstrap.min.js" });
-  eleventyConfig.addPassthroughCopy({ "./node_modules/@popperjs/core/dist/umd/popper.min.js": "assets/js/popper.min.js" });
+  eleventyConfig.addPassthroughCopy({ "./node_modules/bootstrap/dist/js/bootstrap.bundle.min.js": "assets/js/bootstrap.bundle.min.js" });
   eleventyConfig.addPassthroughCopy({ "./node_modules/pdfobject/pdfobject.min.js" : "assets/js/pdfobject.min.js"});
 
   // Create terser JS Minifier async filter (Nunjucks)
@@ -78,7 +76,6 @@ export default (eleventyConfig) => {
     });
 
     let lowsrc = metadata.jpeg[0];
-    let highsrc = metadata.jpeg[metadata.jpeg.length - 1];
 
     const sources = `${Object.values(metadata).map(
       imageFormat => `<source type="${imageFormat[0].sourceType}" srcset="${imageFormat.map(entry => entry.srcset).join(", ")}" sizes="${sizes}">`
