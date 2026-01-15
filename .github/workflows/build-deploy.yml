@@ -15,7 +15,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Repo
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
 
       - name: Login to Azure
         uses: azure/login@v2.3.0
@@ -29,14 +29,14 @@ jobs:
       # since az login will control the access and we will remove anonymous.
 
       - name: Use Node
-        uses: actions/setup-node@v4
+        uses: actions/setup-node@v6
         with:
-          node-version: '20.x'
+          node-version: '24.x'
       
       - name: Install dependencies
         run: npm ci
      
-      - uses: actions/cache/restore@v4
+      - uses: actions/cache/restore@v5
         id: cache
         with:
           path: |
@@ -63,7 +63,7 @@ jobs:
           ls -alr ./src
 
       - name: Save cached files for next time
-        uses: actions/cache/save@v4
+        uses: actions/cache/save@v5
         with:
           path: |
             ./.cache
@@ -81,14 +81,14 @@ jobs:
 
       # bump version here
       - name: Create new version
-        uses: reecetech/version-increment@2024.4.3
+        uses: reecetech/version-increment@2024.10.1
         id: version
         with:
           scheme: calver
           increment: minor
 
       - name: Archive production artifacts
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v6
         with:
           name: built-site
           path: |
@@ -99,7 +99,7 @@ jobs:
     needs: build_and_test
     steps:
       - name: Download a single artifact
-        uses: actions/download-artifact@v4
+        uses: actions/download-artifact@v6
         with:
           name: built-site
 
