@@ -14,7 +14,7 @@ tags: "oldtimer"
 
 # PSA Party
 
-## 27th annual PSA Party - September 25, 2025
+## 28th annual PSA Party - September 24, 2026
 
 Begun as Ted Fritzges' retirement party, the PSA Party continues to offer the PSA family a chance to get together, dance, and party. 
 
